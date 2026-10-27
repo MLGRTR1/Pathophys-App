@@ -1,1 +1,1 @@
-{"name":"paper-practice","version":"1.0.0","private":true,"scripts":{"start":"node server.cjs","check":"node --check app.js"}}
+{"name":"paper-practice","version":"1.0.0","private":true,"scripts":{"start":"node server.cjs","check":"node verify.cjs","build":"node build.cjs"}}
