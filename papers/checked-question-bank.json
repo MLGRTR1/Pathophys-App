@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": "p2-page1-anemia",
+      "topic": "Anemia",
+      "paper": "Paper 2 · page 1 (duplicate on page 2)",
+      "question": "Choose correct statement/s about anemia of chronic diseases",
+      "options": [
+        "It is associated with decreased plasma concentrations of ferritin and transferrin",
+        "Hepcidin level increases due to pro-inflammatory mediators",
+        "Patients usually have severe iron deficiency and very low plasma iron level",
+        "IL 2 and IL 8 play a major role in the pathogenesis of this anemia",
+        "It can be caused by Crohn’s disease"
+      ],
+      "correct": [
+        1,
+        4
+      ],
+      "explanation": "The displayed Moodle feedback lists: “It can be caused by Crohn’s disease” and “Hepcidin level increases due to pro-inflammatory mediators.” This reproduces the source key."
+    },
+    {
+      "id": "p2-page3-pain",
+      "topic": "Pain",
+      "paper": "Paper 2 · page 3 · Question 8",
+      "question": "Choose the correct statement about pain",
+      "options": [
+        "Disorders of pain perception include allodynia, paraparesis and analgesia",
+        "Hypoxia of the internal organs can cause visceral pain",
+        "Colicky pain is typical for GERD",
+        "Trigeminal neuralgia usually causes nociceptive pain",
+        "Pain is a subjective symptom"
+      ],
+      "correct": [
+        1,
+        4
+      ],
+      "explanation": "The displayed Moodle feedback lists: “Hypoxia of the internal organs can cause visceral pain” and “Pain is a subjective symptom.” This reproduces the source key."
+    },
+    {
+      "id": "p3-page1-alkalosis",
+      "topic": "Acid–base balance",
+      "paper": "Paper 3 · page 1 · Task 10",
+      "question": "Hypochloremic metabolic alkalosis",
+      "options": [
+        "It develops in patients with diarrhea",
+        "It develops in patients with vomiting",
+        "It develops in patients with a NaCl intake of 5–8 g/day",
+        "It develops in patients with reduced absorption of HCO3− in the proximal tubules of the kidneys",
+        "It develops in patients with long-term starvation"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "The displayed Moodle feedback states: “It develops in patients with vomiting.” This reproduces the source key."
+    },
+    {
+      "id": "p3-page3-starvation",
+      "topic": "Nutrition and starvation",
+      "paper": "Paper 3 · page 3 · Task 5",
+      "question": "Choose the correct statement about stress starvation",
+      "options": [
+        "Ketone bodies are often elevated",
+        "Severe emotional stress (e.g. the death of a partner) is one of the most important causes",
+        "It is characterized by intense catabolism of proteins",
+        "Glucose level often increases",
+        "Insulin levels are usually decreased"
+      ],
+      "correct": [
+        2,
+        3
+      ],
+      "explanation": "The displayed Moodle feedback lists: “It is characterized by intense catabolism of proteins” and “Glucose level often increases.” The student selected only one of these. This reproduces the feedback, rather than the student’s selection."
+    },
+    {
+      "id": "jp-image2-q10-edema",
+      "topic": "Edema and body fluids",
+      "paper": "Japanese-drive image 2 · Question 10",
+      "question": "For classification of edema, following characteristic/s is/are used...",
+      "options": [
+        "Pitting and non-pitting",
+        "Primary and secondary lymphedema",
+        "Local and generalized",
+        "Acquired and inherited",
+        "Hyperosmolar and hypoosmolar"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "The displayed Moodle feedback lists local and generalized, pitting and non-pitting, and primary and secondary lymphedema. The student checked only the first and third options. This reproduces the feedback key."
+    }
+  ]
+}

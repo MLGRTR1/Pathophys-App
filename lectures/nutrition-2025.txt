@@ -1,0 +1,1514 @@
+=== PDF PAGE 1 ===
+Nutritional status disorders
+
+=== PDF PAGE 2 ===
+ Basal metabolic rate
+ Nutrition
+ Carbohydrates
+ Proteins
+ Lipids
+ Vitamins
+ Nutritional status assessment
+ Malnutrition
+ Marasmus
+ Kwashiorkor (kwashirkor-like syndrome)
+ Malabsorption
+
+=== PDF PAGE 3 ===
+Basal metabolic rate
+The lowest amount of energy expended to maintain vital processes in a 
+waking state
+physical and mental calm
+fasting state (12-14 hours)
+thermoneutral environment
+10% HIGHER RESTING METABOLISM
+https://www.calculator.net/bmr-calculator.html
+sleep -10%
+long-term starvation - 40% 
+Growth
+effort – up to 10x
+regeneration
+JOJO 
+efect
+DAILY ENERGY OUTPUT
+7 000-10 000KJ/day
+
+
+=== PDF PAGE 4 ===
+REGULATION OF METABOLIC PROCESSES
+ Nervous system – autonomic nervous system.For example, stimulation of the sympathetic nervous system leads to
+glycogenolysis.
+ Liver, blood sugar regulation (glucose storage, glycogen formation and breakdown, gluconeogenesis), protein synthesis
+(albumin, coagulation factors, plasma transport proteins, acute phase proteins, etc.), urea, lipids are stored in it, lipoproteins
+are formed there, cholesterol is excreted or synthesized into bile acids, it is a storage site for many vitamins, etc. Their
+detoxification function through hydroxylation reactions mediated by cytochromes P450 is significant, but it can be a source of
+toxic metabolites.
+ Digestive system – intake of water and food, its digestion and utilization, and excretion of certain substances. Lipoproteins
+called chylomicrons are formed in the intestine. The intestinal microbiota also has a significant influence on metabolic
+processes.
+ Muscle mass is an important site of energy consumption (glucose, fatty acids, ketone bodies) and a reservoir of proteins in case
+they are needed for the synthesis of other proteins (e.g., during inflammatory reactions or starvation). The main amino acid
+released by muscles is glutamine.
+ Adipose tissue is an important energy store in the form of fat droplets. In adipose tissue, androgens are converted to
+estrogens, and many cytokines – adipokines – are produced that interfere with food intake (e.g., leptin) or metabolism
+(adiponectin, resistin).
+ Bones (storage of substances, calcium reserves, buffering capacity for hydrogen ions).
+ Skin – thermoregulation, storage of subcutaneous fat, metabolism of certain substances (e.g., production of vitamin D).
+ The kidneys help maintain water and mineral balance and activate vitamin D through hydroxylation. Their excretory
+("cleansing") ability is important, as is their ability to reabsorb important substances that are filtered into primary urine
+(glucose, amino acids).
+ The respiratory and cardiovascular systems ensure an adequate supply of blood with oxygen and nutrients necessary for
+metabolism, as well as the removal of metabolic waste products.
+
+=== PDF PAGE 5 ===
+Hormones
+ Insulin increases glucose uptake into muscle and adipose tissue cells by affecting
+the membrane transporters for glucose GLUT4 and GLUT2 in hepatocytes. This
+reduces blood glucose levels, stimulates protein synthesis, glycogenogenesis, and
+lipogenesis, and inhibits lipolysis. Insulin suppresses appetite and induces the
+production of its antagonists in terms of their effect on blood glucose levels.
+ Glucagon increases blood glucose levels by increasing glycogenolysis and
+gluconeogenesis. Its concentration rises physiologically during fasting and is
+pathologically elevated in glucagonoma tumors.
+ Growth hormone (STH; somatotropic hormone) has a proteoanabolic effect. It
+increases glycemia by stimulating glycogenolysis and gluconeogenesis in the liver
+(causingthe development of insulin resistance) and also has a lipolytic effect.
+ Glucocorticoids mobilize energy resources for vital organs through catabolismof
+proteins in muscles (and also in the skin) and lipolysis in subcutaneous fat. In the
+liver, they have an anabolic effecton glycogen synthesis. They increase blood sugar
+levels primarily by reducing glucose utilization(causing insulin resistance) and
+stimulating glucogenesis in the liver. They are stress hormonesand are partly
+responsible for metabolic changes that occur in response to stress, including insulin
+resistance.
+
+=== PDF PAGE 6 ===
+ Thyroxine (T4) and triiodothyronine (T3), which is several times more effective, cause an
+overall increase in metabolism,increase oxygen consumption and heat production in
+most organs, sensitize tissuesto the effects of catecholamines (thus promoting lipolysis),
+and reduce blood cholesterol concentrations. Physiological concentrations have rather
+proteoanabolic effects, but excessive amounts of thesehormones have a catabolic effect.
+ Sex hormones have a predominantly anabolic effect, especially androgens (increased
+muscle mass,positive nitrogen balance).
+ Estrogens inhibit bone resorption, affect the subcutaneous distribution ofadipose tissue,
+lead to sodium and water retention, and interfere with cholesterol metabolism
+(protectiveeffect against atherosclerosis).
+ Progesterone has a thermogenic effect (increase in body temperatureduring the luteal
+phase of the ovarian cycle).
+ Cytokines, tissue hormones, and neurotransmitters interfere with metabolism at many
+levels.These include appetite regulators (e.g., leptin, neuropeptide Y),
+gastrointestinalhormones (cholecystokinin, etc.), adipokines (cytokines produced in
+adipose tissue), and inflammatorycytokines (e.g., IL-1, IL-6, TNF).
+https://www.youtube.com/shorts/IgB-6l4_UJg
+
+=== PDF PAGE 7 ===
+1. carbohydrates
+● 1g – 17kJ
+● In the diet 60% (50-80%)
+● 3-5g/kg/day
+simple
+carbohydrates
+1/6
+• monosaccharides – glucose, fructose, galactose
+• disaccharides – sucrose, lactose, maltose
+• fruit, honey, sugar cane and beet, milk, confectionery, sweetened
+beverages
+Complex
+carbohydrates
+5/6 
+• polysaccharides – glycogen, starch, fiber
+• potatoes, grains, legumes, vegetables, whole grain products
+Polysaccharides representing fiber (cellulose, hemicellulose, mucin, pectins, and others), which is not 
+absorbed (and therefore is not a source of energy), but has a number of beneficial effects on intestinal 
+activity (e.g., slows down the absorption of carbohydrates, reduces cholesterol absorption, and 
+prevents constipation).
+
+=== PDF PAGE 8 ===
+Functions of carbohydrates
+● IMMEDIATE ENERGY SOURCE (MAINLY BRAIN AND 
+ERYTHROCYTES) (glucose, fructose)
+● STORAGE SUBSTANCES (glycogen)
+● STRUCTURAL FUNCTIONS (glycoproteins, glycolipids)
+● COMPONENTS OF SOME MORE COMPLEX SUBSTANCES 
+(nucleic acids, hormones, coenzymes)
+● de novo synthesis from glycerol and AMK
+
+=== PDF PAGE 9 ===
+Indigestible complex sugars - fiber
+• absorbs water, swells – feeling of satiety
+• ferments
+• nutrient for microbial flora – prebiotic
+• Formation of usable MK = source of energy 
+• regulates the digestion of fats and carbohydrates
+• Pectin
+Soluble
+• does not ferment, is not a source of energy
+• increases volume in the intestines -> accelerates the passage of 
+waste and toxic substances, slows down the absorption of 
+cholesterol
+• lignin, cellulose
+Insoluble
+20-35g daylly
+1:3
+
+=== PDF PAGE 10 ===
+Glycemic index
+● the rate at which glucose is utilized by the body from a given food
+● the area under the glycemic curve during two hours after ingestion 
+of a given food, as PERCENTAGE OF PURE GLUCOSE INTAKE –
+GLUCOSE =100
+● Influenced by:
+– fiber content, food preparation, amount of chyme in the stomach
+Low GI less than 55 
+fruit, vegetables, 
+nuts, whole wheat
+bread ...
+Low GI less than 55 High GI – more than 70 
+cornflakes, boiled 
+potatoes, honey, 
+chips, beer ...not 
+suitable for diabetics
+DM type 2, 
+obesity
+better
+utilization of
+glucose
+
+
+=== PDF PAGE 11 ===
+2. proteins
+● 1g = 17kJ (23kJ - urea)
+● 10-15%, 0,8g/kg/day
+Function
+ VESSEL FILLING albumin 
+ BUILDING collagen, elastin, 
+keratin 
+ TRANSPORT AND STORAGE
+hemoglobin, transferrin
+ ENSURING MOVEMENT 
+actin, myosin
+ CATALYTIC, CONTROLLING, 
+REGULATING enzymes, 
+hormones, receptors… 
+ PROTECTIVE, DEFENSIVE 
+immunoglobulin, fibrin, 
+fibrinogen
+AA
+ESSENTIAL    
+SEMI-ESSENTIAL 
+NON-ESSENTIAL
+Oligopeptides
+(2-10AA)
+Polypeptides
+(11-50/100AA) 
+Vlastní 
+bílkoviny (up 
+to 50/100AA)
+The quality of proteins depends
+on their amino acid composition.
+A complete protein diet is one
+that contains all essential amino
+acids (lysine, leucine, isoleucine,
+valine, methionine,
+phenylalanine, tryptophan,
+threonine, and conditionally
+essential histidine and arginine).
+High-quality proteins must be
+easily digested and amino acids
+absorbed by the body. Amino
+acids consumed in excess are
+not stored in the body, but are
+degraded by metabolic
+processes (formation of urea),
+the carbon skeleton is used for
+the synthesis of glycides
+(gluconeogenesis) and fats, and
+oxidized to produce energy.
+
+=== PDF PAGE 12 ===
+Proteins – Dietary Reference Intake (DRI) 15%
+Childern
+• 0,9-2,7 
+g/kg/day
+Adult
+• 0,8 g/kg/day
+Seniors
+• 1,0-1,2 
+g/kg/day
+Nursing
+mothers
+• 1,5 g/kg/day
+Athletes
+• 1,6-2,2 
+g/kg/day (on 
+anabolic 
+steroids even 
+more)
+Liver and kidney disease - individually depending on health condition
+
+
+=== PDF PAGE 13 ===
+Proteins - ureasynthetic cycle
+ urea 
+ uremia (normal blood level 1.7-7.3mmol/l) 
+ increased protein intake 
+ catabolism 
+ kidney failure
+AA
+purines and pyrimidines 
+heme synthesis 
+colon bacteria
+AMONIAK, 
+NH4
+LIVER
+resorption of water and ions
+UREA
+URINE
+SWEAT
+
+=== PDF PAGE 14 ===
+https://books.google.cz/books?id=XUkhYLAC3HwC&pg=PA170&lpg=PA170&dq=synt%C3%A9za+hemu+a+produkce+amoniaku&source=bl&ots=xlfusD_egN&sig=hYJrVOYr4_keIgAVcalQzLhy3VA&hl=cs&sa=X&ved
+=2ahUKEwi6n86E--7dAhWDh6YKHZmOAe0Q6AEwAnoECAcQAQ#v=onepage&q&f=false
+
+=== PDF PAGE 15 ===
+3. lipids
+● 1g = 38kJ
+● 0,7–1,2g/kg/day
+● < 30%
+ Simple fats and oils, 
+waxes
+Composite
+Phospholipids, 
+glycolipids, 
+lipoproteins
+Function:
+CELL MEMBRANES
+SOLVENT OF VITAMINS
+COMPONENT OF HORMONES
+cholesterol
+FORMATION OF GIT
+THERMAL INSULATION
+ENERGY RESERVE more than 50,000 kJ
+Potrava – FA from:
+triacylglyceroles (90%)
+phospholipides
+Cholesterol esters
+Lipids are the most energy-rich nutrient, a
+carrier of fat-soluble vitamins and a source
+of essential fatty acids.
+All cells in the body, with the exception of
+cells of the central nervous system and
+erythrocytes, can directly use fatty acids as
+a source of energy.
+The composition of lipids in food,
+especially the content of saturated or
+unsaturated fatty acids, plays an important
+role.
+
+=== PDF PAGE 16 ===
+4. Minerals
+Calcium, Ca Formation of bones and teeth, participates in nervous activity
+Magnesium, Mg Helps in bone formation, participates in nerve activity
+Draslik, K Maintains ion balance, participates in nervous activity
+Sodium, NaMaintains ion balance, participates in nervous aktivity
+5. MICRONUTRIENTS AND TRACE ELEMENTS(Fe, I, Cu, Se, Cr, Mn, Mo, Co, F..)
+Fe - An essential part of hemoglobin
+I - Essential for thyroxine (thyroid hormone)
+Cu – collagen, elastin
+Se – antioxidant, THYROID hormone metabolism, deficiency – cardiomyopathy
+Cr – stimulatory effect of insulin
+Zn – forms the core of the insulin molecule
+Mn – oxidative phosphorylation (metabolism of fats)
+Mo – metabolism of purines
+Co – B12, leafy vegetables
+
+=== PDF PAGE 17 ===
+6. Vitamins
+ The organism is dependent on the intake of vitamins or their precursors through food. Only small amounts of
+some vitamins can be formed endogenously: vitamin D from steroid precursors, vitamin K and biotin by
+intestinal microflora.
+ For fat-soluble (A, D, E, K), maldigestion or malabsorption of fats leads to combined hypovitaminosis;
+reserves in body fat (especially in the liver) prevent the development of deficiency symptoms for a long time
+(this applies especially to vitamins A and D); with excessive intake, their accumulation occurs and toxic
+manifestations of hypervitaminosis may occur.
+ Water-soluble vitamins (B, C) are in minimal reserves in the organism and with excessive intake, they are
+rapidly excreted by the kidneys and do not accumulate in the organism, on the contrary, hypovitaminosis
+develops faster for the same reasons. The exception is vitamin B12, whose reserves in the liver are sufficient
+for several years.
+ Hypovitaminosis
+ insufficient intake of the vitamin through food; e.g. vitamin D deficiency in breast milk, B1 deficiency in areas where
+the main food is peeled rice, vitamin B12 deficiency
+ insufficient endogenous vitamin production; e.g. intestinal dysmicrobia, lack of UV radiation
+ impaired resorption (impaired emulsification of bile fats, malabsorption syndrome of various etiologies, selective
+impaired resorption of vitamin B12 in pernicious anemia)
+ congenital or acquired disorder of vitamin metabolism at the level of its storage, transport or conversion into the active
+form (e.g. vitamin D-resistant rickets type I with a defect in the formation of 1,25-(OH)2-vitamin D3 in the kidneys)
+ resistance to the vitamin (e.g. vitamin D-resistant rickets type II in the absence of the receptor for 1,25-(OH)2-vitamin
+D3)
+ increased need for the vitamin (during growth, pregnancy, hyperthyroidism, malignancies, etc.)
+
+=== PDF PAGE 18 ===
+Deficiency of water-soluble vitamins
+ Vitamin B1 (thiamin) 
+ is lost during processing (peeled rice, white sugar)
+ Vitamin B1 is active in the form of thiamine pyrophosphate and acts as a cofactor in the oxidative 
+decarboxylation of γ-keto acids. maintains normal function of peripheral nerves.
+• polyneuropathy (dry form) caused by degradation of the myelin sheaths of motor and sensory 
+nerve fibers, especially in the lower extremities; it is manifested by paresthesias, muscle weakness 
+and hyporeflexia
+• cardiovascular syndrome (wet form) with hyperkinetic circulation caused by vasodilation of 
+arterioles; edema may be present, the heart may (but may not) be extremely dilated
+• Wernicke-Korsakoff syndrome is an encephalopathy with ophthalmoplegia, nystagmus, ataxia, 
+apathy, disorientation and even psychotic disorders. There are small hemorrhages and degenerative 
+changes of neurons in some parts of the brain.
+BERI-BERI Korsakoff's
+psychosis
+SE ASIA ALCOHOLICDRY FORM 
+demyelinisation
+WET FORM
+hyperkinetic circulation
+
+
+=== PDF PAGE 19 ===
+ Vitamin B2 (riboflavin)
+ Riboflavin, as a part of the coenzymes flavin mononucleotide and flavin adenine dinucleotide, participates in a
+number of oxidation-reduction reactions
+ Vitamin B2 deficiency is associated with a deficiency of other vitamins and proteins-> developing countries
+ In alcoholics and in patients with chronic infections or advanced malignancies.
+ Deficiency is manifested by cheilosis (rhagades of the corners of the mouth, secondarily infected), atrophic
+glossitis, keratitis and dermatitis.
+ source: meat, milk, eggs, yeast, vegetables
+ Vitamin B6 (pyridoxin)
+ This coenzyme is a cofactor for a number of transamination, carboxylation and deamination enzymes in amino
+acid metabolism and glycogen, necessary for the production of serotonin
+ Vitamin B6 is present in practically all foods, but it can be lost during their processing.
+ Secondary hypovitaminosis occurs with long-term use of drugs that act as pyridoxine antagonists
+(antituberculosis drug isoniazid, estrogens, penicillamine).
+ Alcoholics suffer from vitamin B6 deficiency because acetaldehyde, potentiates the degradation of pyridoxine.
+ The need for vitamin B6 is increased during pregnancy.
+ The symptoms of vitamin B6 deficiency are similar to hypovitaminosis B2 – seborrheic dermatitis, cheilosis,
+glossitis, peripheral neuropathy.
+
+=== PDF PAGE 20 ===
+Vitamin B12 (cobalamin) 
+= complex of organic compounds
+containing a cobalt atom inside a
+circular molecule
+Absorption:
+ In the stomach, binding to the GP
+group complex – R-binder
+ in the duodenum, cleaved and
+bound to IF (intrinsic factor)
+ in the distal ileum, resorbed after
+binding to specific receptors –
+cubilin -> by endocytosis
+Total reserves of 4mg (1/2 in the
+liver, the rest in the bone marrow
+and elsewhere) last for 3-6 years
+DOI: https://doi.org/10.1503/cmaj.1031155
+
+=== PDF PAGE 21 ===
+Deficiency – causes + symptoms
+ Vitamin B12 deficiency is primarily a consequence
+of malabsorption
+ In our conditions, the main cause is a deficiency of
+intrinsic factor (IF) due to an autoimmune reaction
+against the parietal cells of the stomach ->
+atrophic gastritis with achlorhydria-> pernicious
+anemia
+ IF deficiency occurs after gastrectomy and some
+bariatric operations and with reduced HCl
+production in the stomach
+ anatomical intestinal lesions (strictures and
+fistulas)
+ pseudo-obstructive intestinal conditions with
+significantly reduced intestinal motility
+(neuropathy in diabetes mellitus, scleroderma) ->
+massive colonization of the small intestine by
+bacteria that consume vitamin B12
+ resection of the terminal ileum (Crohn's disease)
+ MTHFR polymorphism-> enzyme with reduced
+activity. This may predispose to higher levels of
+homocysteine, which is one of the risk factors for
+atherosclerosis.
+impaired DNA synthesis and cell division 
+ MEGALOBLASTIC ANEMIA
+ leukopenia, thrombocytopenia
+ glossitis, cheilosis, atrophy
+ anorexia, diarrhea, dyspepsia
+ Deficiency of methionine -> DEMYELINIZATION 
+ paresthesias in the extremities, later weakness,
+ataxia, sphincter disorders, slow reflexes
+(peripheral neuropathy and spinal cord
+degeneration) to severe dementia or psychosis
+ These neurological disorders can also occur in 
+patients without hematological symptoms
+neuroanemic syndrome
+
+
+=== PDF PAGE 22 ===
+Vit. C (Ascorbic acid ) 
+ in milk, animal products (liver, fish), fruits and vegetables
+ Antioxidant, hydroxylation of procollagen
+ elderly people living alone or in alcoholics, peritoneal dialysis or
+hemodialysis
+ Def: collagen formation, Fe absorption
+ Wound healing is impaired and scar strength is reduced
+ Vitamin C deficiency in its advanced form is referred to as scurvy and
+is manifested by bone disorders in growing individuals (osteoid matrix
+formation disorder, Möller-Barlow disease), subperiosteal
+hematomas, skin hemorrhages, gingivitis, and recurrent bacterial
+infections
+http://www.bbc.com/news/uk-england-37320399
+Folic acid B9
+ mainly found in vegetables and fruit
+ only small folate stores, so a constant and sufficient intake through food is necessary
+ increased need – pregnancy (cleft lip, cleft palate, neural tube), growth, hemolytic anemia, cancer
+ most common causes of hypovitaminosis include insufficient intake, especially in alcoholics
+ Hypovitaminosis due to malabsorption is part of malabsorption syndromes (gluten enteropathy, tropical
+sprue).
+ Folate from the diet must first be converted into its active form - tetrahydrofolate (THF). This reaction is
+catalyzed by the enzyme dihydrofolate reductase, which can be inhibited by some drugs (e.g., methotrexate),
+and its blockade can induce symptoms of folic acid hypovitaminosis
+ megaloblastic anemia, glossitis, cheilosis, dyspeptic disorders, neurological symptoms are not present
+
+=== PDF PAGE 23 ===
+Deficiency of fat-soluble vitamins
+Vitamin A (retinol, retinal, retinoic acid and carotenoids – provitamins A)
+ food of animal origin (liver, fish, eggs, milk), vegetables (spinach, carrots) contain carotenoids (carotenes)
+ digestion and absorption of carotenes requires the presence of bile and pancreatic enzymes
+ 90% of vitamin A in the liver (6 months)
+ part of the pigments rhodopsin and iodopsin in the retina -> vision adaptation to lack of light
+ EPITHELIAL DIFFERENTIATION – MAINLY DURING EMBRYOGENESIS
+ ANTIOXIDANT
+Lack:
+ night blindness
+ Keratinization of the corneal and conjunctival epithelium is manifested by their dryness (xerophthalmia), 
+the formation of erosions and even destruction of the cornea (keratomalacia) with loss of vision
+ squamous metaplasia of the epithelium and its keratinization 
+ respiratory tract epithelium loses its protective antibacterial properties ->relapses of bronchitis and 
+bronchopneumonia
+ urinary tract epithelium ->higher frequency of urolithiasis
+Excess:
+ toxic manifestations 
+ Acute -headaches, vomiting, stupor
+ Chronic -weight loss, vomiting, bone and joint pain, hyperostosis, and hepatomegaly
+ pregnancy – teratogen in smokers: risk of tumor formation (bronchogenic cancer)
+
+
+=== PDF PAGE 24 ===
+Vitamin D
+ skin exposed to ultraviolet radiation (vitamin D3) 80%, sea fish and
+vegetables
+ In the plasma bound to D-binding protein
+-> liver->conversion to 25-hydroxyvitamin D
+->kidneys-> active form 1,25-dihydroxyvitamin D (1,25(OH)2D(steroid
+agent)
+->binds to specific intracellular receptors (intestine, bones, skin and
+kidneys)-> maintain normal plasma calcium levels (neuromuscular activity,
+phosphate levels)
+ 1,25(OH)2D stimulates the intestinal absorption of calcium and
+phosphates, together with parathyroid hormone mobilize bone calcium->
+parathyroid hormone-dependent reabsorption of calcium in the distal
+tubules of the kidneys
+
+
+=== PDF PAGE 25 ===
+Hypovitaminosis:
+ combination of vitamin D deficiency in the diet and lack of UV radiation, peripheral resistance
+is rare
+ impaired resorption in the intestine (cholestasis, pancreatic insufficiency, celiac disease)
+ insufficient hydroxylation (hepatic, renal insufficiency, congenital vitamin D-dependent rickets
+type I)
+ impaired ossification of newly formed osteoid and an excess of unmineralized matrix
+ During grow-skeletal deformations (skull deformation, rachitic rosary of ribs, saber-shaped
+tibia, triangular shape of pelvic bones) RACHITIS: COMPLETE DISORDER OF SKELETAL
+MATURATIONAND FORMATION
+ Adult- insufficient mineralization interferes with the normal course of bone remodeling ->
+bone is weak, risk of fractures (osteomalacia).
+ Laboratory hypocalcemia- increased bone turnover
+ reduced resistance to infectious diseases -> metabolic syndrome and autoimmune diseases,
+including type 1 diabetes.
+Hypervitaminosis
+ hypercalcemia
+ prolonged, causes excessive bone resorption
+ Endogenous vitamin D production is increased in some granulomatous diseases (sarcoidosis)
+https://www.dreamstime.com/stock-illustration-causes-rachitis-most-common-
+image69147405
+
+=== PDF PAGE 26 ===
+Vitamin E
+ a group of eight similar lipophilic compounds
+ abundantly present in food (vegetables, meat)
+ absorption is dependent on bile and pancreatic enzymes->resorbed vitamin E is
+transported into the blood in chylomicrons and becomes part of lipoproteins, especially
+LDL->is stored in a number of tissues, especially in fat, but also in muscles and the liver
+ Hypovitaminosis due to malnutrition is not known in developed countries
+ antioxidants -scavengers of free oxygen radicals.
+ prevention of atherogenesis ? (pro and con)
+ gamete formation
+Hypovitaminosis:
+ in lipid malabsorption (cholestasis, pancreatic insufficiency, primary diseases of the small
+intestine)
+ in the rare abetalipoproteinemia
+ nervous system disorders (reflex disorders, position and vibration sensation, pain
+perception, muscle weakness, vision disorders).
+ decreased immunity, infertility
+ in newborns anemia
+
+
+=== PDF PAGE 27 ===
+Vitamin K 
+ synthesized by the intestinal flora, small exogenous intake through food is 
+necessary 
+ cofactor of hepatic microsomal gamma-glutamyl carboxylase, which converts 
+glutamyl residues to γ-carboxyglutamate
+ creates a binding site for calcium
+ VIT. K DEPENDENT PROTEINS
+ essential for coagulation (anticoagulants ) factors (II, VII, IX, X, proteins C and S) 
+ Needed for carboxylation of osteocalcin present in osteoid
+ In the absence of vitamin K, coagulation factors are still produced in the liver, 
+but in a non-functional form
+Lack:
+ deficiency due impaired fat resorption, liver failure or drug-induced 
+hypovitaminosis
+ Iatrogenic induced by dicumarol preparations (warfarin)
+ Long-term treatment with dicumarol -> higher risk of developing osteoporosis
+ BLEEDING
+carboxylation
+Ca2+ binding
+
+=== PDF PAGE 28 ===
+MALNUTRITION
+ OBESITY
+NUTRITION
+QUALITATIVELY UNBALANCED FOOD
+
+=== PDF PAGE 29 ===
+Malnutrition diagnostics
+SGA = subjective global assessment
+ patient eats a not healthy diet in which one or more nutrients are either not enough or are too much 
+ The aim is to identify malnourished patients or patients at risk of malnutrition/ 6 months
+well-fed weight loss 10 %
+without somatic 
+and functional 
+signs of 
+malnutrition
+slightly
+malnourished
+ 10 % somatic signs of 
+malnutrition
+severely
+malnourished
+ 15 % somatic signs of 
+malnutrition
+functional signs 
+of malnutrition
+Somatic: Loss of muscle mass: temporomandibular region, limb muscles, Loss of body fat, Skin
+changes: loss of skin turgor, peeling skin, hair color changes, Swelling, hepatomegaly (steatosis)
+Functional: immunodeficiency, atrophy with reduced function – bradycardia, hypotension
+
+=== PDF PAGE 30 ===
+Malnutrition
+reduced appetite
+Infertility
+lack of interest in food and drink
+hypothyroidsm
+feeling tired all the time
+feeling weaker
+getting ill often and taking a long time to 
+recover
+anemia
+wounds taking a long time to heal
+poor concentration
+feeling cold most of the time
+low mood, sadness and depression
+
+=== PDF PAGE 31 ===
+1. Assessment of fat stores
+Anthropometry
+BMI
+waist circumference
+mid-arm
+circumference
+skinfold
+Bioimpedance
+low intensity, 
+high frequency 
+current
+Ultrasound
+visceral fat
+
+=== PDF PAGE 32 ===
+Body mass index (BMI)
+Obesity is defined as a body mass index (BMI) that exceeds 30 kg/m2 and generally
+develops when caloric intake exceeds caloric expenditure in genetically susceptible
+individuals.
+Waist-to-hip ratios is useful in visceral and peripheral obesity
+Obesity is a risk factor for hypertension, stroke, hyperlipidemia, gallstones, nonalcoholic
+steatohepatitis, gastroesophageal reflux, osteoarthritis, infectious disease, asthma, and
+obstructive sleep apnea.
+
+=== PDF PAGE 33 ===
+2. Assessment of protein reserves
+ Body protein
+ muscle (30%)
+ visceral (70%) prealbumin, albumin, transferrin, …
+ I. MEASUREMENT OF ARM CIRCUMFERENCE
+ II. CREATININE
+ is formed from creatine only in muscle
+ is not reused
+ is excreted only in urine
+ increased excretion during physical exertion, acute illness, meat intake
+ NITROGEN BALANCE
+
+=== PDF PAGE 34 ===
+Nitrogen balance
+= nitrogen intake - nitrogen excretion
+ nitrogen intake
+ food (enteral, parenteral nutrition)
+ nitrogen excretion
+ URINE - urea, creatinine-> laboratory measurement
+ STOOL - exfoliated epithelia, digestive enzymes, undigested dietary proteins
+ SKIN - exfoliated epithelia
+balanced
+• adult healthy person
+positive
+• growth in childhood and 
+puberty, pregnancy, 
+recovery from illness
+negative
+• injury, serious illness, 
+malnutrition (lack of 
+energy and/or protein)
+INTAKE
+EXPENDITURE catabolism
+
+=== PDF PAGE 35 ===
+hunger center (VL)    and    satiety center (VM)
+OREXIGENIC SUBSTANCES ANOREXIGENIC SUBSTANCES
+Ghrelin
+Peripheral organs, hypothalamus
+Cholecystokinin (CCK)
+GIT
+Neuropeptide Y(NPY)
+hypothalamus
+Glucagon-like peptide
+GIT
+Orexin A/orexin B
+Hypothalamus/ GIT
+Peptide YY(PYY3-36)
+GIT
+Endocannabinoid substances
+Hypothalamus, periphery
+Leptin
+Adipose tissue, hypothalamus, brainstem
+Somatoliberin Adiponectin, 
+• complex interaction of neurotransmitters with either orexigenic (resulting in obesitogenic) or anorexigenic 
+(leptogenic, i.e. slimming) effects 
+• The satiety center is stimulated immediately after a meal by stomach distension-> satiety center is also 
+influenced by hormones released from the stomach wall, intestine and pancreas
+• Suppression of appetite by the postprandial rise in blood glucose
+• satiety regulation by protein intake
+• sugars have only a short-term effect 
+• long-term regulation -the total body fat mass is used as a hormonally active tissue-> humoral signal sent by 
+a fat cell is the hormone leptin. Leptin production is directly proportional to the amount of body fat. 
+• pain and some medications can decrease appetite
+Insulin
+
+=== PDF PAGE 36 ===
+SIMPLE starvation
+ SHORT-TERM FASTING
+ Within 72 hours
+ glycogen depletion (<48h)
+ Catecholamines and GC
+ glycogenolysis, 
+gluconeogenesis
+ LONG-TERM FASTING
+ Adult patients can usually survive more 
+than 3 weeks, consuming only water 
+ More than three days 
+ energy expenditure decreases by 40% 
+ DECREASE IN THYROID HORMONES
+ DECREASE IN GC AND CA 
+ lipolysis increases
+ ketone bodies in the liver (source for 
+CNS) – decrease in pH
+ proteins are saved 
+ 40th day proteocatabolism
+
+
+=== PDF PAGE 37 ===
+ketogenesis
+
+=== PDF PAGE 38 ===
+Malnutrition
+• = tumor emaciation, inability of tissues to 
+adequately utilize nutrientsCACHEXIA
+• simple starvation – energy malnutrition in 
+childrenMARASMUS
+• protein deficiency –– protein malnutritionKWASHIORKOR 
+• stress starvationKWASHIORKOR LIKE 
+SY 
+• Mixed, in adultsPROTEINO – ENERGY 
+MALNUTRITION (PEM)
+• micronutrient deficiency (hypovitaminosis,…)DEFICIENCY
+
+
+=== PDF PAGE 39 ===
+MARASMUS
+ Below 60% of weight for age
+ malnutrition - balanced deficiency of essential nutrients and energy, i.e. 
+proteins and fats 
+ uniform loss of subcutaneous fat and skeletal muscle
+ simple starvation
+ anorexia nervosa
+ overall decreased metabolism
+ TISSUE ATROPHY:
+ BRADYCARDIA, HYPOTENSION
+ dry thin skin, thin, falling hair
+ MUCOSA ATROPHY:
+ Chronic diarrhea
+ SECONDARY MALABSORBATION – T and B immunodeficiencies, 
+anemia, osteopathy
+ patient dies from organ failure or infection
+ NORMAL VISCERAL PROTEINS
+
+
+=== PDF PAGE 40 ===
+KWASHIORKOR
+● diet poor in complete proteins-> deficiency of one or more essential amino acids
+->DECREASE IN VISCERAL PROTEINS, LYMPHOCYTES
+● Energy intake may be adequate-energy source is predominantly carbohydrates
+● Normal appearance and weight, preserved fat stores
+● children in developing countries (predominantly corn or rice diet lacks the amino acid
+tryptophan)
+● Hypalbuminemia causes edema and ascites with general emaciation- Pitting edema with
+swelling of the ankles and feet
+● Protruding belly- Enlarged liver with fatty infiltrates
+● INFECTION, secondary immune disorders
+● MUSCLE ATROPHY
+● loss of appetite, vomiting, persistent diarrhea
+● growth disorders, change in the quality of skin, hair, nails, teeth
+
+
+=== PDF PAGE 41 ===
+kwashiorkor x   marasmus
+http://www.imgrum.org/tag/kwashiorkor/J0HV4d7kAAAAF0HVztaAwAAAFiYA
+
+
+=== PDF PAGE 42 ===
+kwashiorkorlike sy – stress starvation
+ develops rapidly
+ Stress: GC
+ IMMUNOSUPRESSION
+ Intensive protein katabolism- LOSS OF MUSCLE MASS + VISCERAL 
+PROTEINS
+ HYPOALBUMINEMIA
+ ECT expansion, fluid retention
+ false weight gain
+ hepatomegaly
+ hyperglycemia, hyperinsulinemia - insulin resistance
+ skin and hair changes
+ Therapy: amk supply to reduce negative nitrogen balance
+
+=== PDF PAGE 43 ===
+death
+
+=== PDF PAGE 44 ===
+P
+Mg2+
+K+
+Refeedingsyndrom
+ a set of metabolic abnormalities arising as a result of the restoration of food 
+intake
+ glucose + insulin into cells, restoration of ATP pump function
+ decrease in serum levels of
+ PHOSPHATES
+ MAGNESIUM
+ POTASSIUM
+ Manifestations:
+ muscle weakness
+ water and sodium retention
+ psychiatric changes and paresthesia
+ up to malignant arrhythmia and heart failure
+ATP
+GLU
+
+=== PDF PAGE 45 ===
+Anorexia nervosa
+ psychogenic disorders of body image
+ purposeful reduction in body weight by restricting food intake (sometimes associated with vomiting,
+abuse of diuretics, laxatives or thyroid hormones)
+ chronic disease that leads to insufficient nutrient intake, secondary endocrine and metabolic
+changes and disruption of bodily functions.
+ Physical manifestations correspond to malnutrition, but a striking difference is voluntary physical
+hyperactivity as an additional tool for maintaining low body weight.
+ Body weight is reduced by more than 15% compared to normal, BMI>18.5
+ All components of the sex hormone axis are suppressed
+ Reduced estrogen production in women is manifested by amenorrhea and the long-term
+development of osteoporosis. Hypercortisolemia and insufficient calcium intake also contribute to
+osteoporosis.
+ The suppression of the sexual axis in men leads to infertility and loss of libido. The production of
+thyroliberin (TRH), thyrotropin hormone (TSH), thyroxine (T4) and especially triiodothyronine (T3) is
+reduced, along with a corresponding increase in rT3 (the so-called low T3 syndrome). However,
+clinical manifestations typical of hypothyroidism are absent and the thyroid gland responds normally
+to a functional stimulation test.
+ delayed gastric emptying, dilatation of the jejunum, and constipation.
+ Higher death rate than bulimia
+
+
+=== PDF PAGE 46 ===
+Orthorexia nervosa
+ mental illness that can be translated as the right taste (from the
+Greek orthos = correct, orexis = taste). It is a pathological obsession
+with healthy nutrition and biologically pure foods, which is why it is
+also classified as an eating disorder.
+Consequences
+ the body is deprived of a large number of important substances and
+vitamins
+ significant weight loss occurs
+ they constantly think about food in their thoughts
+ over time, they only consume food that they have prepared
+themselves
+ they often convince those around them of the harmfulness of
+commonly available foods
+
+=== PDF PAGE 47 ===
+bulimia nervosa
+ Mental illness, WITHOUT WEIGHT LOSS
+ episodes of overeating (bing eating), guilt
+ VOMITING, LAXATIVES, DIURETICS ->LOSS OF K+
+ Esophageal irritation – inflammation, erosion to bleeding
+ Effect of NEUROPEPTIDES (cholecystokinin, endorphins, …)
+ Teeth, nails tooth loss, brittle nails
+ Internal environment
+ METABOLICAL ALKALOSIS WITH HYPOKALEMIA, loss of Cl- and H+ arrhythmia
+ Kidneys KALIOPENIC NEPHROPATHY
+ GIT Degeneration of the myenteric plexus (laxatives), Mallory-Weiss
+Syndrome
+
+=== PDF PAGE 48 ===
+malabsorption
+Celiac disease
+Lactose intolerance
+
+=== PDF PAGE 49 ===
+Malabsorption syndrome (malasimilatory)
+● MALDIGESCENCE
+● Disorder of intraluminal DIGESTION
+● MALABSORPTION
+● Impaired ABSORPTION of nutrients
+● Abnormal secretion of digestive juices
+● Severe disturbance of motility of the digestive 
+tract
+● Insufficient food intake
+● decreased resorption of both water and ions
+● insufficient lipolysis
+● Steatorrhea (impaired pancreatic secretion, 
+accompanied by a lack of fat soluble vitamins)
+
+
+=== PDF PAGE 50 ===
+Malabsorption
+ Primary
+ at the enterocyte level
+ COELIA DISEASE
+ DISACCHARIDASE DEFICIENCY 
+(lactase deficiency)
+ TROPICAL SPRUE
+ CARBOHYDRATE TRANSPORT 
+DISORDERS (glucose and galactose
+malabsorption, fructose
+malabsorption)
+ AMINO ACIDS TRANSPORT 
+DISORDERS (cystinuria)
+ Secondary
+ PANCREATIC MALDIGESTION AND 
+MALABSORPTION (disturbance in the
+pancreatic secretion)
+ WHIPPLE'S DISEASE
+ blind loop syndrome
+ SHORT BOWEL SYNDROME
+ POSTRADIATION ENTERITIS AND 
+COLITIS
+ disturbance in the bile secretion
+
+=== PDF PAGE 51 ===
+Celiac disease, celiac sprue, gluten enteropathy
+ ↑permeability of the
+intestinal mucosa to gliadin
+ TISSUE TRANSGLUTAMINASE
+ transfer of glutamyl residue, 
+high specificity for gliadin
++ deamination: ->NEW 
+PEPTIDES = antigen -> binding
+to HLA DQ2/8 (macrophage)
+ T,B-LYMPHOCYTES
+ proinflammatory cytokines, 
+antibodies
+ inflammatory reaction
+ DEVASTION OF 
+JEJUNUM AND ILEUM
+↑PERMEABILITY
+DEAMINATION
+
+=== PDF PAGE 52 ===
+DIARRHEA, FAILURE TO BRING, GROWTH ARRESTED
+ In the 6th-18th month of life
+Atypical:
+ more than 50% may not have intestinal problems or diarrhea
+? DERMATITIS HERPETIFORMIS DUHRING
+ bullous skin disease (IgA)
+ iron deficiency anemia, growth retardation
+ Hepatopathy, osteoporosis, intestinal findings consistent with celiac disease
+ASYMPTOMATIC FORM
+ no intestinal or extraintestinal symptoms
+ lower physical performance,
+ easier fatigue, tendency to depression, 
+ iron deficiency without anemia
+ Bloating as a side effect of gluten
+ GLUTEN-FREE DIET
+
+
+=== PDF PAGE 53 ===
+LACTOSE INTOLERANCE 
+ LACTOSE = GALACTOSE + GLUCOSE 
+ selective malabsorption disorder
+ Congenital deficiency X Acquired
+defect
+❖ PRIMARY 
+gradual decrease in gene 
+expression
+❖ SECONDARY 
+decreased activity in 
+intestinal diseases, 
+ADMINISTRATION OF ATB
+PLANT MILK
+DISACCHARIDASE DEFECT –
+LACTASE 
+• inducible enzyme 
+activity increases after
+consumption of lactose
+UNABSORBED LACTOSE 
+LACTIC ACID, CO2 , CH4 
+• osmotic diarrhea, flatulence 
+• abdominal pain, sour-smelling stool
+BACTERIAL MICROFLORA
+
+=== PDF PAGE 54 ===
+Clinically
+ DIARRHEA
+ WEIGHT LOSS
+ WEAKNESS AND INEFFICIENCY
+ ANEMIA
+ EDUMS, MUSCLE ATROPHY
+ HAEMORRHYMATIC DISORDERS
+ SKIN, HAIR, NAIL DISORDERS
+ MENSTURAL DISORDERS, INFERTILITY
+ OSTEOPOROSIS, PARESTHESIA/TETANIA
+
+=== PDF PAGE 55 ===
+http://pfyziolklin.upol.cz/?p=4356
+
+
+=== PDF PAGE 56 ===
+ Obesity is a syndrome characterized by excessive accumulation of energy reserves in the form 
+of body fat. 
+ excess of fat reserves stored outside of physiological adipose tissue, which increases health 
+risks and shortens life expectancy
+ social, neuropsychic, metabolic and endocrine factors
+ genetic predispositions 40% 
+ social and psychological (family tradition, preference for fatty and sweet foods, psychological 
+stress)
+ metabolic (various resting and postprandial energy expenditure, spontaneous physical activity, 
+lipoprotein lipase activity, expression of β3-catecholamine receptors)
+ endocrine (insulin production, insulin sensitivity, cortisol, growth hormone, sex hormones).
+Primary-Risk periods -periods of
+hormonal changes –puberty,
+pregnancy and postpartum,
+menopause, andropause.
+Obesity= hormonal imbalance
+INSULIN
+LEPTIN
+ADIPONECTIN
+
+
+=== PDF PAGE 57 ===
+Secondary obesity 
+only 3–5%
+ accompanies treatment with some drugs that interfere with lipid and energy metabolism and central
+regulation of food intake
+ hormones with lipo-anabolic effect consists of cortisol, insulin and estrogens. Their pathological excess is
+therefore often associated with obesity. Lipo-catabolic hormones include glucagon, STH and catecholamines
+(acting via β2 and β3 receptors).
+ Cushing's syndrome – hypercortisolism manifests itself both by increasing appetite and increasing visceral fat
+deposition-moon-shaped face, fat deposition on the neck, supraclavicular and abdominally.
+ Hypothyroidism – obesity is associated with reduced energy consumption; however, hypothyroidism does not
+lead to severe obesity, the weight gain does not exceed 5–10 kg.
+ Insulinoma – hyperinsulinemia stimulates food intake with recurrent hypoglycemia (however, most patients
+with islet tumors of Langerhans are not obese).
+ Hypogonadism.
+ Hypothalamic obesity is a rare type of obesity in which the function of the ventromedial centers of the
+hypothalamus is genetically determined or acquired (tumors, radiation, surgery, inflammation) is altered.
+ Obesity develops in childhood and is the result of a combination of dysfunction of the hypothalamic centers of
+food intake and hormonal disorders promoting obesity (hypogonadism, STH deficiency)
+ There are also monogenic types of obesity resulting from a genetically determined disorder of the formation of
+a mediator or its receptor, leptin, leptin receptor, POMC, etc.
+
+=== PDF PAGE 58 ===
+obesity in children 
+ Predisposing factors and lifestyle 
+ Intrauterine development and 
+ prepuberty and puberty, especially in girls.
+ early onset of its metabolic complications. 
+ Hyperlipidemia
+ arterial hypertension
+ Hepatic steatosis
+ impaired glucose metabolism
+
+=== PDF PAGE 59 ===
+Endocrine activity of adipose tissue and systemic 
+inflammation
+ fat cells -> the target organ of cortisol, insulin, STH, sex hormones, thyroid hormones, 
+etc.
+ In men and postmenopausal women, is adipose tissue the main source of estrogens, 
+which block osteoclastic bone resorption and slow down the development of 
+osteoporosis 
+ In obese women, excess estrogen can lead to ovarian cycle disorders. 
+ Until menopause, progesterone largely eliminates the carcinogenic effect of estrogen 
+on estrogen-dependent organs, especially the uterus -> obese women: persistent 
+estrogen production in adipose tissue increases the risk of breast and uterine cancer
+ The production of adipokines with insulin-resistant effects and pro-inflammatory 
+cytokines increases when the physiological capacity of adipose tissue to store lipids is 
+exceeded. 
+ Hypertrophied adipocytes die to an increased extent and provoke an inflammatory 
+response including increased accumulation of inflammatory cells in adipose tissue. 
+ Pro-inflammatory cytokines released from adipose tissue cause low-intensity systemic 
+inflammation, but with long-term effects on the body, including the acceleration of 
+atherosclerosis. 
+
+=== PDF PAGE 60 ===
+metabolic syndrome
+ obesity (abdominal);
+ insulin resistance (type 2 diabetes mellitus);
+ arterial hypertension;
+ hyperlipoproteinemia;
+ hypercoagulable state
+ The central part of the metabolic syndrome is insulin resistance
+ Visceral fat is more metabolically active
+ Insufficient glucose uptake by muscle cells due to a reduced amount of GLUT4 on their membrane and increased
+gluconeogenesis in the liver cause hyperglycemia.
+ Hyperglycemia increases insulin secretion-> hyperinsulinemia
+ Insulin inhibits lipolysis in adipose tissue and insulin resistance is thus also linked to android-type obesity and its
+metabolic and cardiovascular complications.
+ When the beta cells of the islets of Langerhans are unable to compensate for insulin resistance with sufficient
+hyperinsulinemia, type 2 diabetes mellitus develops.
+ Hyperinsulinemia predisposes to arterial hypertension by increasing sodium retention in the kidneys, stimulating
+the formation of vasoconstricting endothelin and, conversely, reducing the production of (vasodilating) nitric
+oxide in the endothelium, and by increasing the tone of the sympathetic nervous system.
+ The main complications of metabolic syndrome therefore include cardiovascular disease due to accelerated
+atherosclerosis and a procoagulant state, as well as type 2 diabetes mellitus and some malignant tumors due to
+hyperinsulinemia.
+
+=== PDF PAGE 61 ===
+Disorders of purine, 
+pyrimidine and sugar 
+metabolism
+
+=== PDF PAGE 62 ===
+Purine metabolism
+– adenine, guanine
+Xanthine oxidase (XO) 
+adenine → hypoxanthine → 
+xanthine
+guanine → xanthine → uric acid 
+part of hypoxanthine and xanthine is
+converted back to nucleotides and 
+utilized
+Hypoxanthine-guanine-
+phosphoribosyltransferase HGPRT
+
+
+=== PDF PAGE 63 ===
+Hyperuricemia
+= increased concentration of uric acid in the blood
+ from food 
+ purine metabolism
+congenital
+ ENZYMATIC DEFECT HGPRT (Lesch-Nyhan syndrome – X-linked on.)
+ Hypoxanthine-guanine phosphoribosyltransferase
+ ↑phosphoribosyl diphosphate PRDP: does not enter nucleotide synthesis
+ Encephalopathy, spastic paralysis, self-harm
+acquired
+ ↑ NUCLEOTIDE CATABOLISM 
+ cytostatics, more severe catabolic states, fructose
+ ↑ DIETARY SUPPLY 
+ ↓URIC ACID EXCLUDING 
+ renal insufficiency, drugs – thiazide diuretics, alcohol
+ influence of urine pH – better excreted in alkaline X lactate
+
+=== PDF PAGE 64 ===
+GOUT
+ more common in men and in people with a high meat intake 
+ combination of various factors (increased synthesis, selective transport 
+disorders at the level of the renal tubules)
+ heterogeneous group of disease states whose common feature is hyperuricemia 
+and formation + deposition of urate crystals in tissues, especially in joints and 
+their surroundings primary – idiopathic x secondary 
+ Microcrystals are phagocytosed by leukocytes and thus trigger a cascade of local 
+inflammatory processes
+ Most affected: 
+ JOINTS 
+ KIDNEYS 
+ urate nephrolithiasis, tubulointerstitial nephritis sometimes leading to renal insufficiency
+ CIRCULATORY SYSTEM 
+ acceleration of atherosclerosis, more frequent thrombosis 
+ eyes, skin, more frequent DM2
+
+=== PDF PAGE 65 ===
+Acute gout attack
+Crystals falling out into the joint 
+cavity (reduced temperature 
+and reduced pH at night)
+subsequently coated with
+IgG
+INFLAMMATION
+phagocytosis neutrophils + 
+neutrophil damage crystals
+release of enzymes TISSUE DAMAGE
+90% monoarticular -> 70% 1st MTP joint
+• sudden onset (often at night), severe 
+pain,
+joint red, hot, hypersensitive,
+general symptoms
+• average duration of attack 1 – 2 weeks
+
+
+=== PDF PAGE 66 ===
+Clinical stages of gout
+• ↑ S-KM
+• 90% men, 5th-6th decade
+• postmenopausal women (uricosuric effect of estrogens)
+1. Asymptomatic
+hyperuricemia
+• provoking moment: dietary excess, stress
+• ACUTE GOUTY ARTHRITIS
+2. Acute gout
+attack
+• rest intervals between attacks ½ - 2 years
+3. Intercritical
+period
+• TOPHOSIC DEPOSIT: cartilage, synovium, tendons, skin
+• urate nephropathy
+4. Chronic
+tophic gout
+
+=== PDF PAGE 67 ===
+Secondary hyperuricemia
+ Increased turnover or breakdown of nuclear elements
+ Myelo- and lymphoproliferative diseases, increased production of
+erythroblasts (hemolytic and macrocytic anemias), cytostatics, crush
+syndrome 
+ Drugs
+ Cytostatics, corticosteroids in high doses (catabolism), blocking urate
+secretion – diuretics (furosemide) 
+ Renal insufficiency
+ Reduced glomerular filtration
+ Chronic alcoholism
+ Increased purine intake, ↓pH, lactate reduces excretion by the kidneys
+ Chronic lead poisoning
+
+=== PDF PAGE 68 ===
+Urate nephropathy
+ 1. URATE UROLITHIASIS 
+ formation and presence of urate stones in the urinary tract
+ 10-25% of patients with gout
+ risk of precipitation: ↓urine pH, dehydration
+→ RENAL COLICS 
+ 2. INTERSTITIAL GOUTY NEPHRITIS 
+ deposition of Na-urate crystals in the renal interstitium with subsequent inflammatory
+changes
+→ albuminuria, ↓kidney concentration capacity, renal hypertension
+→ CHRONIC RENAL INSUFFICIENCY 
+ 3. ACUTE URATE TUBULOPATHY 
+ during radio or chemotherapy hematomalignancy
+ ->URINARY TRACT OBSTRUCTION 
+→ acute tubular necrosis (distal tubules and collecting ducts) 
+→ ACUTE RENAL FAILURE
+
+=== PDF PAGE 69 ===
+Disorders of pyrimidine metabolism
+Pyrimidine synthesis disorders
+ UMP synthase deficiency (Orotic
+aciduria) 
+ AR heredity 
+ Orate accumulation
+ Crystalluria
+Pyrimidine deficiency
+ megaloblastic anemia
+ growth disorders, psychomotor
+retardation, leukopenia, malaise
+Pyrimidine degradation disorders
+ Dihydropyrimidine dehydrogenase
+(DPD) deficiency
+ AR inheritance 
+ Uracil and thymine accumulation
+Complete deficiency in children
+ epilepsy, mental retardation, autism, 
+microcephaly
+Partial deficiency
+ manifestations of 5- flurouracil
+therapy (tumors) 
+ neutropenia, stomatitis, neurological
+symptoms
+
+=== PDF PAGE 70 ===
+Glycogenosis
+ Storage polysaccharide
+stored in the cytoplasm of
+healthy cells.
+ Stored in the liver and
+muscles.
+ Can only be released into the circulation from the liver
+(glucose-6-phosphatase).
+ Glycogenoses
+ = genetically determined
+disorders of
+glycogen metabolism
+Glycogen accumulates in the cells in the form of
+granules.
+https://www.youtube.com/watch?v=LuVcPNF5Slg
+
+=== PDF PAGE 71 ===
+Glycogenosis
+ Hepatic: GSD I, III, IV, VI 
+ Hepatomegaly
+ Hypoglycemia (liver = main source of glucose! has glucose-6-
+phosphatase)
+↑ glucose-6-phosphate = ↑ lactate lipolysis → hyperlipidemia and ketogenesis → KAC
+• Myopathic: GSD V, VII
+• Glycogen accumulation in muscle
+• Muscle weakness
+• Muscle cramps
+• Necrosis (myoglobinuria)
+Other: GSD II
+Involvement of other organs
+
+=== PDF PAGE 72 ===
+https://www.youtube.com/watch?v=yvaqtsSceww
+
+=== PDF PAGE 73 ===
+Von Gierke's disease (GSD I)
+ deficiency of the enzyme glucose-6-phosphatase → hypoglycemia (→ 
+cramps) and lactic acidosis
+ AR, incidence of GSD I in the general population is 1/100,000, Ashkenazi
+Jewish population has 5 times higher prevalence
+ G6Pase enzyme is primarily expressed in liver, kidneys and intestines
+→accumulation of glycogen and fat in liver, kidneys and intestinal mucosa
+ hepatomegaly
+ nephromegaly
+ ↑ uric acid
+ ↑ lipids
+
+=== PDF PAGE 74 ===
+Pompe disease (GSD II)
+↓ Lysosomal α1,4 glucosidase
+ AR inheritance
+ 1:40,000
+ Deficiency of lysosomal enzymes + glycogen storage in skeletal and cardiac
+muscle
+❖ Infantile type
+skeletal muscle → hypotonia, failure to thrive, respiratory muscle weakness → 
+sleep apnea; myocardium → hypertrophic cardiomyopathy; vascular
+endothelium, astrocytes, liver → hepatomegaly, kidneys
+❖ Late type (juvenile and adult)
+muscle weakness of the pelvic ring and proximal muscle groups of the limbs, 
+exertional dyspnea, apnoeic pauses, feeding disorders (swallowing)
+→ MUSCLE HYPOTONY (at any time during life)
+
+=== PDF PAGE 75 ===
+Classical galactosemia
+ AR heredity
+ incidence is 1:35,000–1:50,000
+ galactose-1-phosphate uridyltransferase deficiency
+between 4th–9th day after milk intake:
+❖ vomiting, diarrhea, milk refusal
+❖ hepatic insufficiency with jaundice and hepatomegaly
+❖ hemorrhagic diathesis
+❖ lethargy, convulsions
+❖ pseudotumor cerebri, brain edema
+❖ bilateral cataract (↑ galacticoll)
+ PICTURE OF SEPSIS WITH LIVER AND RENAL FAILURE
+ speech disorder
+ in girls hypergonadotropic hypogonadism
+Evidence of increased galacticoll concentration in urine
+https://www.mountsinai.org/health-library/diseases-conditions/galactosemia
+
+=== PDF PAGE 76 ===
+Disorders of protein and 
+amino acid metabolism
+
+=== PDF PAGE 77 ===
+
+
+=== PDF PAGE 78 ===
+Phenylketonuria (PKU)
+ 377 / 5 000
+ AR, in the Czech Republic 1:6500, world 1:13000
+ absence or reduced activity (600 gene mutations on chromosome 12 
+described) of phenylalanine hydroxylase = hydroxylation of Phe to Tyr.
+ alternative degradation of Phe – phenylpyruvate (transamination), 
+phenyllactate, phenylacetate or phenylethylamine is formed
+ -> mouse-like urine odor
+ Tyr deficiency -> mental retardation, epilepsy, reduced pigmentation
+ newborn screening
+
+=== PDF PAGE 79 ===
+
+
+=== PDF PAGE 80 ===
+Homocystinuria
+ AR
+ a metabolic disease that is caused most often by a disorder of the 
+activity of cystathione beta-synthase (CBS deficiency), an enzyme
+involved in the body in the conversion of the amino acid methionine 
+to cysteine.
+ In addition to the amino acid METHIONINE, the very toxic
+HOMOCYSTEINE also accumulates
+ 1:83,000 to 1:15,000
+https://www.frontiersin.org/journals/nutrition/artic
+les/10.3389/fnut.2021.690359/full
+
+=== PDF PAGE 81 ===
+Homocystinuria
+ Eye disorders: 
+ lens dislocation, myopia, glaucoma, retinal detachment, optic nerve atrophy, 
+cataracts
+ Bone disorders: 
+ metabolic osteopathy, osteoporosis, scoliosis, pathological fractures and 
+vertebral collapse
+ Central nervous system disorders: 
+ developmental delay and mental retardation (60%), seizures (50%), EEG 
+abnormalities and psychiatric disorders
+ Vascular disorders: 
+ thromboembolic complications (deep vein thrombosis, pulmonary embolism, 
+stroke)
+
+=== PDF PAGE 82 ===
+DISORDERS OF LIPID AND 
+LIPOPROTEIN METABOLISM
+
+=== PDF PAGE 83 ===
+
+
+=== PDF PAGE 84 ===
+Dyslipidemia (or dyslipoproteinemia)
+ Abnormal concentrations of serum lipoproteins
+Causes:
+ Primary dyslipoproteinemias result from:
+ genetic defects (familial dyslipoproteinemias)
+ dietary factors
+ Secondary dyslipoproteinemias result from diabetes, hypothyroidism, 
+pancreatitis, renal nephrosis and medications such as certain
+diuretics, beta-blockers or glucocorticoids.
+
+=== PDF PAGE 85 ===
+Lipoproteins
+ Chylomicrons (CM) -formed in the intestine and transport absorbed exogenous
+triacylglycerols. The main apoprotein is B48.
+ VLDL (Very Low Density LP ,pre-ß-LP) - transport endogenous triacylglycerols synthesized in
+the liver.
+ IDL (Intermediate-Density LP) are formed from VLDL by the action of lipoprotein lipase and
+have a lower content of triacylglycerols with a relatively higher proportion of cholesterol
+esters.
+ LDL (Low Density LP ,ß-LP) contain mainly cholesterol esters and a single apoprotein (B 100).
+ HDL (High Density LP ,α-LP) reverse cholesterol transport. The main apoprotein is apoprotein
+A. HDL cholesterol (HDL-C) is an important protective factor in atherosclerosis; its low
+concentrations are one of the components of the metabolic syndrome.
+ Lipoprotein(a), Lp(a) is a lipoprotein particle of LDL with a molecule very similar to
+plasminogen attached. It is a significant risk factor for atherosclerosis. The liver is the key
+organ for LP metabolism. Lipoproteins are produced in it (“intrinsic pathways”) and it is the
+only organ capable of eliminating cholesterol from the body, either directly into bile or after
+its conversion to bile acids. These are also part of bile, but undergo enterohepatic circulation.
+In addition to the liver, lipoproteins are also produced in the intestine (“extrinsicpathways”).
+ Molecules important for LP metabolism are apolipoproteins, enzymes and cell receptors.
+
+=== PDF PAGE 86 ===
+Dyslipidemia 
+ increase in the concentration of some lipoproteins in plasma
+ pathogenesis of atherosclerosis and its complications.
+The cause is disorders of:
+ enzymes
+ receptors
+ apolipoproteins
+ excessive synthesis of own lipids
+ Dyslipidemias are genetically determined-> complex genetic influences combine with external factors
+ hyperlipidemia -increased concentration of lipids (triacylglycerols and cholesterol) in plasma.
+ Hypercholesterolemia -increased concentration of cholesterol in the blood.
+ Blood cholesterol is made up of up to 75% cholesterol contained in LDL -atherogenic.
+ HDL also contain cholesterol, but from the point of view of the development of atherosclerosis, it acts
+as a protector with its function of reverse cholesterol transport.
+ Hypertriacylglycerolemia -increase in the concentration of triacylglycerols in the blood.
+ risk factor for pancreatitis and an independent factor for the development of atherosclerosis
+
+=== PDF PAGE 87 ===
+Primary dyslipidemia
+• monogenic or polygenic
+inheritance
+• referred to as "familial". 
+• Familial combined
+hyperlipidemia - elevated
+cholesterol and 
+triglycerides. 
+• Familial
+hypercholesterolemia
+LDL receptor mutation. . 
+• Familial apo B100 defect
+Familial
+hypertriacylglycerolemia
+Secondary dyslipidemia
+• diabetes mellitus;
+• nephrotic syndrome and 
+chronic renal failure;
+• hypothyroidism;
+• primary biliary cirrhosis;
+• alcoholism (not to be 
+confused with the effect 
+of small doses of 
+alcohol);
+• the effect of medications 
+(e.g. oral contraceptives).
+
+=== PDF PAGE 88 ===
+Hypolipoproteinemia
+Familial hypo-β-lipoproteinemia
+ rare genetic abnormality, probably with autosomal dominant inheritance.
+ ↓LDL cholesterol in plasma
+ longevity, probably due to the low incidence of myocardial infarction
+Abetalipoproteinemia
+ rare autosomal recessive disease in which neither Apo-B48 is synthesized in enterocytes
+nor apo-B100 in the liver.
+ chylomicrons are absent in the circulation and the transport of endogenous cholesterol
+to peripheral cells via LDL is impaired, concentration of cholesterol in plasma is reduced.
+ Impaired absorption of lipids from the intestine causes their excessive loss in the feces
+and thus a deficiency of fat-soluble vitamins.
+ delayed development and reduced intelligence, polyneuropathy, and muscle weakness.
+Hypoalphalipoproteinemia
+ Conditions with reduced HDL-cholesterol have an increased risk of atherosclerosis and
+the resulting cardiovascular disease. The familial form appears to have dominant
+inheritance.
+ The result is a relative lack of apoC-II and increased VLDL levels.
+Analphaloproteinemia (Tangier disease)
+ It is a rare disease with autosomal recessive inheritance, characterized by a complete
+absence of HDL in plasma.
+
+=== PDF PAGE 89 ===
+Recommended resources
+ Porth's Pathophysiology: Concepts of Altered Health States (9th Edition) 
+by Sheila Grossman, Carol Mattson Porth. Wolters Kluwer Health | 
+Lippincott Williams & Wilkins, 2014. Chapter 10. 
+ McCance K. L., Huether S. E.: Pathophysiology. 8th Edition. Mosby, 2018. 
+Chapter 16. 
+ Silbernagl S, Lang F. Color Atlas of Pathophysiology, 3rd Ed. Thieme, 
+2016.
+ Nečas a spolupracovníci, Obecná patologická fyziologie. Karolinum, 2000

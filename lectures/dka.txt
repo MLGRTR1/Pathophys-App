@@ -1,0 +1,85 @@
+=== PDF PAGE 1 ===
+Diabetic ketoacidosis
+
+=== PDF PAGE 2 ===
+Diabetic ketoacidosis
+• Serious complication of diabetes mellitus due to an absolute or 
+relative deficiency of insulin and an increase in the levels of insulin 
+counterregulatory hormones (glucagon)
+• This is most common in individuals with type 1 diabetes but can 
+occur in those with type 2 diabetes as well. Younger age is also a 
+risk factor.
+• The most common precipitating factor for DKA is intercurrent illness, 
+such as infection, trauma, surgery, or myocardial infarction.
+• Excess production of keto acids: (acetoacetic acid, hydroxybutyric
+acid and acetone) 
+
+=== PDF PAGE 3 ===
+Ketone bodies, an alternative source of 
+energy 
+• Physiology: 
+– They are produced from acetyl coenzyme A mainly in the 
+mitochondria within hepatocytes and used peripherally as an 
+energy source when glucose is not readily available. (e.g. The 
+brain cannot utilize fatty acids for energy when blood glucose levels 
+become compromised.)
+– They are always present in the blood and their levels increase 
+during fasting and prolonged exercise. 
+• Diabetic ketoacidosis:
+– A high concentration and it is  a cause of metabolic acidosis with 
+high AG.
+– Fatty acids are degraded by β-oxidation faster than the formed 
+acetyl coenzyme A can enter the Krebs cycle. Excess acetyl 
+coenzyme A gives ketone bodies
+
+=== PDF PAGE 4 ===
+Insulin and glucagon
+• Physiology: 
+– Insulin 
+• stimulates glycogenesis and glycolysis 
+• inhibits lipolysis, gluconeogenesis and glycogenolysis, 
+– Glucagon
+• increases blood glucose level by stimulating glycogenolysis and gluconeogenesis in the liver
+• Diabetic ketoacidosis:
+– insulin deficiency:
+• lipolysis is enhanced and there is an increase in the amount of fatty acids 
+delivered to the liver. 
+– The consequence is increased gluconeogenesis (generation 
+of glucose from certain non-carbohydrate carbon substrates) 
+contributing to hyperglycemia. 
+– increases production of ketone bodies (beta-oxidation generates one 
+acetyl CoA for every removal of a two-carbon group from the fatty acid 
+chain. ) by the mitochondria of the liver at a rate that exceeds peripheral 
+use. 
+– Increased glucagon 
+• contribute to activation of gluconeogenesis
+
+=== PDF PAGE 5 ===
+Clinical manifestation
+• Polyuria and dehydration result from the osmotic diuresis due to 
+hyperglycemia and ↑glucose in urine.
+• Although the serum K+ concentration may appear normal or elevated 
+because of volume contraction (there is not a shift of K + out of the cell into 
+the blood caused by metabolic acidosis with ketone bodies), there is the 
+total body deficiency of K+ due to:
+– polyuria 
+– ↑ urinary anion of hydroxybutyric acid: It is not reabsorbed and its neg. charge attracts K+
+to urine) 
+– shift K+ to renal tubular cells support K+ excretion.
+• Others: Kussmaul respirations with acetone odor on the breath, postural 
+dizziness, central nervous system depression, ketonuria, anorexia, 
+nausea, abdominal pain and thirst. 
+• Treatment: intravenous administration of
+– insulin to decrease glucose levels
+– fluids to replace lost fluid volume. 
+– K+, Na+and phosphorus
+• After the administration of insulin, the concentration of β-hydroxybutyrate 
+promptly begins to decrease, and after a slight increase, acetoacetate 
+concentration also begins to decrease. 
+
+=== PDF PAGE 6 ===
+Davenpost diagram
+https://www.youtube.com/watch?v=snp5oq
+-hLpg&t=237s
+A shift of the parameters toward 
+normal pH on a diagonal

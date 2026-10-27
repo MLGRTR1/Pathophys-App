@@ -1,0 +1,905 @@
+=== PDF PAGE 1 ===
+Disorders of salt balance: content
+• Disturbance of volume and osmotic equilibrium
+• Body fluid components
+• Major electrolytes in body fluid
+• Cellular membrane permeability
+• Osmolality, effective osmolality and volume
+• Regulation: ANP, ADH and RAAS
+• Examples: 
+• Hyperaldosteronism and hypoaldosteronism, 
+• Diabetes insipidus and SIADH (Syndrome of 
+Inappropriate Antidiuretic Hormone)
+• Hypovolemic and hypervolemic states
+• Review: Structure and function of nephron
+1
+
+=== PDF PAGE 2 ===
+joint spaces, the pericardial sac, the peritoneal cavity,
+And the pleural cavity: it is often referred to as third-space fluid.
+total body water decrease with advancing age due to more adipose 
+tissue and less muscle
+70kg adult male
+gender
+2
+
+=== PDF PAGE 3 ===
+3
+3Na+/2K+ ATPase pump
+Extracellular fluid: 
+plasma
+Intracellular fluid
+Electrolytes mmol/L Electrolytes mmol/L
+Cations Cations
+Na+ 135-145 K+ 150
+K+ 3.5-5.5 Mg+ 40
+Ca+ 5 Na+ 10
+Mg+ 2
+Anions Anions
+Cl- 103 Phosphates and sulfates 150
+HCO3
+- 26 HCO3
+- 10
+HPO4
+2- 2 Proteinate 40
+HSO4
+- 1
+Organic acids 5
+Proteinate 17
+Approximate major electrolyte content in body fluid
+
+
+=== PDF PAGE 4 ===
+cellular membranecapillary
+Water
+Urea
+Glucose
+Na+
+Proteins
+Cellular membrane permeability
+The high permeability of the small pore system to electrolytes (except in the 
+brain) quickly establishes an electrolyte equilibrium between plasma and
+interstitium. Thus it is only the plasma proteins, that exert a sustained 
+osmotic pressure across the capillary wall.
+4
+3Na+/2K+ ATPase 
+pump
+GLUT4
+
+=== PDF PAGE 5 ===
+Osmolality 
+The concentration of osmotically active particles in solution expressed 
+in osmols or milliosmols per kilogram of solvent.
+Normal osmolality range 285 to 295 mOsm/kg
+– Hypoosmolality: serum osmolality < 285 mOsm/kg
+– Hyperosmolality: serum osmolality > 295 mOsm/kg
+Osmolality (equation): 2Na+ (+ K+) + glucose + urea (BUN: blood 
+urea nitrogen)
+Osmotically active particles: Cl-, HCO3
+-, alcohol, aceton and 
+mannitol, proteins
+5
+
+=== PDF PAGE 6 ===
+Osmometers
+Osmometers are used for measuring osmolality of biological 
+materials.
+Osmotic gap: the difference between calculated and measured 
+osmolality
+6
+
+=== PDF PAGE 7 ===
+Osmolarity
+The concentration of osmotically active particles in solution 
+expressed in osmols or milliosmols per liter of solution.
+7
+
+=== PDF PAGE 8 ===
+Osmolality: Na+ as a key player 
+Na+ affects osmolality to the larger extent than K+, because  Na+ is the 
+main extracellular cation (concentration)
+Normal osmolality range 285 to 295 mOsm/kg
+– Hypoosmolality: serum osmolality < 285 mOsm/kg
+– Hyperosmolality: serum osmolality > 295 mOsm/kg
+Osmolality (equation): 2Na+ + glucose + urea (BUN: blood urea 
+nitrogen)
+– Na+: 135-145 mmol/L
+• Mild (146-149 mmol/L)
+• Moderate (150-169 mmol/L)
+• Severe (≥170 mmol/L)
+– K+: 3.5-5.5 mmol/L
+– Glucose: 3.3-5.5 mmol/l
+– Urea: 1.7–8.3 mmol/l
+– Albumine: 0.5-0.78 mmol/L (They constitute 55-65% of total plasma proteins)
+8
+
+=== PDF PAGE 9 ===
+Other osmolality equations
+Calculated osmolarity = 2 Na+ + Glucose + Urea (all in mmol/L).
+or
+Calculated osmolarity = 2 Na + + 2 K + + Glucose + Urea (all in mmol/L).
+or
+Calculated osmolarity = 2[Na + ] + [Glucose]/18 + [ BUN ]/2.8 where 
+[Glucose] and [BUN] are measured in mg/dL and [Na + ]  in mmol/L. 
+(typical in the US)
+or
+If the patient has ingested ethanol, the ethanol level should be included 
+in the calculated osmolality.
+9
+
+=== PDF PAGE 10 ===
+Na+=143 mEq/l BUN=4 mg/dL pH=7.30
+Cl-=105 mEq/l GLU=104 mg/dL MO=356 mOsm/kg
+HCO3
+-=19 mEq/l KETO=Neg
+A sixty-seven year old white male was found pulseless and resuscitated; then 
+brought to the emergency room. He had been reported to be drinking in a bar 
+all afternoon, and had then fallen from a ten foot balcony to snow covered 
+ground. He arrived in the emergency room with a fractured occiput and was 
+unresponsive.
+AG = Na+ - Cl- + HCO3
+- = 143 - 105- 19 = 19
+Normal AG = 8-16 mEq/L
+CO = 2 x Na+ + 1.15 *GLU/18 + BUN/2.8 = 286+ 1.15 
+*104/18 + 4/32.8 = 294
+0G = MO - CO= 356 - 294 =62
+EXAMPLE CASE
+10
+
+=== PDF PAGE 11 ===
+EXAMPLE CASE: Interpretation
+An osmolar gap value greater than 15 has traditionally been 
+considered a critical value or cutoff. Approximately 97% of 
+osmolar gaps in patients are between -10 and +10.
+Proper interpretation of the OG also requires knowledge of the 
+anion gap (AG = Na+ - HCO3
+- - Cl-), the blood pH, and 
+qualitative testing of the plasma ketone bodies (KETO)
+11
+
+=== PDF PAGE 12 ===
+Plasma tonicity, effective osmolality
+2Na + + glucose 
+plasma tonicity reflects the concentration of solutes that do not easily cross 
+cell membranes
+The most common example of this phenomenon is the rapid fall in plasma 
+urea concentration produced by hemodialysis in a uremic patient. In this 
+setting, the removal of plasma urea occurs more quickly than urea can 
+equilibrate across the hemo-cerebral barrier (delayed in the brain due to 
+hemo-cerebral barrier), which promotes osmotic water movement into the 
+brain. In the brain, the water shift can result in cerebral edema and acute 
+neurologic dysfunction, changes that partially explain the dialysis 
+disequilibrium syndrome
+12
+
+=== PDF PAGE 13 ===
+Effective volume
+• When the effective circulating blood volume is compromised, the 
+condition is often referred to as hypovolemia.
+• Effective volume — it is monitored by sensors in the renal afferent 
+glomerular arterioles (for renin), carotid sinus (for antidiuretic 
+hormone, ADH), and atria and ventricles (for natriuretic peptides) that 
+respond to changes in pressure (baroreceptors), not volume.
+• By contrast to the baroreceptors, osmoreceptor in hypothalamus are 
+important for thirst sensation and to induce secretion of antidiuretic 
+hormone
+14
+
+=== PDF PAGE 14 ===
+Renin-
+angiotensin-
+aldosterone
+Antidiuretic 
+hormone
+DiuresisAtrial natriuretic peptide (ANP) 
+Water retention
+Hormonal factors: diuresis vs. water retention
+16
++
+
+=== PDF PAGE 15 ===
+• A family of hormone/paracrine factors that are structurally related: 
+ANP, BNP.
+• BNP (brain-type natriuretic peptide) is synthesized largely by the 
+ventricles as well as in the brain where it was first identified
+• ANP is synthesized and secreted by cardiac muscle cells in the walls 
+of the atria in the heart. These cells contain volume receptors (low 
+pressure baroreceptors) which respond to increased stretching of the 
+atrial wall due to increased atrial blood volume. 
+• Aims:
+• Suppress sympathetic outflow
+• Promote myocardial relaxation and inhibit hypotrophy and fibrosis
+• The main function of ANP is causing a reduction in 
+expanded extracellular fluid (ECF) volume by 
+• inhibition of secretion of renin and aldosterone 
+• vasodilation of the afferent arterioles with constriction of the 
+efferent arterioles leading to increased GF and decreased  
+sodium and water absorption by kidney tubules.
+Atrial natriuretic peptide (ANP) or atrial natriuretic factor 
+(ANF)
+17
+
+=== PDF PAGE 16 ===
+Vasoconstriction of vas afferent leads to ↓ glomerular filtration rate (*the 
+increased Na+ absorption) and ↓  renal perfusion
+The model of glomerular filtration rate (GFR)
+and renal perfusion (RPF)
+Vasoconstriction of vas efferent with vasodilation of vas afferent leads 
+to ↑ glomerular filtration rate (*decreased Na+ absorption) and ↓ renal 
+perfusion
+*When the GFR spontaneously decreases or increases, the renal tubules and, primarily the proximal tubules,
+automatically adjust their rate of reabsorption of sodium andwater to balance the change in GFR. Thus a 
+constant fraction of filtered sodium and water is reabsorbed from the proximal tubule.This prevents wide 
+fluctuations in sodium and water excretion into the urine and maintains sodium and water balance 18
+
+=== PDF PAGE 17 ===
+• Natriuretic peptide: Produced by atria and ventricles of the heart with 
+hypertension and increased blood volume; causes vasodilation of 
+afferent arteriole and vasoconstriction of efferent arteriole; modest 
+increase in GFR with little change in RBF
+ANP: The model of glomerular filtration rate (GFR)
+and renal perfusion (RPF)
+↑ANP, ↑ adenosine, ↑ NO, ↑H+ , 
+↑lactate and ↓ATP induce 
+hyperpolarization of the cellular 
+membrane of the vascular smooth 
+muscle cells. It occurs via opening 
+K+ channel that close Ca2+ channel 
+and induce the vasodilation
+19
+
+=== PDF PAGE 18 ===
+• A hormone-inactive product of the proBNP molecule. It is 
+considered to be a fragment that is incapable of linking to receptors 
+and probably without biological significance. 
+• It is a peptide with a high validity in cardiologic diagnostics, where it 
+has a clinically comparable statement as its own active hormone 
+BNP. 
+• BNP and NT-proBNP concentrations in plasma grow in people with 
+decompensated heart failure (distension of myocytes heart walls in 
+heart failure as a pump), pulmonary hypertension, renal failure. 
+• Compared to BNP, NT-proBNP has some advantages such as -
+stability of molecule, less biological variability, higher degree of 
+standardization).
+NT-proBNP
+20
+
+=== PDF PAGE 19 ===
+Water reabsorption
+Renin-
+angiotensin-
+aldosterone
+Antidiuretic 
+hormone
+Effective 
+volume
+Effective 
+osmolality
+Na+ reabsorption
+(the principal cells of 
+the distal duct: 
+aldosterone and
+proximal Na + H + 
+antiporter: 
+angiotensin II)
+Insertion of 
+aquaporins 
+(collecting duct)
+Stimuli
+Response
+Water 
+reabsorption
+21
+
+=== PDF PAGE 20 ===
+α-globulin 
+(angiotensinogen
+produced by liver 
+hepatocytes)
+• Vitamin D3 is a potent negative endocrine regulator of renin gene expression
+• ACE inhibitors are a class of drugs that reduce blood pressure by inhibiting the formation of angiotensin II and aldosterone
+Ang II 
+stimulates Na+/H+
+exchangers and ↓ 
+wash out of vasa 
+recta 
+• Less effect of  
+ACTH
+22
+Renin-angiotensin-aldosterone system
+
+=== PDF PAGE 21 ===
+1 Renin production: its production is stimulate by
+Juxtaglomerular apparatus: 2 parts
+• Juxtaglomerular cells are located around the 
+afferent arteriole.
+• Decreased blood pressure (renal perfusion) 
+reduces stretch of the juxtaglomerular cells and 
+trigger renin release.
+• Portion of the distal convoluted tubule with 
+specialized Na+ and Cl-sensing cells known as the 
+macula densa: ↓Na at the start of distal tubules 
+detected by macula densa increases renin 
+Renin is an enzyme formed and stored in granular cells of the afferent 
+arterioles of the JGA
+ Innervated 
+by SNS (the 
+next slide)
+23
+
+=== PDF PAGE 22 ===
+2 Renin production: its production is stimulate by
+sympathetic nerve system
+α1-adrenoreceptors
+vasoconstriction 
+of the afferent 
+arterioles
+retention 
+Na+
+and H2O
+Direct tubular 
+reabsorption of Na+
+↑ renin 
+secretion
+↑ sympathetic NS
+the kidney
+α2 1
+↓ glomerular 
+filtration
+↑ ang II and 
+↑ 
+aldosterone
+• Sympathetic nerve via β1 receptors induces renin and via 1 
+vasoconstriction of vas afferens: low blood pressure detected by 
+baroreceptors in arterial circulation activates sympathicoadrenal system
+24
+
+=== PDF PAGE 23 ===
+• Aldosterone: 
+• secretion of K+ and H+ 
+• absorption of Na+ in 
+principle cells
+• Angiotensin II stimulates Na+ 
+H+ antiporter
+• Angiotensin II will ↓ perfusion through the vasa recta. This decreases the 
+washout of NaCl and urea in the kidney medullary space. It facilitate 
+absorption of tubular fluid that will increase passive reabsorption of sodium 
+along the thick ascending limb of the Loop of Henle.
+Role of angiotensin II and aldosterone
+25
+
+=== PDF PAGE 24 ===
+• Angiotensin II. Arteriolar vasoconstriction including the vas efferens (less 
+the vas afferens) will ↑glomerular filtration and decreases renal perfusion 
+in peritubular capillaries. It maintains the GFR even under conditions of 
+renal hypoperfusion, e.g. bleeding. The GF forms primary urine from that 
+Na+ and H2O is reabsorbed in the distal tubules. 
+• In contrast, at higher concentrations or chronic one, angiotensin II induces 
+glomerular remodeling  and vascular smooth muscle cells to hypertrophy 
+(hypertension, atherosclerosis, renal disease, and cardiac hypertrophy) 
+1 Role of angiotensin II: efferent arteriole 
+26
+Angiotensin II: mesangial 
+cell contraction
+
+=== PDF PAGE 25 ===
+• Physiology: a countercurrent in 
+the loop of Henle and vasa recta
+• Angiotensin II – mediated low 
+perfusion through the vasa recta 
+decreases the washout of NaCl 
+and urea from the 
+kidney medullary space. It 
+facilitate absorption of tubular 
+fluid that will increase passive 
+reabsorption of sodium along the 
+thick ascending limb of the Loop 
+of Henle.
+2 Role of angiotensin II: vasa recta
+27
+
+=== PDF PAGE 26 ===
+Aldosterone: Adrenal gland hormone
+Renin, less 
+ACTH
+ACTH
+
+=== PDF PAGE 27 ===
+Primary aldosteronism (primary hyperaldosteronism)
+• It is increased aldosterone originally
+• Causes: 
+• Benign aldosterone-producing adrenal adenoma (Conn's syndrome)
+• Bilateral adrenal nodular hyperplasia: Because cortisol production is low, ACTH concentration increases and causes 
+adrenal hyperplasia.
+• Adrenal carcinomas (rare)
+Secondary hyperaldosteronism
+• It is increased renin originally and secondarily  increased aldosterone and 
+renin
+• Causes: cirrhosis, ectopic production of renin, coarctation of aorta (narrow 
+aorta), stenosis of renal arteria, decreased cardiac output in cardiac failure 
+(decreased circulating blood volume). During pregnancy, estrogen  
+stimulates the production of renin and angiotensin. In hyperthyroidism, 
+thyroid hormones increase renin.
+Pseudohyperaldosteronism 
+• low aldosterone
+• activation of the aldosterone receptor without an increase in aldosterone.
+• Cushing’s syndrome (high cortisol stimulated receptor for 
+aldosterone)
+• High dose steroid therapy
+• Liddle syndrome, an autosomal dominant genetic disorder
+Hyperaldosteronism
+29
+
+
+=== PDF PAGE 28 ===
+Conn's syndrome : 
+Hypertension (↑Na+ can be diluted and thus normonatremia)
+Renal excretion of potassium (hypokalemia with alkalosis may lead 
+to hypocalcemia)
+No edema: Sodium loss and water loss are maintained by 
+hypervolemia-induced atrial natriuretic factor release, pressure 
+natriuresis, and aldosterone escape (spontaneous diuresis) leading 
+to nocturia and polyuria X secondary hyperaldosteronism is 
+connected with edema.
+The ANP-mediated polyuria can increase urinary losses of 
+potassium (hypokalemic nephropathy with decreased urinary 
+concentration)
+Low renin
+Metabolic syndrome (hypertension, obesity, dyslipidemia, insulin
+resistance, and hyperglycemia) is associated with primary 
+aldosteronism: Aldosterone reduces insulin sensitivity in skeletal muscle 
+and adipocytes
+Clinical manifestation of primary 
+hyperaldosteronism
+30
+
+
+=== PDF PAGE 29 ===
+Pressure-diuresis or pressure-natriuresis
+Relatively small increases in glomerular filtration that follow from 
+increases in renal arterial pressure cause relatively large increases in 
+urine and sodium output.
+31
+
+=== PDF PAGE 30 ===
+Clinical manifestation of secondary 
+hyperaldosteronism
+ Increased renin (stimulated by ↓circulating blood volume) 
+• During pregnancy, ↑estrogen  stimulates the production of renin and 
+angiotensin.
+• In hyperthyroidism, thyroid hormones increase renin.
+ Hypertension and hypokalemia is less common compared to primary 
+hyperaldosteronism
+ Edema are common
+
+
+=== PDF PAGE 31 ===
+• Congenital hypoaldosteronism:
+• Hyperreninemic hypoaldosteronism: genetic defect in 
+enzymes that are important for synthesis of aldosterone
+• Congenital form of Addison's disease (congenital adrenal 
+hypoplasia) or pseudohypoaldosteronism
+Hypoaldosteronism
+33
+• Acquired hypoaldosteronism:
+• Primary hypoaldosteronism: Addison's disease 
+(primary adrenal insufficiency, autoimmune): 
+↓aldosterone, ↓cortisol (primary hypocortisolism) 
+and secondarily ↑ increased adrenocorticotropic 
+hormone (ACTH) and ↑ renin
+• Note: secondary adrenal insufficiency (secondary hypocortisolism, e.g. 
+exogenous glucocorticoids) due to ↓ ACTH does not affect aldosterone but 
+similar to SIADH with ↑ADH as cortisol inhibit ADH
+• Secondary hypoaldosteronism: Acquired 
+hypoaldosteronism: due to low renin: 
+hyporeninemic hypoaldosterinism
+• Pseudohypoaldosteronism: high aldosterone, 
+tubular cells do not response to aldosterone due 
+to renal hypoxia or urine stagnation
+
+=== PDF PAGE 32 ===
+• Autoimmune disease: rare, more common in women
+• 21-Hydroxylase autoantibodies and autoreactive T cells specific to 
+adrenal cortical cells
+• Others: infections (tuberculosis, fungal infections, human 
+immunodeficiency virus), infiltrative diseases (amyloidosis, metastatic 
+carcinoma),bilateral adrenal hemorrhage.
+• AD often is associated with other autoimmune diseases: autoimmune 
+polyendocrine syndrome (APS): 
+• Type I: autosomal recessive (Addison disease, 
+hypoparathyroidism, mucocutaneous candidiasis)
+• Type II: Addison disease, immune thyroid disease, diabetes 
+mellitus, celiac disease, and hypogonadism.
+Addison disease: causes
+↓
+ ↓
+
+=== PDF PAGE 33 ===
+Addison disease: manifestation I
+• ↓ corticosteroid and ↓ mineralocorticoid synthesis and ↑ ACTH 
+• Serum glucose concentration can be low: decreased gluconeogenesis 
+• Manifestation of primary hypocortisolism dominate 
+↓
+ ↓
+
+=== PDF PAGE 34 ===
+Addison disease: clinical manifestation II
+↓
+ ↓
+• Weakness and easy fatigability and later anorexia, 
+nausea, vomiting, and diarrhea
+• Disturbances in mood and motivation are common
+• Hypotension:↓ Na+ leads to hypovolemia and ↓ glomerular filtration, 
+weakness
+• GIT disturbances: celiac disease electrolyte
+• Water poisoning: hypovolemia induces ADH that leads to H2O retention. 
+Water poisoning manifest with headache, nausea, vomiting and glucose 
+fever due to edema in hypothalamus, mainly after administration of glucose.
+• Hyperkalemia: both decreased ↓aldosterone-mediated K+ excretion and ↓ 
+glomerular filtration contribute to ↑K + leading to arrhythmia, mild alkalosis or 
+hypochloremic acidosis 
+
+=== PDF PAGE 35 ===
+Addison disease: clinical manifestation III
+↓
+ ↓
+• Hyperpigmentation: ACTH stimulate melanocytes
+• Vitiligo (white patchy areas of depigmented skin): autoimmune destruction of 
+melanocytes
+• ↓ adrenal androgen
+•In men: the adrenals not a major source of male androgens. 
+•In women: a loss of some secondary sexual characteristics such as 
+pubic and axillary hair, normally maintained by the adrenal androgens
+• Acute Addisonian crisis
+
+
+=== PDF PAGE 36 ===
+• Sever hypotension and vascular collapse that can lead to circulatory 
+shock
+• Combined effect of hypocortisolism, hypoaldosteronism, volume 
+depletion and precipitating factors: infection or ↓ vasomotor tone due 
+to ↓ cortisol
+• Acute renal failure: ↑ creatinine and ↑urea
+• Eosinophil and lymphocyte counts are often elevated, neutropenia
+• ↑fever, confusion, vomiting
+Acute Addisonian crisis 
+↓
+
+=== PDF PAGE 37 ===
+The secretion of ADH is stimulated by
+Induced primarily by the osmoreceptors in the hypothalamus.
+Induced less by hypovolemia: e.g. In circulatory shock, an arterial 
+hypotension induces ADH that inactivate K+ channel leading to 
+vasoconstriction but later ADH is run out and vasodilation 
+Induces primarily water retention
+The secretion of ADH is inhibited by
+Antidiuretic Hormone (ADH) or vasopressor
+pain
+glucocorticoids
+hypoxiastress
+nicotine
+sex
+39
+Low temperature
+
+=== PDF PAGE 38 ===
+ACTH
+Antidiuretic Hormone (ADH) or vasopressor
+adenohypophysis
+aquaporins
+V1 needs 10x 
+↑concentration 
+of ADH than V2 
+V1A receptor
+V1B receptor
+V2 receptor
+
+=== PDF PAGE 39 ===
+• Low function of antidiuretic hormone: Diabetes Insipidus 
+• Increased function of antidiuretic hormone: Syndrome of 
+Inappropriate Antidiuretic Hormone (SIADH or Schwartz-Bartter
+syndrome)
+Antidiuretic Hormone (ADH): conditions
+41
+
+=== PDF PAGE 40 ===
+• Increased function of antidiuretic hormone
+• Causes: 
+• CNS disorders, e.g. stroke, hemorrhage, infection or tumor
+• Ectopic production of ADH by a tumor
+• Pulmonary disorders (unknown mechanism)
+• Mechanism: ↑ADH induces water retention leading to dilutional 
+hyponatremia 
+• Absolute urine osmolarity is low but ratio between urine and 
+plasma osmolarity is ↑. (Urinal Na+ is concentrated due to poor 
+water retention but not too much due to hyponatremia.)
+• edema↑ does not have to be present due to compensatory ANP 
+and diuresis.
+• Manifestation: lethargy, myoclonus, asterixis (flapping tremor , 
+temporary loss of motor tone) and confusion or coma
+• https://www.youtube.com/watch?v=sEnp2ss8VoA
+Syndrome of Inappropriate Antidiuretic Hormone 
+(SIADH or Schwartz-Bartter syndrome)
+42
+
+=== PDF PAGE 41 ===
+43
+Syndrome of Inappropriate Antidiuretic Hormone 
+(SIADH or Schwartz-Bartter syndrome): mechanism
+Signs and symptoms depend upon the rate (chronic vs acute: tolerated 
+better/less) and severity of hyponatremia: 
+• Acute or fast decline of Na+: cerebral edema
+• Chronic: adaptive responses counteracting swelling in brain cells and is 
+traditionally defined as an asymptomatic
+
+=== PDF PAGE 42 ===
+• Low function of antidiuretic hormone and loss of hypotonic water 
+(increased urination) leads to hypernatremia that induces thirst
+• Central (neurogenic) (low level of ADH)
+• causes: pituitary dysfunction due to ischemia or hamorrhage, 
+pregnancy (placenta can produce the enzymes that degrade 
+ADH)
+• Synthetic ADH will help
+• Peripheral (nephrogenic) (normal level of ADH)
+• causes: receptor dysfunction due to genetic mutation in V2
+receptor 
+• Synthetic ADH will not help. Vasoconstriction (V1A receptor) is 
+not affected as V2 receptor has defect.
+Diabetes Insipidus 
+44
+
+=== PDF PAGE 43 ===
+45
+Diabetes Insipidus: mechanism 
+Signs and symptoms depend 
+upon the rate (chronic vs acute: 
+tolerated better/less) and severity 
+of hypernatremia: 
+hypernatremia can suck out 
+water from brain and cause 
+bleeding
+
+=== PDF PAGE 44 ===
+Hypovolemic and hypervolemic states
+46
+
+=== PDF PAGE 45 ===
+Hypovolemic and hypervolemic states: content
+• Dehydration
+• Symptoms
+• Examples: isotonic, hypotonic and hypertonic
+• Hyperhydration: symptoms
+• Symptoms
+• Examples: isotonic, hypotonic and hypertonic
+47
+
+=== PDF PAGE 46 ===
+• Headache and thirst 
+• Weight loss 
+• Decreased urine output (oliguria), and concentrated urine (with 
+the exception of diabetes insipidus and others).
+• Skin turgor may be normal or decreased. Dry skin and mucous 
+membranes. 
+• Symptoms of hypovolemia: tachycardia, weak pulses and 
+(postural) hypotension (peripheral vasoconstriction)
+• Others: Elevated levels of hematocrit (with the exception of 
+bleeding),serum sodium concentration, urine and serum 
+osmolality, and urine specific gravity are associated with 
+moderate water loss.
+Dehydration: symptoms
+48
+
+=== PDF PAGE 47 ===
+• The hematocrit (Ht or HCT), the volume percentage (vol%) 
+of red blood cells (RBC) in blood.
+Diagram of packed cell volume
+49
+Dehydration: hematocrit
+
+=== PDF PAGE 48 ===
+Poor skin turgor
+50
+
+=== PDF PAGE 49 ===
+Dehydration Increase hematocrit in isotonic and hypotonic  (not in plasma loss)
+Isotonic
+(Normal Na+)
+Hemorrhage, profuse bleeding, burn Loss of isotonic fluid: hypovolemia with peripheral 
+vasoconstriction, tachycardia and RAAS, ADH activation. 
+Note Despite high aldosterone, ↑K+ excretion does not have 
+to be present due to low urine in the distal tubules that will 
+concentrate K+. By contrast, loop diuretics will increase 
+urine in the distal tubules and K+ excretion)
+Puncture of ascites, sever wound drainage after 
+operation. 
+Fluid leakage to the 3th space: paralytic ileus, 
+pancreatitis
+Hypotonic
+(Decreased 
+Na+)
+Low aldosterone Loss of water is less than Na + loss: cellular edema
+nephropathia loosing salt: if primary renal disease 
+affected the renal marrow osmolarity e.g. 
+Pyelonephritis (bacterial infection of renal pelvis)
+Hypotonic saline or pure water replacement after 
+endurance exercise (No issue as healthy kidney 
+will compensate: reabsorbed Na+)
+Bartter syndrome
+Overdose of loop diuretics
+Hypertonic
+(Increased 
+Na+)
+Profuse sweating, diarrhea (sweat, stomach fluid
+and stool is hypoosmotic, sever diarrhea has 
+isoosmotic fluid)
+Loss of water is higher than loss of Na+: cellular exsiccation
+Polyuria at acute renal failure (the remaining 
+nephrons cannot reabsorb Na+ and ↑ water loss 
+due to osmotic diuresis with hypoosmotic urine)
+low antidiuretic hormone (diabetes insipidus, 
+thirst due to ↑ osmolarity)
+osmotic diuresis in diabetes mellitus 51
+Dehydration: forms
+
+=== PDF PAGE 50 ===
+mutations involving the Na+-K+-2Cl- cotransporter in the thick 
+ascending limb of the loop of Henle. Na+-K+-2Cl- cotransport one 
+sodium, one potassium, and two chloride ions across the apical 
+membrane of the tubule.
+Bartter syndrome (BS) 
+• Primary hypereninism and secondary 
+hyperaldosteronism
+• Hypokalemia
+• Hypochloremia 
+• Metabolic alkalosis
+• Tendency to hypovolemia
+52
+
+=== PDF PAGE 51 ===
+Bartter syndrome (BS) 
+Abolishment of the 
+hypertonicity of the 
+renal medulla, 
+severely impairing 
+the ability to 
+reabsorb water 
+later in the distal 
+nephron 
+and collecting duct 
+system, leading to 
+normal extracellular 
+volume with 
+tendency to 
+hypovolemia.
+↓ Na+, K+, 2Cl-
+reabsorption 
+in the Henle loop ↑ urinary Na+ load to 
+the distal nephron
+↑ Na+
+reabsorption
+Chronic stimulation 
+of macula densa
+(hyperplasia of 
+Juxtaglomerular 
+apparatus ) and renin
+↑ urinary Cl- load to the 
+distal nephron and their 
+excretion
+↑ aldosterone
+Hypokalemia
+H+ ATPase 
+stimulation and 
+H+ excretion
+Na+ combines with HCO3
+-
+as relative ↓ Cl- in urine. 
+HCO3
+- are nor reabsorbed 
+and abolish the lumen-
+positive voltage, resulting 
+in decreased calcium and 
+magnesium reabsorption
+Intra and extracellular 
+exchange between K+
+and H+Metabolic alkalosis
+↑ PGE2
+53
+
+=== PDF PAGE 52 ===
+Hyperhydration decrease hematocrit in isotonic and hypertonic 
+Isotonic
+(Normal Na+)
+Accumulation of isotonic fluid due to↑ 
+hydrostatic or ↓ oncotic pressure=edema with 
+isotonic fluid accumulation (secondary not 
+primary ↑aldosterone)
+severe congestive heart failure
+cirrhosis or hepatic failure
+nephrotic syndrome, >3,5 g/24 hours
+Overdose by anti-inflammatory drugs that ↓ 
+PGE2 
+PGE acts via vasodilation in vas afferent
+Hypotonic
+(Decreased Na+)
+Water is accumulated more than salt: 
+Increased mean erythrocyte volume (cellular 
+edema)
+↑antidiuretic hormone (SIADH) (hypervolemia, 
+no edema) hyponatremia and hypokalemia 
+psychogenic disease (compulsive water 
+drinking)
+Acute renal failure with oliguria/anuria 
+(catabolism)
+Hypertonic
+(Increased Na+)
+Salt is accumulated more than water: 
+Decreased mean erythrocyte volume (cellular 
+exsiccation)
+↑aldosterone (Conn‘s syndrome) 
+(hypervolemia, no edema)~
+salt water
+Acute renal failure
+Primary effect on aquaporins: accumulation of water and diluted Na+. Euvolemic hyponatremia due to secondary induced  ANP. 
+~Due to water retention, hypernatremia does not have to be present. No edema: hypervolemia induces atrial natriuretic factor and 
+diuresis
+54
+Hyperhydration: forms
+
+=== PDF PAGE 53 ===
+Acute renal failure with anuria or oliguria
+• Decreased glomerular filtration
+• ↑ serum urea to creatinine ratio: 
+• Normally urea is reabsorbed: The low filtration of urea due to low 
+GF will increase urea reabsorption. 
+• Normally creatinine is secreted by tubular cells if serum creatinine 
+is high. The low filtration of creatinine will increase serum 
+creatinine but serum creatinine is secreted by tubular cells.
+• Renal tubules are not damaged: 
+• ↑ urinal osmolarity due to urea (Na+ is low)
+• Na+ is reabsorbed by RAAS leading to water retention: life 
+threatening edema (pulmonary edema), heart failure, cell swollen, 
+high intracranial pressure
+• Catabolic state of metabolisms is additional source of water that 
+is not excreted: hypoosmolar hyperhydration (hypervolemia)
+• Oliguria
+• Metabolic acidosis: accumulation of waste product of metabolism and low 
+excretion of H+
+• Hyperkalemia: in the last stage, in early stage: K+ usually excreted by 
+tubules (arrhythmia) 55
+
+=== PDF PAGE 54 ===
+Normovolemia
+Isotonic
+(Normal Na+)
+normal
+Hypotonic
+(Decreased Na+)
+hypotonic saline or pure 
+water replacement after 
+endurance exercise
+Loss of water is less than 
+Na + loss: cellular edema
+Hypertonic
+(Increased osmotically 
+active molecules )
+hyperglycemia Loss of water is higher 
+than loss of osmotically 
+active molecules: cellular 
+exsiccation
+Accumulation of ketone 
+bodies in diabetes 
+56
+Normovolemia: forms
+
+=== PDF PAGE 55 ===
+References 
+Look up the particular theme in the following indexes
+Porth's Pathophysiology: Concepts of Altered Health States (9th 
+Edition) by Sheila Grossman, Carol Mattson Porth. Wolters 
+Kluwer Health | Lippincott Williams & Wilkins, 2014. 
+McCance K. L., Huether S. E.: Pathophysiology. 8th Edition. 
+Mosby, 2018. 
+Silbernagl S, Lang F. Color Atlas of Pathophysiology, 3rd Ed. 
+Thieme, 2016. 
+https://pfyziol.upol.cz/ - selected text passages (according to 
+teachers' recommendations) 

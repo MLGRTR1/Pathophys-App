@@ -1,0 +1,636 @@
+=== PDF PAGE 1 ===
+Ion balance: content 
+• K+: ECG
+• Na+: osmolarity
+• Ca2+: tetany and renal osteodystrophy
+• Parathyroid hormone, vitamin D and calcitonin
+• Phosphates: Renal osteodystrophy
+• Mg 2+:
+1
+
+=== PDF PAGE 2 ===
+2
+3Na+/2K+ ATPase pump
+Extracellular fluid: 
+plasma
+Intracellular fluid
+Electrolytes mmol/L Electrolytes mmol/L
+Cations Cations
+Na+ 135-145 K+ 150
+K+ 3.5-5.5 Mg+ 40
+Ca+ 5 Na+ 10
+Mg+ 2
+Anions Anions
+Cl- 103 Phosphates and sulfates 150
+HCO3
+- 26 HCO3
+- 10
+HPO4
+2- 2 Proteinate 40
+HSO4
+- 1
+Organic acids 5
+Proteinate 17
+Approximate major electrolyte content in body fluid
+
+
+=== PDF PAGE 3 ===
+3
+K+
+K+ 
+proximal 
+tubules K+
+ascendent 
+loop
+K+
+• Renal excretion of K+ is regulated by aldosterone that is stimulated by 
+RAAS, ↑ blood K+ and ↑ Na+ in urine. 
+• Aldosterone activates Na+/K+ ATPase pump on basolateral 
+membrane. It ↑ intracellular K+ that is excreted to urine. It also ↓ 
+intracellular Na+ that is replaced by Na+ from urine.
+The distal tubules
+K+: a role of aldosterone
+↑ urinary Na+
+
+=== PDF PAGE 4 ===
+Hyperkalemia (above 5.5 mmol/L): causes
+• Intra-extracellular shift: 
+• Acidemia but final excretion leads to hypokalemia
+• Low insulin
+• Rhabdomyolysis
+• Decreased renal loss
+• Hypocortisolism: Addison disease (low aldosterone)
+• Hyporeninemic hypoaldosteronism in diabetic nephropathy or 
+interstitial nephritis
+• Acetylsalicylic acid that inhibits prostaglandin and renin
+• Kidney failure in last stage. Chronic renal insufficiency (K+ shift from 
+intracellular space to extracellular space and the kidney cannot 
+excrete K+) 
+5
+↑K+
+
+=== PDF PAGE 5 ===
+Hyperkalemia (above 5.5 mmol/L): manifestation
+• Neuromuscular : muscle weakness, muscle twitching, paresthesia
+(prickling sensation)
+• ECG: Bradyarrhythmia: sinus bradycardia, high-grade AV block with 
+slow junctional and ventricular escape rhythms
+6
+↑K+
+
+=== PDF PAGE 6 ===
+ECG hyperkalemia-fast repolarization
+• Potassium: above 5.5 mmol/L
+7
+↑K+
+
+=== PDF PAGE 7 ===
+ECG hyperkalemia: stages
+8
+↑K+
+• Severe 
+hyperkalemia:
+• Sine wave 
+appearance
+• Ventricular 
+fibrillation
+• Asystole
+• Mild hyperkalemia may not be associated with any acute symptoms and 
+vital signs may be normal.
+• Moderate hyperkalemia may present clinically with acute extremity 
+paresthesia and bradyarrhythmias (↑K + decreases Na+ influx), e.g.sinus 
+bradycardia.
+Sine wave = QRS and T wave fuse each other
+
+=== PDF PAGE 8 ===
+9
+ECG hyperkalemia↑K+
+
+=== PDF PAGE 9 ===
+small Na+ enter
+• The decreased resting membrane potential which decreases Na+ 
+influx can lead to bradyarrhythmia, e.g. sinus bradycardia
+10
+ECG hyperkalemia - bradyarrhythmia↑K+
+
+=== PDF PAGE 10 ===
+Hypokalemia (below 3.5 mmol/L): causes
+• Intra-extracellular shift: 
+• Alkalemia (acidemia)
+• High insulin and adrenalin (pheochromocytoma)
+• Massive catabolism of intracellular proteins and glycogen: decreased 
+storage
+• Increased renal loss
+• Hyperaldosteronism
+• Hyperreninism in renal arterial stenosis
+• ↑ Na + availability in the renal tubules
+• Type I and Type II renal tubular acidosis 
+• Bartter syndrome and Loop diuretics (in ascendent loop Na+-K+-
+2Cl− symporter) leading to alkalosis 
+• Thiazide diuretics(in distal tubules Na+Cl− symporter) : alkalosis
+• Extrarenal K+ losses from the body are usually small, but can be marked in 
+chronic diarrhea, severe burns or prolonged sweating
+• Diarrhea: Loss in GIT leads to hyperchloremic metabolic acidosis with 
+↓K+
+• Vomiting leading to chypochloremic metabolic alkalosis
+• An abuse of laxatives and the use of diuretics- both loop and thiazides.11
+↓K+
+
+=== PDF PAGE 11 ===
+Hypokalemia (below 3.5 mmol/L): manifestation
+• Neuromuscular : smooth muscle weakness leading to obstipation, paralytic 
+ileus or even paralysis of respiratory muscle.
+• ECG: tachyarrhythmias with palpitation
+12
+↓K+
+
+
+=== PDF PAGE 12 ===
+ECG hypokalemia-delayed repolarization
+or T wave may be inverted 13
+↓K+
+• Potassium: below 3.5 mmol/L
+• Hypokalaemia causes widespread downsloping ST depression with T-wave 
+flattening/inversion, prominent U waves and a prolonged QU interval.
+
+
+=== PDF PAGE 13 ===
+ECG hypokalemia- tachyarrhythmias
+14
+↓K+
+• Frequent supraventricular and ventricular ectopics
+• Supraventricular tachyarrhythmias: AF, atrial flutter, atrial tachycardia
+• Potential to develop life-threatening ventricular arrhythmias, e.g. VT, VF 
+and Torsades de Pointes
+• Hypokalaemia
+causing Torsades 
+de Pointes: Note 
+the atrial ectopic 
+causing ‘R on T’ 
+(or is it ‘R on U’?) 
+that initiates the 
+paroxysm of TdP
+
+=== PDF PAGE 14 ===
+Triggered activity in hypokalemia leading to tachycardia 
+or tachyarrhythmia
+• The repeated 
+spontaneous 
+depolarization 
+(without coming 
+impulses) due to 
+instability of 
+membrane potential 
+in the myocytes
+• early after 
+depolarization: occur 
+before repolarization 
+has finished 
+(hypokalemia, 
+hypothermia or 
+hypoxia)
+• delayed after depolarization: occur 
+after repolarization (from raised 
+intracellular Ca2+)
+Example: Torsade 
+de pointes
+In atrial and ventricular 
+myocytes repolarization due 
+to K+ efflux: Non-pacemaker 
+action potentials or fast 
+response
+
+=== PDF PAGE 15 ===
+Torsade de pointes
+• A specific form of Polymorphic ventricular tachycardia: it has a 
+characteristic morphology in which the QRS complexes “twist” around 
+the isoelectric line. R-on-T phenomenon: ventricular extrasystole stands 
+on descending part of T wave and trigger torsade de points
+• Hemodynamic changes, e.g. ↓ cardiac output due to too fast heart beat
+• Cause: QT prolongation (inborn defect) or long plateau phase, e.g. 
+early after depolarization
+
+
+=== PDF PAGE 16 ===
+17
+↑↓K+
+Comparison of 
+hypokalemia and 
+hyperkalemia on ECG: 
+the first manifestation
+
+=== PDF PAGE 17 ===
+Hypernatremia implies a plasma sodium level above
+145 mEq/L (145 mmol/L) and characterized cellular dehydration.
+• Acute hypernatremia: it has been present for 48 hours or less.
+Fast intervention or the exsiccation of the nerve cells
+• Chronic hypernatremia: it has been present for longer than 48 hours.
+Slow intervention or brain edema
+Hyponatremia represents a plasma sodium concentration below 135 mEq/L 
+(135 mmol/L) and characterized cellular hyperhydration.
+.
+• acute hyponatremia: it has developed over a period of less than 48 
+hours, 
+• Fast intervention or fatal herniation (foramen magnum)
+• chronic hyponatremia: it has been present for more than 48 hours
+• Slow intervention or osmotic demyelination syndrome
+Hypernatremia and hyponatremia I
+18
+Na+
+
+=== PDF PAGE 18 ===
+BRAIN ADAPTATION TO severe chronic hypernatremia
+• Endogenous/idiogenic osmoles (The brain can produce more particles 
+from its cellular metabolism):  taurine, glycine, glutamine, sorbitol and 
+inositol and urea.
+• Fast intervention: cerebral edema 
+BRAIN ADAPTATION TO HYPONATREMIA:
+• increased intracranial pressure forces interstitial sodium and water out 
+of the brain into the cerebrospinal fluid, ameliorating the increased 
+brain volume. In addition, astrocytes begin to lose intracellular solutes, 
+principally potassium and organic osmolytes.
+• Fast intervention: osmotic demyelination syndrome (ODS)
+Hypernatremia and hyponatremia II
+19
+Na+
+
+=== PDF PAGE 19 ===
+Hypernatremia and hyponatremia: ECG
+20
+Na+
+• Increased (hypernatremia) and decreased (hyponatremia) sodium 
+levels do not have any effect on the ECG, nor cardiac rhythm or 
+impulse conduction (Non-significant changes on the ECG)
+
+=== PDF PAGE 20 ===
+• Most Ca2+ (99%): in bone as hydroxyapatite (Ca5(PO4)3(OH))
+• Small fraction of Ca2+ circulating within the intracellular (primarily in 
+the mitochondria) and extracellular (in the blood):
+• 50% is bound to plasma proteins, (primarily albumin) and
+• 40% is in the free or ionized form (5.5 to 5.6 mg/dl). 
+Calcium
+22
+Ca+
+
+=== PDF PAGE 21 ===
+• In states of acidosis, levels of ionized Ca2+ increase. 
+• In states of alkalosis, the amount of protein-bound calcium increases 
+and the physiologically active, ionized Ca2+ level decreases. The 
+decreased concentration of ionized Ca2+ may be great enough to 
+cause symptoms of hypocalcemia, such as tetany.
+The ionized calcium
+23
+Ca+
+
+=== PDF PAGE 22 ===
+Hypocalcaemia (bellow 2.26 mmol/L): causes
+• Nutritional deficiencies
+• Excessive amounts of dietary phosphorus also bind with calcium, so 
+neither mineral is absorbed when such an excess occurs. 
+• Hypoparathyroidism (after removal of the parathyroid glands: loss of PTH) 
+or Pseudohypoparathyroidism
+• Vitamin D deficiency
+• Blood transfusions: the citrate solution used in storing whole blood binds 
+with calcium and makes it unavailable to the tissues. 
+• Renal insufficiency: loss of glomerular filtration with phosphate 
+accumulation secondary decreases Ca2+ and secondary 
+hyperparathyroidism
+• Pancreatitis causes release of lipases into soft tissue spaces, so the free 
+fatty acids that are formed bind calcium, causing a decrease in the 
+concentration of ionized calcium. 
+• Metabolic or respiratory alkalosis: ionized calcium.
+• Hypoalbuminemia: total serum calcium or bound calcium in the plasma.
+27
+↓Ca+
+
+=== PDF PAGE 23 ===
+• In the absence of PTH, resorption of calcium from bone and regulation 
+of calcium reabsorption from the renal tubules are impaired. 
+• ↓ serum calcium levels  
+• ↑ serum phosphate levels
+Hypoparathyroidism 
+28
+
+=== PDF PAGE 24 ===
+• Primary:
+• Damage to the parathyroid glands during thyroid surgery and occurs 
+because of the anatomic proximity of the parathyroid glands to the 
+thyroid or ionizing radiation
+• Autoimmune hypoparathyroidism  
+• Idiopathic hypoparathyroidism 
+• Hemochromatosis: the accumulated iron damages the gland
+• Wilson's disease: the accumulated copper
+• Familial hypoparathyroidism 
+• DiGeorge syndrome (velocardiofacial syndrome): thyroid gland 
+malformations
+• Secondary: 
+• Hypomagnesemia (due to chronic alcoholism, malnutrition, 
+malabsorption) also can cause a decrease in PTH
+Hypoparathyroidism 
+29
+↓Ca+
+
+=== PDF PAGE 25 ===
+• an inherited condition: There is a resistance to PTH and its 
+receptor cannot produce cAMP in response to PTH
+• ↑ PTH
+• ↓ hypocalcemia
+• ↑  phosphate (hyperphosphatemia). 
+Pseudohypoparathyroidism
+30
+↓Ca+
+
+=== PDF PAGE 26 ===
+Hypocalcaemia (bellow 2.26 mmol/L): severe 
+symptoms
+• Long-term: Osteoporosis and fractures 
+• Prolonged ST leads to long QT interval indicating prolonged ventricular 
+depolarization (plateau) and decreased cardiac contractility (inotropic effect), 
+cardiac arrest
+• Tetany: continuous severe muscle spasm that can interfere with breathing 
+and cause death.
+• Intestinal cramping and hyperactive bowel sounds: affected the smooth 
+muscles of the gastrointestinal tract
+• an increase in neuromuscular excitability: partial depolarization of nerves 
+and muscle as the threshold potential becomes more negative and 
+approaches the resting membrane potential (hypopolarization): a low 
+threshold for nerve and muscle excitation so that a nerve impulse may be 
+initiated by a slight stimulus
+• Relationship of irritability with cations and anions 
+• Na+ + K+/Ca2+ + Mg2+ + H+
+31
+↓Ca+
+
+=== PDF PAGE 27 ===
+Hypercalcemia (exceeding 2.65 mmol/l or 
+severe 3.5mmol/L): causes
+• Primary hyperparathyroidism: ↑Ca2+ 
+• Secondary hyperparathyroidism : slightly ↑Ca2+  
+• Tertiary hyperparathyroidism : ↑Ca2+ 
+• Paraneoplastic syndrome: ectopic production of the hormones 
+mimicking the effect of parathyroid hormone: many tumors produce 
+hormones similar to PTH (hypoparathyroidism at parathyroid gland): 
+bone metastases 
+• sarcoidosis: increase vitamin D levels.
+• acidosis: increasing ionized calcium levels.
+34
+↑Ca+
+
+=== PDF PAGE 28 ===
+• The calcium level in the blood increases because of increased bone 
+resorption and gastrointestinal absorption of calcium. Normal feedback 
+mechanisms, such as elevated serum levels of ionized calcium, fail to 
+normally inhibit PTH secretion by the parathyroid gland.
+• Parathyroid adenomas 
+• Parathyroid hyperplasia
+• Parathyroid carcinoma
+• Multiple endocrine neoplasia syndromes 
+• MEN-1: Parathyroid adenomas + gastrinoma (neuroendocrine 
+tumor secreting gastrin, pancreas or duodenum) + prolactinoma 
+(benign tumor of pituitary gland), 
+• MEN-2a: carcinoma of thyroid gland + feochromocytom (adrenal 
+medulla) and less hyperparathyroidism
+• Familial hypocalciuric hypercalcemia (FHH)
+Primary Hyperparathyroidism
+35
+↑Ca+
+
+=== PDF PAGE 29 ===
+• Benign autosomal dominant condition: It is caused by a mutation in the 
+calcium-sensing receptor in the parathyroid gland.
+• ↑ Ca2+ 
+• ↓ phosphate (hypophosphatemia)
+• ↓ urine calcium excretion 
+• It can be differentiated from primary hyperparathyroidism by measurement 
+of 24-hour urine calcium excretion
+Familial hypocalciuric hypercalcemia (FHH) 
+36
+↑Ca+
+
+=== PDF PAGE 30 ===
+• Normocalcemic hyperparathyroidism:
+• Tissue resistance to PTH 
+• An early phase of primary hyperparathyroidism
+• Secondary to a decrease in serum ionized calcium levels:
+• Chronic kidney disease: failure of glomerular filtration results in 
+hyperphosphatemia and reduced levels of activated vitamin D. 
+Both leads to hypocalcemia, which stimulates PTH secretion. 
+• chronic vitamin D deficiency
+• decreased intestinal absorption of vitamin D or calcium
+Secondary Hyperparathyroidism
+37
+↑Ca+
+
+=== PDF PAGE 31 ===
+The etiology is unknown but represents autonomous secretion of PTH 
+from persistent parathyroid stimulation.
+It occurs: 
+• after long-standing secondary hyperparathyroidism causing 
+hyperplasia
+• after renal transplantation
+Tertiary Hyperparathyroidism
+38
+↑Ca+
+
+=== PDF PAGE 32 ===
+Hypercalcemia: severe symptoms
+• increased cardiac contractility: Short QT interval (short paleau) and 
+ventricular extrasystoles
+• decreased in neuromuscular excitability: threshold potential becomes 
+more positive (hyperpolarized) (e.g., moves from −60 to −50 millivolts) 
+and the cell membrane becomes refractory to depolarization because 
+there is a greater difference between threshold potential and resting 
+membrane potential 
+• Renal tubular function is decreased (polyuria and dehydration), kidney 
+stones form as precipitates of calcium salts
+• Osteoporosis, fractures
+39
+↑Ca+
+
+=== PDF PAGE 33 ===
+• Phosphate (HPO2-
+4 ): primarily in bone (85%)
+• Smaller amounts: within the intracellular (main intracellular anions) 
+and extracellular spaces. In the plasma, phosphate exists
+• phospholipids and phosphate esters
+• inorganic phosphate (ionized form). The normal serum levels of 
+inorganic phosphate range from 2.5 to 4.5 mg/dl and may be as 
+high as 6.0 to 7.0 mg/dl in infants and young children. 
+Phosphate
+45
+P
+
+=== PDF PAGE 34 ===
+• Calcium and phosphate concentrations are rigidly controlled.
+• [Ca2+ × HPO2-
+4 =K] constant (K)
+• Thus, if the concentration of one ion increases or decreases, that of 
+the other increases or decreases. 
+• Calcium and phosphate balance is regulated by three hormones:
+• parathyroid hormone (PTH):
+• PTH gene transcription is increased by hypocalcemia, 
+glucocorticoids, and estrogen. PTH release is increased by 
+hypocalcemia, adrenergic agonists, dopamine, and prostaglandin 
+E2
+• PTH stimulates reabsorption of calcium along the distal tubule of 
+the nephron and inhibits phosphate reabsorption by the proximal 
+tubule of the nephron.
+• The combination of low calcium level and increased PTH secretion 
+causes the renal activation of vitamin D.
+• vitamin D
+• When renal failure occurs, vitamin D is not activated; serum 
+calcium levels decrease; and phosphate levels increase. 
+Chronic kidney disease (decreased glomerular filtration leads 
+to P accumulation that secondary decrease Ca2+)  
+• calcitonin.
+Calcium and phosphate
+46
+P and Ca2+
+
+=== PDF PAGE 35 ===
+hormone response 
+to
+serum bone GIT kidney
+Parathyroi
+d hormone
+parathyroid 
+gland
+↓ Ca2+ hypercalcem
+ia and 
+hyperphosph
+atemia
+↓ via calcitriol ↑ 
+reabsorptio
+n of Ca2+
+but 
+excretion 
+of P and 
+HCO3 
+-
+Calcitriol
+(from 
+cholesterol 
+in the skin, 
+than 
+kidney and 
+liver)
+parathyroid 
+hormone
+Depends on 
+concentration
+↑absorption 
+of Ca2+ and 
+P in same 
+ratio
+↑ 
+reabsorptio
+n of Ca2+
+and P
+Calcitonin 
+thyroid 
+gland
+Acute (not 
+chronic) 
+hypercalce
+mia
+hypocalcemi
+a
+short-
+term 
+bone 
+calciphic
+ation
+↓absorption 
+of Ca2+ and 
+P in same 
+ratio
+↑excretion 
+of both 
+Ca2+ and P
+47
+
+=== PDF PAGE 36 ===
+• loss of glomerular filtration: ↑P secondary decreases Ca2+ 
+that and secondary hyperparathyroidism
+• the cell destruction associated with treatment of metastatic 
+tumors with chemotherapy: most phosphate is located in 
+cells
+• Increased somatotropin (growth hormone): acromegaly 
+(diseases of the Anterior Pituitary) and kids
+• Hypoparathyroidism can cause elevated phosphate levels 
+by increasing renal tubular reabsorption of phosphate.
+• High D vitamin
+Hyperphosphatemia (more than 1.46 mmol/L): 
+causes
+49
+↑P
+
+=== PDF PAGE 37 ===
+• are related primarily to low serum calcium levels and thus are 
+comparable to symptoms of hypocalcemia. 
+• With prolonged hyperphosphatemia, calcification of soft tissues 
+occurs in the lungs, kidneys, and joints because ↑ P with Ca2+ are 
+deposited in bone and soft tissues.
+Hyperphosphatemia: Symptoms 
+50
+↑P
+
+=== PDF PAGE 38 ===
+• decreased tubular reabsorption within the proximal tubule: leads 
+to 
+• Kids: rachitis (rickets) resistant to vitamin D
+• Adults: idiopathic osteomalacia (Milkman syndrome)
+• De Toni-Fanconi syndrome: decreased phosphate 
+reabsorption plus glucose and amino acids
+• long-term alcohol abuse
+• malabsorption syndromes: decreased reabsorption of phosphate
+• Hyperparathyroidism
+• D vitamin deficiency
+Hypophosphatemia (less than 0.81 mmol/L): 
+causes
+51
+↓P
+
+=== PDF PAGE 39 ===
+Hypophosphatemia: Symptoms
+• ATP levels
+• reduced capacity for oxygen transport:decreased 2,3-
+diphosphoglycerate and the oxyhemoglobin curve shifts to the left, 
+hypoxia can occur with bradycardia
+• bone resorption occurs
+52
+↓P
+
+=== PDF PAGE 40 ===
+• Cause: severe pancreatitis (The intestinal fat /steatorrhea can bind Mg2+ 
+being similar to Ca2+ ), alcoholism, diuretics or diarrhea 
+• Manifestation: 
+• A loss of magnesium results in decreased parathyroid hormone and 
+hypocalcemia
+• Similar to hypocalcemia, a low Mg (<0.5mmol/L) increases 
+neuromuscular excitability and tetany are present. ECG: long QT 
+interval that increases the risk of Torsades de Pointes
+• A loss of magnesium results in movement of potassium out of the cell, 
+with renal excretion resulting in hypokalemia.
+Hypomagnesemia <0.7mmol/L
+53
+↓Mg2+
+
+=== PDF PAGE 41 ===
+Hypermagnesemia > 1 mmol/L
+• It is rare except for renal failure or cellular destruction
+• ECG: long QT interval (same as low Mg2+) + long PQ 
+54
+↑ Mg2+
+
+
+=== PDF PAGE 42 ===
+References 
+Look up the particular theme in the following indexes
+Porth's Pathophysiology: Concepts of Altered Health States (9th 
+Edition) by Sheila Grossman, Carol Mattson Porth. Wolters Kluwer 
+Health | Lippincott Williams & Wilkins, 2014. 
+McCance K. L., Huether S. E.: Pathophysiology. 8th Edition. Mosby, 
+2018. 
+Silbernagl S, Lang F. Color Atlas of Pathophysiology, 3rd Ed. Thieme, 
+2016. 

@@ -1,0 +1,633 @@
+=== PDF PAGE 1 ===
+Disturbances of vitamin uptake. 
+Pathophysiology of lipid and 
+purine metabolism. Gout. 
+
+=== PDF PAGE 2 ===
+• Nutrients: macronutrients, micronutrients (essential trace elements, 
+minerals and vitamins)
+• Lipoprotein metabolism disorders: hyperlipoproteinemia
+• Deficiencies in amino acid metabolism: nitrogen excretion disorders, 
+phenylketonuria, homocystinuria
+• Disorders of the metabolism of purines, pyrimidines and sugars -
+hyperuricemia (gout), glycogenoses, galactosemia, fructosemia
+Content
+
+=== PDF PAGE 3 ===
+Nutrients
+1. Macronutrient (fat, protein, carbohydrate)
+2. Micronutrients
+– Essential trace elements: zinc (Zn), copper (Cu), selenium (Se), 
+chromium (Cr), cobalt (Co), iodine (I), manganese (Mn), and 
+molybdenum (Mo).
+– Minerals: fluor (F), magnesium (Mg), iron (Fe), potassium (K), 
+chlorine (CL), sodium (Na), calcium (Ca), phosphorus (P)
+– Vitamins
+
+=== PDF PAGE 4 ===
+Essential trace elements (a metal cofactor in 
+enzymes)
+Iodine Required for the synthesis of thyroid hormones deficiency: goiter, cretinism delayed normal 
+growth and development (in childhood)
+Excess state: hyperthyroidism
+Cobalt Required for the synthesis of vitamin B12 Deficiency: Pernicious anemia
+Excess state: cobalt poisoning
+Zinc Zn-bound liver alcohol dehydrogenase,
+carbonic anhydrase, SOD1 in cytoplasm and 
+extracellular SOD3 (Both SODs have both Zn 
+and Cu) and storage, secretion, and action 
+of insulin
+Hypothesis:  reduced reproductive function
+Copper Superoxide dismutase (SOD1) in cytoplasm 
+and cytochrome C oxidase (or complex IV 
+contains both Cu and hemes with Fe)
+↓ inactivation of ROS
+, Wilson disease
+Manganese Superoxide dismutase (SOD2) in mitochondria ↓ inactivation of ROS
+Molybdenum The active site of xanthine oxidize with Mo. 
+The enzyme can catalize xanthine to uric acid.
+Hypothesis: hyperuricemia in ↑ Mo, gout
+Selenium Se-containing glutathione peroxidase which 
+can protect the organism from oxidative 
+damage
+Hypothesis: ↓Se in hypothyroidism
+Essential trace elements
+
+=== PDF PAGE 5 ===
+Wilson disease
+• An inherited disorder (autosomal recessive pattern) in which excessive 
+amounts of copper accumulate in the body: the liver (1st) than brain and 
+eyes.
+– diminished biliary excretion of copper
+– failure to insert copper into ceruloplasmin (a glycoprotein that transports copper in the 
+blood)
+• Excesses of copper generate free radicals that disrupt cellular organelles
+– clumsiness, tremors, difficulty walking, speech problems, impaired 
+thinking ability, depression, anxiety, and mood swings. 
+– mild liver disease: yellowing of the skin or of the eyes (jaundice), 
+cirrhosis
+– green-to-brownish ring, called the Kayser-Fleischer ring
+dark rings that appear to 
+encircle the iris of the eye
+
+=== PDF PAGE 6 ===
+Minerals
+
+=== PDF PAGE 7 ===
+• An excessive iron is stored as hemosiderin in the cells of many organs and 
+tissues
+• Causes:
+• repeated blood transfusions
+• hemolytic anemia
+• excessive alcohol ingestion
+• Hereditary hemochromatosis: a genetic disorder of iron metabolism 
+and the most severe example of iron overload caused by excessive 
+intestinal absorption of elemental iron. 
+• Manifestation:
+• liver (cirrhosis) 
+• pancreatic cell (bronze diabetes)
+• bronze pigmentation of the skin
+Hemosiderosis
+
+=== PDF PAGE 8 ===
+• Fat-soluble (DEKAF): They are stored (mainly D and A vitamins) and 
+their shortage lead to late signs. Their excess leads to toxic 
+hypervitaminoses (e.g. vitamin A: hepatomegaly, vomiting, bone and 
+joint pain)
+• Water-soluble vitamins  (8 B vitamins and C  vitamin ): Except for B12 
+vitamin, they are not stored and their shortage lead to yearly signs.
+Vitamins
+
+=== PDF PAGE 9 ===
+Thiamine (vitamin B1) deficiency
+• Severe and chronic deficiency lead to beriberi
+• Causes
+– alcoholics (vitamin B1 is stored in the liver)
+– polished rice
+
+=== PDF PAGE 10 ===
+Two forms of beriberi
+• Wet beriberi affects the cardiovascular system resulting in 
+cardiomyopathy (dilated cardiomegaly, biventricular heart failure): 
+hyperdynamic circulation (systemic vasodilation that is compensated 
+by high cardiac output and fast heart rate, shortness of breath), 
+and leg swelling.
+• Dry beriberi affects the nervous system by demyelination resulting 
+in peripheral neuropathy and than muscle wasting
+– Tingling or numbness of the hands and feet and partial paralysis
+– Symmetrical and neuropathy: difficulty rising from squatting position
+– Confusion and pain
+– Impaired sensory perception and motor weakness, poor reflexes
+
+=== PDF PAGE 11 ===
+Dry beriberi: Wernicke encephalopathy 
+Wernicke encephalopathy (CNS) is characterized by the triad
+• ophthalmoplegia: refers to weakness (-paresis) or paralysis (-plegia) 
+of one or more extraocular muscles which are responsible for eye 
+movements and later expanded to other eye movement disorders 
+(nystagmus)
+• ataxia: lack of voluntary coordination of muscle movements
+• confusion
+
+=== PDF PAGE 12 ===
+Case (video)
+• Description
+• A 34-year-old man was presented to our emergency department in 
+alcohol withdrawal.
+• Despite initial treatment with high-dose intravenous thiamine therapy 
+he went on to develop nystagmus , ataxia, pass pointing, intention 
+tremor and worsening confusion. He was diagnosed with Wernickes
+encephalopathy, an acute neuropsychiatric syndrome resulting from 
+thiamine deficiency
+• His serum magnesium levels were found to be low at 0.41 mmol/L 
+(normal range 0.66–1.02 mmol/L). He was started on high-dose 
+intravenous magnesium in addition to thiamine replacement and his 
+neurological symptoms resolved once his serum magnesium levels 
+had normalised
+• https://casereports.bmj.com/content/2016/bcr-2016-218046
+
+=== PDF PAGE 13 ===
+Dry beriberi: Korsakoff syndrome
+• is often accompanied by Wernicke encephalopathy 
+• an amnestic disorder: deficit in memory caused by brain damage. 
+– confabulation, that is, invented or fabricated memories which are then taken by 
+the patient as true due to gaps in memory, with such gaps sometimes associated 
+with blackouts
+• hallucination
+• minimal content in conversation
+• apathy
+
+=== PDF PAGE 14 ===
+Vitamin B12 (cobalamin) deficiency
+• It is stored in the liver (storage for several years, not very common in 
+young adults)
+– older people are more prone to this condition leading to peripheral 
+neuropathy, neurodegenerative disorder or psychiatric problems). 
+– in fetal and early life cause poor brain development and cognitive 
+functions
+• Causes: 
+– malabsorption due to intrinsic facto (IF) deficiency 
+• atrophic gastritis (in the elderly)
+• surgical resection
+• intrinsic facto antibodies (pernicious anemia) often combination 
+with Graves' disease (hyperthyroidism) and other autoimmune 
+disorders
+– Inadequate dietary intake in vegans
+– Genetic diseases: common mutations in methylenetetrahydrofolate 
+reductase (MTHFR) gene 
+
+=== PDF PAGE 15 ===
+Vitamin B12 (cobalamin): biochemistry
+• conversion of homocysteine  to methionine 
+• conversion of methylmalonal-CaA to succinyl-CoA 
+• conversion of 5-methyltetrahydrofolate to tetrahydrofolate
+• Neurological 
+manifestation 
+due to low 
+methionine for 
+myelin sheaths
+Limited DNA synthesis leading to megaloblastic 
+anemia and others resulting from the cells with  
+high turnover (GIT)
+Hyperhomocysteinemia is 
+regarded as a marker of 
+cardiovascular disease (blood 
+clots, heart attacks, and 
+strokes), likely working 
+through atherogenesis
+• A lack for 
+neurotrans
+mitter 
+synthesis
+
+=== PDF PAGE 16 ===
+• Pellagra (also known as “the three Ds”) is a disease marked 
+by dementia, diarrhea and dermatitis.
+• If left untreated, pellagra can be fatal.
+seborrheic dermatitis: is a common skin 
+condition that causes scaly patches, red 
+skin and stubborn dandruff.
+Niacin (vitamin B3) deficiency
+
+=== PDF PAGE 17 ===
+• Signs: 
+• peripheral neuropathy and a pellagra-like syndrome with seborrheic 
+dermatitis 
+• glossitis and cheilosis
+• depression, confusion, seizures
+• Causes: 
+• Alcoholism
+• Hemodialysis
+• pyridoxine-inactivating drugs (e.g. penicillamine)
+Vitamin B6 deficiency (pyridoxine)
+Cracked corners of the mouth in cheilosis and 
+glossitis (inflammation with loss of the lingual 
+papillae)
+
+
+=== PDF PAGE 18 ===
+• an antioxidant
+• facilitates the absorption of iron
+• collagen formation and scurvy in advanced deficiency (bleeding sores, 
+tooth loss, anemia, and a reduced rate of healing for injuries). 
+Vitamin C deficiency
+
+=== PDF PAGE 19 ===
+Vitamin D deficiency 
+• caused by 
+– inadequate nutritional intake of vitamin D 
+– disorders limiting vitamin D absorption 
+• pancreatic insufficiency, 
+• celiac disease
+• Cholestasis( failure of bile flow)
+– disorders impairing vitamin D conversion into 
+active metabolites—including certain liver, kidney
+– inadequate sunlight exposure (UV)
+
+=== PDF PAGE 20 ===
+Rachitic beads
+• In childhood: rachitis
+– bone deformities 
+• craniotabes (softening or thinning of the skull), 
+• outward bowed legs and hips 
+• rosary or beading of the ribs
+• weak or soft bones leads to often fractures
+• In adult: osteomalacia
+– weak and soft bones 
+– muscle weakness 
+– joint and bone pain (secondary hyperparathyroidism)
+Vitamin D deficiency 
+
+=== PDF PAGE 21 ===
+Vitamin D deficiency 
+• Biochemical findings: 
+– low serum and urinary calcium  
+– low serum phosphate, except chronic kidney disease (decreased 
+glomerular filtration leads to P accumulation that secondary 
+decrease Ca2+)  
+– elevated serum alkaline phosphatase due to an increase in 
+compensatory osteoblast activity (Note: High levels of ALP is 
+also indicate liver disease) 
+– elevated parathyroid hormone (due to low calcium)
+Osteocalcin is vitamin 
+K-dependent and a 
+marker of bone 
+formation (note: it 
+correlates with 
+increases in bone 
+mineral density) that 
+also increases insulin 
+sensitivity in many 
+tissues
+
+=== PDF PAGE 22 ===
+hormone Response to serum bone GIT kidney
+Parathyroid hormone
+parathyroid gland
+↓ Ca2+ hypercalcemia ↓ via calcitriol ↑ reabsorption 
+of Ca2+ but 
+excretion of P
+and HCO3 
+-
+Calcitriol
+(from cholesterol in the skin, 
+than kidney and liver)
+parathyroid 
+hormone
+Depends on concentration of
+calcitriol
+↑absorption of Ca2+
+and P in same ratio
+(independent on 
+parathyroid hormone)
+↑ reabsorption 
+of Ca2+ and P
+Calcitonin 
+thyroid gland
+Acute (not 
+chronic) 
+hypercalcemia
+hypocalcemia short-term 
+bone 
+calciphicati
+on
+↓absorption of Ca2+
+and P in same ratio
+↑excretion of 
+both Ca2+ and P
+Vitamin D 
+• The overall effect of PTH secretion is to increase serum calcium 
+concentration and decrease serum phosphate level.
+Rickets: Rachitic 
+beads
+
+
+=== PDF PAGE 23 ===
+Vitamin E deficiency
+• Causes: Fat malabsorption
+• Vitamin E is an antioxidant.
+• Sign:
+• neurological and neuromuscular problems: poor conduction of 
+electrical impulses along nerves due to changes in nerve 
+membrane structure and function ( the damaging effects of free 
+radicals ).
+• hemolytic anemia – due to oxidative damage to red blood cells. 
+
+=== PDF PAGE 24 ===
+Vitamin K deficiency
+• Causes:
+• hepatic failure 
+• vitamin K1-antagonist such as warfarin
+• disruptions of colonic bacteria (antibiotics and newborns)
+• Colonic bacteria synthesize a significant portion of the Vitamin K required 
+for human needs and only small amount in food is needed. Vitamin K is 
+changed to its active form in the live.
+• Clotting factors II, VII, IX, X, and anti-coagulant proteins (protein 
+C and protein S) and osteocalcin. 
+• Signs: bruising, petechiae, hematomas and massive or chronic 
+uncontrolled bleeding (nose ,GIT, brain)
+• Prothrombin time (PT or quick test) is elevated, but the partial 
+thromboplastin time (PTT) is normal or only mildly prolonged because 
+factor VII has the shortest half-life.
+
+=== PDF PAGE 25 ===
+Vitamin A deficiency
+• Dark blindness
+• Squamous epithelium due to keratinization (abnormal quantity of keratin): 
+• Skin, upper respiratory passage and urinary tract
+
+
+=== PDF PAGE 26 ===
+Disorders of the metabolism of purines, pyrimidines 
+• Hyperuricemia and gout: DNA and uric acid
+• Porphyria: heme synthesis
+
+=== PDF PAGE 27 ===
+• Uric acid is a breakdown product of purine nucleotides (DNA)
+• Cause (hyperuricemia):
+• Overproduction of uric acid: 
+Accelerated rate of purine synthesis accompanied by an 
+overproduction of uric acid or some patients break down 
+purine nucleotides 
+• Underexcretion of uric acid:
+• Pathophysiology: In gout, undigested uric acid accumulates within 
+lysosomes, damaging the lysosomal membrane. Subsequent enzyme 
+leakage results in cell death and tissue injury (the inflammation).
+Gouty tophus
+Gout: deposits of urate crystals
+
+=== PDF PAGE 28 ===
+Tophaceous deposits
+• Decreasing temperatures cause both urate 
+and uric acid solubility to fall. 
+• Lead poisoning can interfere with excretion 
+of urate and predispose to gout.
+Gout: typical manifestation 
+
+
+=== PDF PAGE 29 ===
+• Porphyrias are metabolic disorders of the heme biosynthesis
+• Porphyrins build up in the body and affect the liver or erythropoiesis 
+• Two types
+• hepatic porphyria: accumulation of porphirins in the liver
+• acute intermittent porphyria
+• porphyria cutanea tarda
+• erythropoietic porphyria: accumulation of porphirins in the bone marrow 
+and erythrocytes
+• congenital erythropoietic porphyria = Gunther disease extremely 
+rare: severe photosensitivity with erythema, swelling, blistering,
+hemolytic anemia, splenomegaly
+Porphyrias
+Heme synthesis pathway
+
+=== PDF PAGE 30 ===
+• An autosomal dominant porphyria resulting in about 50% normal activity 
+of the affected enzyme. 
+• Intermittent: The triggers for acute attacks can be medications.
+• Its manifestation is an acute attack: The exact mechanism of acute 
+attacks is not clear. One hypothesis is a toxic effects on neurons. The 
+major symptom of an acute attack is abdominal pain, often accompanied 
+by vomiting, hypertension, and tachycardia. Severe attack: motor 
+neuropathy: quadriplegia (paralysis of all four limbs) central nervous 
+system: seizures and coma.
+• 90% of affected individuals never experience an acute attack and are 
+asymptomatic
+• The absence of photosensitive
+Acute porphyrias: 
+acute intermittent porphyria (AIP)
+
+=== PDF PAGE 31 ===
+• the most common type of porphyria
+• PCT is due to underlying liver 
+disease (excessive alcohol consumption hepatitis B and C) or 
+inherited in an autosomal dominant pattern (only 20%)
+• A primary cause: uroporphyrinogen decarboxylase deficiency (UROD: 
+one of the enzyme responsible for heme production. ).
+• primary manifestation is with skin disease (cutaneous porphyrias)
+• Porphyrins are photoactive molecules: exposure to light results in 
+promotion of electrons to higher energy levels. When these return to 
+the resting energy level or ground state, energy is released. This 
+causes local skin damage.
+• fluid or blood-filled blisters, 
+ostinflammatory pigmentation and cysts (milia)
+Cutaneous/chronic porphyrias: 
+porphyria cutanea tarda (PCT)
+
+=== PDF PAGE 32 ===
+• Abnormal concentrations of serum lipoproteins
+• Causes:
+• Primary dyslipoproteinemias result from:
+• genetic defects (familial dyslipoproteinemias)
+• dietary factors 
+• Secondary dyslipoproteinemias result from diabetes, hypothyroidism, 
+pancreatitis, renal nephrosis and medications such as certain 
+diuretics, beta-blockers or glucocorticoids.
+Dyslipidemia (or dyslipoproteinemia)
+
+=== PDF PAGE 33 ===
+• autosomal dominant disorders with various genetic defects in LDL receptor
+• accelerated atherosclerosis, coronary disease and fatal myocardial 
+infarction
+• cholesterol deposits in skin and tendons (xanthomas)
+• plasma cholesterol levels are approximately twice as high as normal
+Familial hypercholesterolemia (FH) 
+
+
+=== PDF PAGE 34 ===
+• Hyperlipidemia is classified according to which types of lipids are 
+elevated:
+• hypercholesterolemia: The UK National Health Service 
+recommends upper limits of total cholesterol of 5 mmol/L, and 
+low-density lipoprotein cholesterol (LDL) of 3 mmol/L.
+• hypertriglyceridemia
+• combined hyperlipidemia.
+Dyslipidemia (or dyslipoproteinemia): classification
+
+=== PDF PAGE 35 ===
+Lipoprotein metabolism disorders
+
+
+=== PDF PAGE 36 ===
+• A lipoprotein is an assembly whose primary purpose is to 
+transport hydrophobic lipid molecules in water (blood).
+• A lipoprotein consists of 
+• lipid center (triglycerides and cholesteryl esters = a dietary lipid, is 
+an ester of cholesterol)
+• outer shell, with the hydrophilic portions oriented outward toward the 
+plasma and lipophilic portions oriented inward toward the lipid 
+center. (phospholipids, cholesterol and embedded apolipoproteins that 
+determines its fate).
+Lipoprotein
+
+=== PDF PAGE 37 ===
+• Chylomicrons transport exogenous (dietary) products from the intestines to 
+other locations in the body. 
+• Nascent chylomicron: The enterocytes use fatty acids 
+and monoacylglycerides from the chime and transform again into 
+triglycerides and add apolipoprotein B-48
+• Mature chylomicrons: Nascent chylomicrons interact with HDL particles, 
+resulting in HDL donation of apolipoprotein C-II and apolipoprotein E to the 
+nascent chylomicron. 
+• Via apolipoprotein C-II, mature chylomicrons activate lipoprotein 
+lipase (LPL), an enzyme on endothelial cells lining the blood vessels in 
+the adipose (mainly) and muscle (less) tissues. LPL catalyzes 
+the hydrolysis of triglycerides that releases glycerol and fatty acids. 
+• They are absorbed in peripheral tissues (adipose and muscle).
+• Chylomicron remnants: When a large portion of the triglyceride core has 
+been hydrolyzed, chylomicron remnants are formed and are taken up by 
+the liver (apolipoprotein E).
+Exogenous pathway of Lipoproteins
+
+=== PDF PAGE 38 ===
+• Very-low-density lipoprotein (VLDL): is a type of lipoprotein made by 
+the liver (e.g. after the excessive incomes of sugar or ethanol). VLDL 
+transports endogenous triglycerides and circulates in blood. Lipoprotein 
+lipase (LPL) removes the triglycerides  from VLDL for storage or energy 
+production. 
+• Intermediate-density lipoprotein (IDL) or VLDL remnants: As more and more 
+triglycerides are removed from the VLDL, it becomes IDL. Via an interaction 
+between apolipoprotein E and the remnant receptor, IDL are absorbed by 
+the liver or escape to produce LDL. 
+• IDL remnants called low-density lipoproteins (LDL): If their cholesterol 
+content becomes greater than the content of triglyceride, IDL becomes LDL. 
+The majority of LDL content (cholesterol) is either stored, secreted in bile 
+(free cholesterol) used for cell membrane structure (cholesterol in the 
+cellular memrane), or converted into other products such as steroid 
+hormones or bile acids. Macrophages remover small part of the circulating 
+LDL. 
+Endogenous pathway of Lipoproteins
+
+=== PDF PAGE 39 ===
+• HDL is produced by the liver. It is the densest because it contains the 
+highest proportion of protein to lipids.
+• HDL remove  the tissue cholesterol from e.g. dead cells and transfer 
+it to VLDL and then LDL .
+• HDL is able to prevent the process of oxidation of LDL and the 
+subsequent inflammatory processes seen after oxidation.
+• HDL has the ability to bind LPS, creating HDL-LPS complexes to 
+neutralize the harmful effects in the body and clear the LPS from the 
+body.
+• LDL contains apolipoprotein B (apoB), which allows LDL to bind to 
+different tissues, such as the artery wall 
+• if they have been damaged by high blood sugar levels.
+• if oxidised, the LDL can become trapped in the proteoglycans, 
+preventing its removal by HDL cholesterol efflux. Normal functioning.
+Endogenous pathway II
+
+=== PDF PAGE 40 ===
+Defects in Amino Acid Metabolism
+• An enzymatic deficiency are associated with increased blood 
+concentrations of the amino acid whose degradation pathway is impaired 
+and with the appearance of the amino acid in the urine.
+• Examples:
+• Phenylketonuria (PKU)
+• Homocystinuria (HCU)
+
+=== PDF PAGE 41 ===
+• Genetic defect in enzymes that convert homocysteine to methionine or other 
+of the amino acids (an inherited autosomal recessive trait) 
+• Pathophysiology: an accumulation of the amino acid homocysteine in 
+the serum
+• Signs and symptoms:
+• Intellectual disability
+• Musculoskeletal diseases: osteoporosis, abnormally-shaped chest and 
+bone and joint problems
+• Vascular diseases: Homocysteine binds to the endothelium of the 
+blood vessels and activate signaling pathways leading to the release 
+of pro-inflammatory molecules. This may cause the following :
+• Extensive atheroma formation at a young age which affects many 
+arteries but not the coronary arteries
+• Intravascular thrombosis
+• Symptoms of homocystinuria can also be caused by a deficiency of vitamins 
+B6, B12, or folate
+Homocystinuria (HCU)
+
+=== PDF PAGE 42 ===
+Phenylketonuria (PKU):
+• Mutations of the phenylalanine hydroxylase (PAH) gene results in 
+phenylalanine hydroxylase deficiency and the inability of the body to 
+convert the essential amino acid phenylalanine to tyrosine, leading to the 
+accumulation of phenylalanine in the serum.
+• The accumulation of phenylalanine: brain growth slow, intellectual 
+disability, mental retardation, jerking movements, seizures, skin 
+rashes and attention problems.
+• The lack of tyrosine : blond hair, blue eyes, and fair skin (lack of 
+melanin)
+
+
+=== PDF PAGE 43 ===
+Disorders of the metabolism of sugars: hypoglycemia
+• Hypoglycemia: 3 mmol/L (more dangerous than hyperglycemia, first 
+manifestation is activation of sympathetic NS and advanced hypoglycemia leads to 
+cerebral edema and coma)
+• Postprandial hypoglycemia (after food)
+• Alimentary hyperinsulinism:  After GIT operation, some people with rapid 
+stomach emptying leading to fast release of insulin
+• Galactosemia: a rare genetic metabolic disorder preventing  glucose release 
+• Fructosemia: fructose intolerance, genetic disease an accumulation of 
+fructose-1-phosphate which, over time, results in the death of liver cells, 
+jaundice + hypoglycemia (fructosa-1phosphate inhibits gluconeogenesis)
+• Hypoglycemia with low production of glucose
+• Enzymopathy: glycogenosis
+• Endocrinopathy: hypopituitarism or hypocorticalism (Addison disease)
+• Sever malnutrition
+• Alcohol and drugs
+• Excessive glucose consumption
+• Excessive energetic demand: normoinsulinism
+• Excessive effect of insulin: hyperinsulinism
+• Insulinoma: a rare tumor of endocrine cells in pancreas
+• Treatment of Type I and II diabetes mellitus
+
+=== PDF PAGE 44 ===
+• Hyperglycemia:  7mmol/L 
+• Manifestation:
+• Glycosurie if serum glucose 10mmol/L, dehydration
+• Acute: Hyperglycemic and hyperosmolar coma in Type II diabetes mellitus
+• Chronic: AGE advanced glycation endproducts damage vessel wall, hemoglobin 
+glycation, polyol pathway increasing sorbitol in some organs, ROS production
+• The 1st step in the sorbitol pathway is the conversion of glucose to sorbitol. 
+The 2nd step in this pathway is the conversion of sorbitol into fructose via 
+the enzyme sorbitol dehydrogenase. A point of concern is that not all tissues 
+have the enzyme sorbitol dehydrogenase, and these include the retina, 
+kidneys, and Schwann cells. As a result, diabetic patients with ↑ glucose 
+levels accumulate sorbitol to toxic levels within these organs.
+• Causes of hyperglycemia:
+• Diabetes mellitus Type I
+• Diabetes mellitus Type II
+• Insulin resistance that accompany many diseases, e.g. infection
+• Increased corticoids: Cushing‘s syndrome or drugs
+• Adenoma of pituitary gland: acromegaly (STH)
+• Glucagonoma: a very rare tumor of the pancreatic alpha cells that results in the 
+overproduction of the hormone, glucagon.
+Disorders of the metabolism of sugars: hyperglycemia
+
+=== PDF PAGE 45 ===
+References 
+Look up the particular theme in the following indexes
+• Porth's Pathophysiology: Concepts of Altered Health States (9th 
+Edition) by Sheila Grossman, Carol Mattson Porth. Wolters Kluwer 
+Health | Lippincott Williams & Wilkins, 2014. 
+• McCance K. L., Huether S. E.: Pathophysiology. 8th Edition. Mosby, 
+2018. 
+• Silbernagl S, Lang F. Color Atlas of Pathophysiology, 3rd Ed. 
+Thieme, 2016. 

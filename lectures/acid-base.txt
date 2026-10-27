@@ -1,0 +1,1588 @@
+=== PDF PAGE 1 ===
+ACID-BASE BALANCE
+
+=== PDF PAGE 2 ===
+Content
+• 1. Introduction
+• Definition of acidemia and alkalemia
+• General effect of acidemia and alkalemia
+• Difference between acidosis and acidemia
+• Difference between alkalosis and alkalemia
+• Blood sampling to determine the acid-base status
+• 2. Examples of biochemical pathways that produce H+
+• 3. Buffer: 
+• pH basics
+• Buffer system and organs
+• 4. Clinical Approach to Acid-Base Disturbances
+• Henderson-hasselbalch equation
+• Astrup
+• Respiratory component with/without compensation
+• Metabolic component with/without compensation
+• Anion gap and BE
+• Typical examples of metabolic acidosis with high AG, normal AG and 
+metabolic alkalosis
+• Simple and mixed disturbances
+• Cases
+
+=== PDF PAGE 3 ===
+1. Introduction
+
+=== PDF PAGE 4 ===
+Extreme value that is 
+compatible with life 
+under exceptional 
+conditions
+Extreme value that is 
+compatible with life 
+under exceptional 
+conditions
+Serious 
+acidosis
+Normal 
+pH
+pH increase
+H+ increase
+antialgorithm
+In comparison with alkalosis, acidosis can be compensated better, 
+because we accept larger drop of pH than its increase.
+Definition of acidemia and alkalemia
+
+=== PDF PAGE 5 ===
+• Negative inotropic (contractility), and chronotropic (heart rate) 
+effect but it is neutralized by catecholamines that are also 
+stimulated by acidosis.
+• Inhibit CNS including respiratory centers
+• In systemic vessels, 
+• acidosis causes vasodilation in peripheral arterioles but is 
+also offset by catecholamine, so that peripheral vascular 
+resistance remains relatively constant. 
+• In brain, vasodilation can cause edema.
+• in the venous system, the direct effect of acidosis 
+is vasoconstriction, which is further enhanced by 
+catecholamine release: prevent lung edema
+• Osteoporosis : Ca2+ and phosphate liberated from bone 
+(hydroxyapatite, Ca5(PO4)3(OH)) 
+• Final stage: coma (due to H+-mediated protein denaturation in 
+CNS, dehydration, hyperosmolarity in diabetic ketoacidosis)
+Acidemia: general effect
+
+=== PDF PAGE 6 ===
+• Acute alkalosis increases binding and reduces free plasma Ca2+ 
+leading to tetany
+• Compensation of MA by hypoventilation is limited by O2
+• In brain, vasoconstriction that decrease its perfusion
+• Final stage: coma or asphyxia
+Alkalemia: general effect
+
+=== PDF PAGE 7 ===
+acidosis vs acidemia and alkalosis vs alkalemia
+BLOOD
+Local process that does not have to change blood
+
+=== PDF PAGE 8 ===
+ Sampling:
+◦ arterial blood
+◦ capillary blood
+◦ venous blood
+◦ arterial and venous sampling
+Blood sampling to determine the acid-base status
+
+=== PDF PAGE 9 ===
+Blood sampling to determine the acid-base status
+ Into heparinized capillaries immediately hermetically sealed to 
+prevent uncontrolled contact with air (02 CO2)
+ Check whether the column of blood in the capillaries is without 
+bubbles
+ The sample immediately into crushed ice or in a refrigerator 
+(temperature up to 00 C) in order to immediate arrest metabolism of 
+erythrocyte-lactate production – it may affect the evaluation of the 
+sample ABR !!!!)
+ the fastest sample processing - barrier of inadequate results
+
+=== PDF PAGE 10 ===
+• Anaerobic glycolysis (lactic acid)
+• Lipolysis
+• Ketone bodies in the liver
+• Degradation of some amino acids: Sulphur containing amino acids and 
+cationic amino acids produce H2SO4 and H3PO4
+2. Examples of biochemical pathways that 
+produce H+
+
+=== PDF PAGE 11 ===
+Production of  H+
+anaerobic metabolism 
+• The electron transport chain cannot work 
+without O2, leading to accumulation of 
+NADH. Therefore, lactic acid is 
+synthetized to replenish NAD+. The lactic 
+acid create rapidly lactate and H+.
+• Lactate can be used as a source of 
+energy.
+• Lactate undergoes oxidation (O2 is 
+required) predominantly in the hepatocytes, but also in 
+the kidneys as well as cardiac and skeletal
+• Lactate undergoes gluconeogenesis, predominantly in 
+the liver and to a lesser extent in the kidneys.
+
+=== PDF PAGE 12 ===
+Other sources of H+ production
+• Production of free fatty acids from adipose tissue (lipolysis)
+• Triglycerides → glycerol + 3 fatty acids + 3H+
+In the mitochondria, beta-oxidation generates one acetyl CoA, one 
+NADH and one FADH2 for every removal of a two-carbon group from 
+fatty acids. Acetyl-CaA enters to the citric acid cycle while NADH and 
+FADH2 are used in the electron transport chain where O2 is required.
+
+=== PDF PAGE 13 ===
+Production of ketone bodies
+• Ketone bodies are produced mainly in the mitochondria of liver cells in 
+response to an unavailable of blood glucose, such as during fasting.
+• Fatty acids → ketone bodies + nH+
+• Ketone bodies are alternative source of energy, e.g. for heart
+• The most important ketone bodies are acetone, acetoacetate and beta-
+hydroxybutyrate
+
+=== PDF PAGE 14 ===
+Other Sources of H+ 
+• H2SO4 - sulphuric acid is produced by oxidation of sulfhydryl groups, e.g. 
+The degraded amino acids that contain sulphur such as cysteine, 
+methionine.
+• H3PO4 - phosphoric acid is produced by hydrolysis of phosphoproteins, 
+phospholipids, nucleic acids 
+
+=== PDF PAGE 15 ===
+3. Buffers
+
+=== PDF PAGE 16 ===
+• Acids create hydrogen ions in the
+solution ("proton donors")
+• The bases bind hydrogen ions in
+solution with ("proton acceptors")
+• Strong acids ionize completely in
+solution to form H+ and base
+• Weak acids and bases are only
+partially ionized in solutions
+• Buffers are substances that reduce
+the changes in concentration of H+
+(pH), where H+ added to the solution
+or removed therefrom: It is a weak
+acid and a base.
+What is buffer: pH basics
+
+
+=== PDF PAGE 17 ===
+Buffer system and organs
+• Blood:
+• Hydrogen carbonate 
+• Hemoglobin
+• Plasma protein
+• Renal buffer:
+• Hydrogen phosphate
+• NH3/NH4
++ buffer
+• Ca2+ bone buffer
+• Liver
+• Urea vs. glutamine
+• H+/K+ or Cl-/HCO3
+- exchange between extra and intracellular 
+fluid 
+• The bicarbonate buffer accounts for 53% of all 
+buffers. The second most important buffer is 
+hemoglobin (Hemoglobin is an intracellular 
+buffer)
+• extracellular HCO3
+- (53%)
+• intracellular (18% in erythrocytes)
+
+=== PDF PAGE 18 ===
+The bicarbonate buffer: HCO3
+-
+Weak acids:pKa=6.1
+• The bicarbonate buffer is a good buffer because of two:
+• H2CO3 is weak acid
+• A loss of CO2 in the lung
+Carbonic 
+anhydrase
+CO2 is removed by 
+respiration leading to 
+loss of acids (H2CO3)
+This reaction is slow unless the enzyme carbonic anhydrase is present. This 
+enzyme is abundant in the wall of the lung alveoli, where CO2 is released and 
+in renal tubules, where CO2 with H2O reacts and form H2CO3.
+
+=== PDF PAGE 19 ===
+The hemoglobin buffer is intracellular buffer
+The hemoglobin buffer is main non-bicarbonate buffer (less plasmatic 
+proteins and phosphates)
+In tissue, hemoglobin liberates
+O2 and binds H+ that is formed 
+by enzymatic (carbonic 
+anhydrase) reaction CO2+H2O 
+= H+ + HCO3
+-
+(HCO3
+- is release from the red 
+cells and Cl- enter red cells to 
+keep neutral el. charge, 
+venous blood has less Cl-) 
+In lung, hemoglobin 
+binds O2 and 
+liberates H+ that 
+reacts with HCO3
+-
+and forms CO2 and 
+H2O . New HCO3
+-
+enter the red cells 
+and Cl- exit to keep 
+neutral el. charge, 
+arterial blood has 
+more Cl-) 
+• Carbaminohemoglobin 
+is a weaker acid 
+(pKA=7.8):  Tissue H+
+are buffered by 
+hemoglobin.
+• Oxyhemoglobin 
+is a stronger 
+acid (pKA=6.2)
+
+=== PDF PAGE 20 ===
+Hemoglobin: dissociation curve in acidosis
+As acidosis progresses, 2,3-diphophoglycerate produced by glycolysis is going down 
+and causes left shift
+Normal pH: 
+amount of 
+released O2
+Acidosis: left shift: 
+more O2 is 
+released
+
+=== PDF PAGE 21 ===
+Hemoglobin: dissociation curve in alkalosis
+Alkalosis: ↑ affinity of Hb binds ↑ amount ofO2 that is not released in tissue 
+and the cells produce lactate that will compensate respiratory alkalosis
+Alkalosis: ↓ 
+amount of 
+released O2 in 
+tissue
+Normal pH: 
+amount of 
+released O2
+
+
+=== PDF PAGE 22 ===
+Hypoproteinemia (hypoalbuminemia) by itself causes a nonrespiratory 
+(“metabolic”) alkalosis.
+Buffering by proteins accounts for two-thirds of the buffering power of the 
+blood and most of the buffering within cells.
+The proteins buffer
+positively charged amino groups and negatively charged carboxyl groups.
+The plasma proteins buffer accounts for 7% of all buffers
+
+=== PDF PAGE 23 ===
+The liver: a normal source of urea 
+• Amino acids are deaminated (removal of an amino group) so that they can be 
+processed into the Krebs/Citric Acid/TCA cycle.
+• The amino group becomes ammonium and later undergoes the urea cycle to 
+become urea in the liver.
+• CO2 + NH4
++ → urea + 2H+ (e.g. Sulphur containing amino acids and 
+cationic amino acids → acidification) 
+• CO2 + NH4
++ → urea without 2H+ (neutral amino acid) 
+
+=== PDF PAGE 24 ===
+The role of hepatocytes in acid base disturbance:
+production of urea or glutamine 
+• Urea is produced in less extent in acidosis. Hepatocytes synthetize 
+more glutamine, because its production does not generate H+.
+• NH4
++ → glutamine synthesis → glutamine 
+• Glutamine is taken up by the kidneys. In the kidney H+ is excreted as 
+NH4
++
+
+=== PDF PAGE 25 ===
+Lactic acid in the liver is firstly metabolized to pyruvic acid and then 
+converted to glucose by gluconeogenesis. Both the release of lactic acid 
+from the muscles and its metabolism into glucose is called the Cori cycle. 
+This complete process results in the equivalent release of an [HCO3−] 
+radical.
+The role of hepatocytes in acid base disturbance:
+the consumption of excessive lactic acid 
+
+=== PDF PAGE 26 ===
+Kidney: normal function
+ The kidney excretes H+: normal urine pH 4.5 – 8  and urine anion 
+gap is negative.
+ The kidney reabsorbed all filtered HCO3
+- .
+In details: For every H+ ion secreted into 
+the tubular lumen (H+ is actively 
+exchanged for Na+), HCO−
+3 enters the 
+blood. 90% of filtered HCO−
+3 is 
+reabsorbed in the form of CO2 and 
+HCO−
+3. H+ normally do not contribute to 
+the urinary excretion of acid or the 
+addition of acid to the blood.
+
+
+=== PDF PAGE 27 ===
+The role of kidney in acid base disturbance
+1. Role of proximal tubule:
+1. HCO3
+- reabsorption
+2. Metabolize glutamine
+2. Role of distal tubule: 
+1. de novo HCO3
+- formation
+2. renal buffers:
+• The phosphate buffer 
+accounts for 5% of all 
+buffers
+• Important in urine due 
+to acidic pH and higher 
+concentration
+• NH3/NH4
++ Cl buffer
+
+=== PDF PAGE 28 ===
+Proximal convoluted tubule: 
+the effect of diuretics, hormones and genetic defect
+• Acetazolamide: Inhibits carbonic anhydrase and thus blocks hydrogen ion 
+secretion and reabsorption of sodium and bicarbonate“ leading to increased 
+diuresis and side effects: hypokalemia, hyperchloremic, systemic acidosis, 
+alkaline urine
+• Na+/H+ pump: depend on available HCO−3
+• arterial↑pCO2stumulate Na+/H+ pump 
+• ↑ angiotenzin II stumulate Na+/H+ pump
+• ↑ Parathormone decrease Na+/H+ pump (hyperparathyroidism leads to m. 
+acidosis and alkaline urine)
+• Proximal tubular acidosis: genetic change in Na+/H+ pump: not absorbed 
+HCO−3
+• IV with HCO−3 will not help because HCO−3 is no reabsorbed
+
+=== PDF PAGE 29 ===
+Proximal convoluted tubule: HCO3
+- reabsorption
+
+
+=== PDF PAGE 30 ===
+Proximal convoluted tubule in metabolic acidosis: 
+glutamine and NH4
++ buffer
+From 
+the liver
+
+=== PDF PAGE 31 ===
+Intercalated cells of distal and collecting tubules:  
+• H+ secretion to 
+urine to be buffer 
+with NH3 or 
+H2PO4
+- (the next 
+2 slides) 
+• De novo 
+HCO3
+-
+production 
+and secretion 
+to blood
+• Cl- enter from 
+blood to urine 
+(antiporter 
+with HCO3
+-)
+
+=== PDF PAGE 32 ===
+Distal tubule in metabolic acidosis: NaH2PO4 buffer
+• H+
+secretion to 
+urine to be 
+buffered 
+with H2PO4
+-
+
+
+=== PDF PAGE 33 ===
+• H+ secretion to 
+urine to be 
+buffered with 
+NH3
+Collecting tubule in metabolic acidosis: 
+NH4
++ Cl buffer
+
+=== PDF PAGE 34 ===
+The recycling of NH3
+NH4
++ from glutamine:
+Reabsorbed via Na+2Cl-NH4
++ in ascending loop
+Release NH3 that diffuse to interstitium and partially diffuse to descending loop 
+where NH3 binds H+.
+The interstitium releases as much NH3 as H+ is in collecting tubules
+
+=== PDF PAGE 35 ===
+principle cells  Intercalated cells  Intercalated cells
+A 
+intercalat
+ed cells
+secrete 
+H+ into 
+the 
+tubular 
+lumen 
+and 
+HCO3
+-
+into blood 
+in 
+exchange 
+for Cl-
+The distal tubule: a role of aldosterone 
+
+=== PDF PAGE 36 ===
+Interchangeable anions and cations
+• Interchangeable K+ and H + (two—way mechanism)
+• Acidosis can be associated with hyperkalemia but may lead to 
+hypokalemia due to the increased excretion.
+• Alkalosis can be associated with hypokalemia
+• Interchangeable Cl- and HCO3
+-
+• Acidosis can be associated with increased Cl- (hyperchloremic / 
+normal anion gap) or normal Cl- (normochloremic / high anion 
+gap)
+• Alkalosis can be hypochloremic
+
+
+=== PDF PAGE 37 ===
+Interchangeable ions in acidosis: K+ and H + 
+• Hypoaldosteronism: ↑ plasma K + is not excreted: hyperkalemia (↓aldosterone 
+does not stimulate its excretion)
+• RTA: ↑ plasma K+ is excreted as negative luminal charge (↓urinary acidification) 
+support K+ excretion: hypokalemia
+• In high anion gap acidosis (e.g. 
+excess of organic acid in lactic 
+acidosis or diabetic acidosis), a 
+proton enters cell with anions and 
+both pumps H+/Na+ and Na+/K+ work, 
+leading to hypokalemia that can be 
+supported by osmotic diuresis or the 
+effect of insulin in diabetic acidosis.
+• In normal anion gap acidosis, both 
+intra and extracellular concentrations 
+of H+ are elevated and inhibit both 
+pumps: hyperkalemia
+
+=== PDF PAGE 38 ===
+• Interchangeable Cl- and HCO3-
+• Acidosis can be associated with increased Cl- (hyperchloremic=
+normal anion gap) or normal Cl- (normochloremic= high anion 
+gap)
+• Alkalosis can be hypochloremic
+• Red cells:
+• Nephron:
+• Intercalated cells A: basolateral side
+• Intercalated cells B: apical side
+Interchangeable ions: HCO3
+- and Cl-
+
+=== PDF PAGE 39 ===
+Bone buffer: Calcium
+• Most Ca2+ (99%): in bone as hydroxyapatite (Ca5(PO4)3(OH))
+• Small fraction of Ca2+ circulating within the intracellular (primarily in 
+the mitochondria) and extracellular (in the blood):
+• 50% is bound to plasma proteins, (primarily albumin) and
+• 40% is in the free or ionized form (5.5 to 5.6 mg/dl). 
+Ca+
+
+=== PDF PAGE 40 ===
+The ionized calcium
+In states of acidosis, levels of ionized Ca2+ increase. 
+When alkalosis develops, with an increase in pH, the amount of 
+protein-bound calcium increases and the physiologically active, ionized 
+Ca2+ level decreases. The decreased concentration of ionized Ca2+ 
+may be great enough to cause symptoms of hypocalcemia, such as 
+tetany.
+Ca+
+
+=== PDF PAGE 41 ===
+3. Clinical Approach to Acid-Base Disturbances
+
+=== PDF PAGE 42 ===
+It refers to 4 parameters that 
+assess acid-base disturbance:
+pH
+pO2
+pCO2
+HCO3
+-
+Astrup
+
+=== PDF PAGE 43 ===
+↑pCO2
+(normal = 
+40 mmHg 
+(33-44))
+Cause: 
+lung diseases
+↓HCO3
+-
+(normal = 24 
+mmol/L
+(22-28)
+Cause: renal, liver 
+or other diseases
+↓ pCO2 
+(normal = 40 
+mmol/L
+(33-44))
+Cause: 
+lung diseases
+↑HCO3
+-
+(normal = 24 
+mmol/L
+(22-28))
+Cause: renal, liver 
+or other diseases
+Astrup
+
+=== PDF PAGE 44 ===
+Henderson-hasselbalch equation: 
+compensation
+• 6.1: Dissociation constant
+• 0.03: Solubility coefficient for CO2
+• There is a simple fraction in the equation. 
+• It means that if a numerator (HCO3
+-) is increased, a denominator (CO2) 
+also must increase to keep normal (physiological) pH.
+• It means that if a numerator (HCO3
+-) is decreased, a denominator (CO2) 
+also must decrease to keep normal (physiological) pH.
+
+=== PDF PAGE 45 ===
+All simple AB disturbances
+with their compensations together
+
+
+=== PDF PAGE 46 ===
+↑pCO2
+Cause: 
+lung diseases
+↓HCO3
+-
+Cause: renal, liver 
+or other diseases
+↓ pCO2
+Cause: 
+lung diseases
+↑HCO3
+-
+Cause: renal, liver 
+or other diseases
+• Without compensation: 
+• Hypoventilation
+• Pickwickian syndrome
+• With compensation after (3-5 
+days for kidney) : COPD
+Respiratory component with/without 
+compensation: acidosis
+
+=== PDF PAGE 47 ===
+↑pCO2
+Cause: 
+lung diseases
+↓HCO3
+-
+Cause: renal, liver 
+or other diseases
+↓ pCO2
+Cause: 
+lung diseases
+↑HCO3
+-
+Cause: renal, liver 
+or other diseases
+Without compensation:
+• Hyperventilation
+• staying in high altitude
+• anxiety attack
+With compensation after (3-5 days for kidney)
+Respiratory component with/without 
+compensation: alkalosis
+
+=== PDF PAGE 48 ===
+↑pCO2
+Cause: 
+lung diseases
+↓HCO3
+-
+Cause: renal, liver 
+or other diseases
+↓ pCO2
+Cause: 
+lung diseases
+↑HCO3
+-
+Cause: renal, liver 
+or other diseases
+With compensation as the healthy lung can 
+compensate rapidly (6-12 hours)
+• high anion gap = normochloremia
+• normal anion gap= hyperchloremia
+Metabolic component with/without 
+compensation: acidosis
+
+=== PDF PAGE 49 ===
+↑pCO2
+Cause: 
+lung diseases
+↓HCO3
+-
+Cause: renal, liver 
+or other diseases
+↓ pCO2
+Cause: 
+lung diseases
+↑HCO3
+-
+Cause: renal, liver 
+or other diseases
+With compensation after 6-12 hours for lung
+• Alkalosis with high Cl- loss in urine
+• Alkalosis with lower Cl- loss in urine
+Metabolic component with/without 
+compensation: alkalosis
+
+=== PDF PAGE 50 ===
+↑pCO2
+Cause: 
+lung diseases
+↓HCO3
+-
+Cause: renal, liver 
+or other diseases
+↓ pCO2
+Cause: 
+lung diseases
+↑HCO3
+-
+Cause: renal, liver 
+or other diseases
+With compensation after 6-12 hours 
+for lung
+• Alkalosis with high Cl- loss in 
+urine
+• Alkalosis with lower Cl- loss in 
+urine
+Metabolic and respiratory component 
+with/without compensations: summary
+Without compensation:
+• Hyperventilation
+• staying in high 
+altitude
+• anxiety attack
+With compensation after (3-
+5 days for kidney)
+With compensation as the healthy 
+lung can compensate rapidly (6-
+12 hours)
+• high anion gap = 
+normochloremia
+• normal anion gap=
+hyperchloremia
+• Without compensation: 
+• Hypoventil
+ation
+• Pickwickia
+n
+syndrome
+• With compensation after 
+(3-5 days for kidney) : 
+COPD
+
+=== PDF PAGE 51 ===
+Compensation and correction
+Powerful compensation of 
+respiratory acidosis takes time:
+• Kidney: ↑ pCO2 leads to excess 
+of H+ over HCO3
+- in the tubular 
+fluid  and the ↑ H+ induce Na+/H+
+pump leading to intensive renal 
+reabsorption of HCO3 and mainly 
+renal formation of new HCO3
+-
+• Liver: glutamine over urea is 
+synthetized
+Compensation of metabolic acidosis: 
+• Fast and less powerful lung: decreases 
+pCO2 (acids) by hyperventilation
+Correction of metabolic acidosis:
+• ↓ filtration of HCO3
+- leads to an excess 
+of H+ over HCO3
+- in the renal tubular 
+fluid and the ↑ H+ induce Na+/H+ pump 
+leading to renal formation of new HCO3
+-
+if met. acid is not due to renal diseases
+• ↑  NH4
++Cl and NaH2PO4 in urine
+
+=== PDF PAGE 52 ===
+Maintenance of the acid-base balance: timetable
+1) Chemical buffering systems
+• “Quick” regulation. Buffers react immediately (ms). Capacity of 
+buffers is not indefinite that is why chemical buffers act only in the 
+short-term. Chemical buffering systems deal with pH deviations in 
+common metabolism.
+2) Respiratory system “Intermediate”
+• Respiration starts to react in 1-3 minutes. Respiratory system 
+regulates PaCO2, max activation after 12 hours
+3) Kidneys (“Slow” )
+React in hours-days, max activation after 3-5 days.
+4) Myocardium
+• Influences acid-base balance through lactate and ketone bodies 
+oxidation.
+
+=== PDF PAGE 53 ===
+Metabolic acidosis: „ANION- GAP“ 
+AG = (Na+ + K +) - [(HCO3
+- + Cl-)] 
+AG = 12 +/- 2 mmol/L
+The AG value represents the difference between measured cations 
+and anions, ie, the presence of anions in the plasma that are not 
+routinely measured including:
+• Lactate (anion of lactic acid) in lactic acidosis
+• Phosphates and sulfates in last stage of renal failure
+• Keto bodies (acetoacetic acid, hydroxybutyric acid and acetone) in
+ketoacidosis
+• Other anions in ingestion of certain toxins. 
+• Albumins
+55
+
+=== PDF PAGE 54 ===
+Metabolic acidosis: with ↑ AG or normal AG
+Na+
+Cl-
+A normal AG 
+acidosis is 
+characterized by a 
+lowered HCO3
+-
+concentration, which 
+is counterbalanced 
+by an equivalent 
+increase in plasma 
+Cl- concentration 
+due to ↑ renal 
+reabsorption
+High AG acidosis is 
+characterized by 
+• a lowered HCO3
+-
+concentration, 
+which is not 
+counterbalanced 
+by an equivalent 
+increase in plasma 
+Cl- concentration.
+• Accumulation of 
+strong acid anions: 
+lactate anion or 
+keto bodies
+UA: Unmeasured cations / anions
+High Anion Gap 
+without 
+hyperchloremia
+Normal Anion Gap 
+with 
+Hyperchloremia
+Normal plasma
+
+=== PDF PAGE 55 ===
+1 Buffer base and Buffer excess
+“Buffer base” (BB) is the sum of bicarbonate and non-bicarbonate 
+buffer anions (ie, HCO3
+− + K*albumins +K2*hemoglobin).
+Base excess is the quantity of base (HCO3
+-, in mEq/L) that is above 
+or below the normal range of buffer base in the body (22 -28 
+mEq/L).
+
+=== PDF PAGE 56 ===
+2 Buffer base and Buffer excess
+“BE” is defined as the amount of acid or base that must be added in 
+vitro to a sample of whole blood to restore the pH to 7.40 while 
+PaCO2 is kept constant at 40 mmHg (5.33 kPa). Oxygenated blood 
+at PaCO2 40 mmHg (5.33 kPa) and Hb 150 g/L has a BE of zero
+Normal Base excess is between -3 and +3mEq/L.
+Negative base excess (e.g. BE –8 mmol/L) indicates metabolic 
+acidosis 
+Abnormally positive base excess (e.g. BE +8 mmol/L) indicates 
+metabolic alkalosis.
+
+=== PDF PAGE 57 ===
+High Anion Gap without hyperchloremia: causes
+Causes
+• Lactic acidosis (buildup of lactate)
+• Ketoacidosis (DM I type, starvation, alcoholic ketoacidosis)
+• Last stage of chronic renal failure (accumulation of sulfates, 
+phosphates, uric acid)
+• Intoxication:
+• Organic acids (salicylates, ethanol, methanol, formaldehyde, 
+ethylene glycol, paraldehyde, INH, toluene)
+• Sulfates, metformin (Glucophage)
+• Massive rhabdomyolysis
+
+=== PDF PAGE 58 ===
+Delta Ratio
+• Delta Ratio is AG scale
+• Calculation: (AG – 12)/(24 - [HCO3¯])
+• < 0.4 due to NAGMA (normal anion gap metabolic acidosis) 
+• 0.4 - 0.8 due to a mixed NAGMA + HAGMA 
+• 0.8 - 2.0 due to a pure HAGMA (high anion gap metabolic 
+acidosis e.g. Lactic acidosis)
+• >2.0 due to a mixed HAGMA + metabolic alkalosis (or pre-
+existing compensated respiratory acidosis) (e.g. COPD)
+
+=== PDF PAGE 59 ===
+High Anion Gap without hyperchloremia: mnemonics
+• MUDPILES
+• M-Methanol poisoning
+• U-Uremia
+• D-Diabetic Ketoacidosis
+• P-Paraldehyde
+• I-Infection, Iron, 
+Isoniazid
+• L-Lactic acidosis
+• E-Ethylene Glycol
+• S-Salicylates
+ GOLDMARK
+◦ G — glycols (ethylene 
+glycol & propylene glycol)
+◦ O — oxoproline, a metabolite 
+of paracetamol
+◦ L — L-lactate, the chemical 
+responsible for lactic acidosis
+◦ D — D-lactate causes of anion gap 
+metabolic acidosis include
+◦ M — methanol
+◦ A — aspirin
+◦ R — renal failure
+◦ K — ketoacidosis, ketones generated 
+from starvation, alcohol, and diabetic 
+ketoacidosis
+ KULT is probably the easiest of the mnemonics to use (Ketones, 
+Ureamia, Lactate, Toxins).
+
+=== PDF PAGE 60 ===
+Normal Anion Gap with hyperchloremia: causes
+• GIT
+• kidney
+
+=== PDF PAGE 61 ===
+• If kidney function is normal, urine
+anion gap negative.
+• Bicarbonate loss from body fluids
+through the GI tract, with
+subsequent relative chloride
+retention: hyperchloremic
+metabolic acidosis (e.g.
+Longstanding diarrhea, vomiting
+the content from deeper in the
+gastrointestinal tract). Negative
+urine gap as the kidney
+compensate by ↑NH4
++ excretion
+that are accompanied by ↑Cl-
+excretion
+urine anion gap AG = ([ Na+] + [ K +]) - [Cl-]
+• If kidney function is not
+normal, urine anion gap is 0 or
+positive
+• ↓ HCO3
+- reabsorption or ↓H+
+excretion in the kidney with
+subsequent Cl- retention:
+hyperchloremic metabolic
+acidosis (e.g. renal tubular
+acidosis (RTA) .Positive or 0
+urine gap as the kidney
+reabsorb Cl-: ↓ urinary
+acidification increases Cl-
+reabsorption
+Normal Anion Gap with hyperchloremia: 2 causes
+
+=== PDF PAGE 62 ===
+Diarrhea: normal AG in blood and urine 
+Bicarbonate loss from body fluids through the GI tract , with 
+subsequent relative chloride retention: hyperchloremic metabolic 
+acidosis with normal AG in the blood: AG = ([ Na+] + [ K +]) - [Cl-]
++ HCO3
+-]
+Normal (negative) urine gap as the kidney compensate by ↑NH4
++
+excretion that are accompanied by ↑Cl- excretion: urine anion gap AG 
+= ([ Na+] + [ K +]) - [Cl-]
+Hypokalemia may be present: the stool has ↑K+ and low Na+ and low 
+Cl-
+
+=== PDF PAGE 63 ===
+• Proximal renal tubular acidosis (type 
+II): with hyperchloremia and 
+hypokalemia. Rare
+• Distal renal tubular acidosis (type I.): 
+with hyperchloremia and hypokalemia. 
+Rare
+• Renal tubular acidosis (type III):  with 
+hyperchloremia and normokalemia but 
+later normochloremia, and 
+hyperkalemia. It  is combination of 
+type I and II. Rare
+• Generalized renal tubular acidosis 
+(type IV): with hypochloremia and 
+hyperkalemia
+Renal tubular acidosis (RTA) 
+↓ amount of blood HCO3
+-
+and↑ urinary HCO3
+- leads 
+to accumulation of Cl- and 
+↑ K+ excretion (due to 
+more negative charge in 
+tubular lumen)
+The renal interstices is 
+damaged by the 
+inflammation or decreased 
+glomerular filtration: ↑ 
+urinary NH4
++ reabsorbed 
+to blood
+
+=== PDF PAGE 64 ===
+Distal renal 
+tubular 
+acidosis (type 
+I.) is caused 
+by a failure of 
+the distal 
+tubular cells to 
+secrete H+ 
+into lumen of 
+nephron.
+Proximal renal tubular 
+acidosis (type II.) is 
+caused by a failure of 
+the proximal 
+tubular cells to 
+reabsorb bicarbonate
+from the urine. Renal tubular 
+acidosis Type 4  
+absolute 
+hypoaldosteronism 
+or aldosterone 
+insensitivity
+(principal cells of  
+collecting ducts)
+All RTA with normal AG
+Renal tubular acidosis
+type III. the renal 
+interstitium is damaged 
+by the inflammation or 
+decreased glomerular 
+filtration
+All RTA: ↓ urinary H+ increases Cl-
+reabsorption as luminal el. charge 
+is more negative
+
+=== PDF PAGE 65 ===
+Type II: proximal renal tubular acidosis 
+is caused by a failure of the proximal tubular cells to reabsorb 
+bicarbonate from the urine. There is defect in H+/Na+ antiporter that 
+is associated with HCO3
+- reabsorption. Type II is associated with 
+hyperchloremia and hypokalemia 
+• Hyperchloremia: To keep electric  equilibrium, Cl- are 
+accumulated leading to hyperchloremia (*). 
+• Hypokalemia: Excess of urinal bicarbonate in distal tubule 
+increases excretion of K+ leading to hypokalemia: Excessive 
+urinal bicarbonates bind Na + that is reabsorped by principal cells 
+and bicarbonates negative charge stimulate K + excretion 
+
+=== PDF PAGE 66 ===
+Proximal convoluted tubule: Type II RTA 
+Type II is a defect 
+in H+/Na+ 
+antiporter that is 
+associated with 
+HCO3
+-
+reabsorption.
+
+=== PDF PAGE 67 ===
+Type I: distal renal tubular acidosis 
+is caused by a failure of the distal tubular cells to secrete H+ into 
+lumen of nephron. Low H+ in distal lumen decreases bicarbonate 
+reabsorption. Type II is associated with hyperchloremia and 
+hypokalemia 
+• Hyperchloremia: To keep electric  equilibrium, Cl- are 
+accumulated leading to hyperchloremia (normal AG). 
+• Hypokalemia: Excess of urinal bicarbonate in distal tubule 
+increases excretion of K+ leading to hypokalemia: Excessive 
+urinal bicarbonates bind Na + that is reabsorbed by the principal 
+cells and bicarbonates negative charge stimulate K + excretion 
+
+=== PDF PAGE 68 ===
+Type III: renal tubular acidosis with decreased 
+glomerular filtration 
+is caused by low ammonia (NH3) in distal tubules. The inflammation of renal 
+interstices or low glomerular filtrations leads to ↓ concentration ability in the 
+descendent Henle loop and less concentrated HCO3
+- do not lead to NH3
+formation. Normally NH3 diffuse to renal interstitium and later collecting 
+tubules where it buffer H+. In Type III, the increased urinary NH4
++ is 
+reabsorbed by ascendent Henle loop (Na + /2Cl-/ NH4
++ ) pump to blood (not 
+renal interstices) and contribute to acidosis. 
+Type III is caused by 
+• ↓ low glomerular filtration: hyperchloremia, normokalemia with normal AG
+• ↓ ↓ low glomerular filtration (uremic end-stage renal failure with 
+hyperphosphatemia, hypocalcemia, secondary hyperparathyroidism and 
+osteodystrophy): normochloremia, hyperkalemia with ↑ AG due to 
+accumulation of anions of strong acids
+
+=== PDF PAGE 69 ===
+Type III RTA: the recycling of NH3
+The primary urine 
+is made denser 
+(more urinary 
+HCO3
+-) due to the 
+hyperosmolar 
+interstitium. If 
+primary urine is not 
+concentrated, NH3
+is not produce from 
+NH4
++ that 
+continues to Henle
+loop and is more 
+reabsorbed to 
+blood via Na+/2Cl-
+/NH4
++ (K+) pump.
+Low NH3 reach 
+collecting tubules and 
+thus urinary H+ is not 
+buffered and high H+
+inhibit H+ pump. 
+The inflammation in interstitium
+
+=== PDF PAGE 70 ===
+Type IV: generalized distal tubular acidosis 
+Problem with Na+ resorption and K + and H + excretion due to low 
+aldosterone. It is associated with high amount of salt in urine, 
+hypochloremia and hyperkalemia. AG is normal as hyperchloremia 
+is relative one: ↓ aldosterone decreases Na+ and Cl- reabsorption 
+but Na + reabsorption is more affected than Cl - reabsorption. 
+Type IV is caused by
+• Hypoaldosteronism: aldosterone should stimulate H+ ATPase 
+• Relative hypoaldosteronism: due to low renin activity in diabetic 
+nephropathy or hypertensive nephrosclerosis
+
+=== PDF PAGE 71 ===
+Hypochloremic alkalosis based on Urinary 
+Chloride
+Urine chloride < 25 mEq/L
+• often associated with volume depletion (contraction alkalosis)
+• respond to saline infusion
+• common causes:
+✓vomiting gastric content (90% of cases)
+✓alkalotic therapy, such as bicarbonate 
+administrated in peptic ulcer
+✓Diuretic therapy : loop 
+diuretics and thiazide
+✓Cystic fibrosis
+Urine chloride > 40 mEq/L
+✓ often associated with volume expansion and hypokalemia
+✓ resistant to therapy with saline infusion
+✓ causes: excess aldosterone, severe K+ deficiency, current 
+diuretic therapy, Bartter syndrome
+
+=== PDF PAGE 72 ===
+VOMITING
+• acid loss
+• water depletion
+• depletion of ECF sodium, potassium and chloride.
+Low Na+
+induces 
+sodium 
+retention 
+and 
+increases 
+K+ 
+excretion
+Low K+
+induces H+
+shift toward 
+intracellular 
+space 
+contributes 
+to alkalosis
+Low Cl-
+• The kidneys increase HCO3
+− reabsorption to maintain an anionic 
+balance because the ECF Cl− concentration is decreased. (Like 
+chloride shift: In venous blood, the red cells release Cl− in exchange 
+for HCO3
+−)
+• Low Cl- cannot neutralize the reabsorbed Na+ and more positive 
+basolateral side potentiate the effect of aldosterone supporting K+ 
+and H + excretion to urine (hypochloremic alkalosis with paradoxical 
+acidification of urine)
+hydrochloric acid in the gastric 
+juice
+Aldosterone:
+• In the principal cells of the distal tubule aldosterone 
+activates the basolateral Na+/K+ pumps. Cl- follow the 
+reabsorbed Na+ to neutralize e. charge.
+• In intercalated cells of collecting tubules aldosterone 
+stimulates secretion of H+ via the H+/ATPase. It also 
+increases generation of "new" bicarbonate within these 
+same cells, which will be reabsorbed
+Therapy: Cl- must be replenisched in infusion t.
+
+=== PDF PAGE 73 ===
+Vomiting: the effect of Cl- loss
+Normal situation:
+principle cells (aldosterone): 
+Na+ is  absorbed. K+ is 
+secreted. Passive transport of 
+Cl- follow Na+ reabsorption 
+and lumen is less negative 
+but enough negative to 
+stimulate H + and K+
+excretion.
+Vomiting: ↓ Cl- potentiate the 
+effect of aldosterone 
+supporting K + and H + 
+excretion (intercalated cells): 
+hypochloremic alkalosis with 
+paradoxical acidification of 
+urine) 
+Therapy: replenished Cl- stimulate B-intercalated cells to excrete HCO3
+-
+More negative charge support H+ excretion in hypochloremia
+More positive charge without Cl-
+principle 
+cells
+ Intercalated
+cells
+ Intercalated
+cells
+++
+---
+
+=== PDF PAGE 74 ===
+
+
+=== PDF PAGE 75 ===
+primary or secondary (e.g. due to ↓ oncotic pressure in liver cirrhosis) 
+hyperaldosteronism
+• ↑ aldosterone: ↑ renal excretion of K+ causing hypokalemia and ↑ H+
+excretion causing m. alkalosis and ↑ Na+ reabsorption causing ↑ Cl-
+reabsorption with low urinary Cl- (but higher compare that in vomiting). 
+• Hypokalemia is also supported by 
+• K + shift from the extracellular space to intercellular space in 
+exchange for H +
+• ↑  intracellular K + in renal tubular cells that also support K + 
+excretion
+Hyperaldosteronism
+
+=== PDF PAGE 76 ===
+Bartter syndrome (BS) 
+mutations involving the Na+-K+-2Cl- cotransporter in the thick ascending 
+limb of the loop of Henle. Na+-K+-2Cl- cotransport one sodium, one 
+potassium, and two chloride ions across the apical membrane of the 
+tubule.
+• Primary hypereninism and secondary 
+hyperaldosteronism
+• Hypokalemia
+• Hypochloremia 
+• Metabolic alkalosis
+• Tendency to hypovolemia
+
+
+=== PDF PAGE 77 ===
+Bartter syndrome (BS) 
+Abolishment of the 
+hypertonicity of the 
+renal medulla, 
+severely impairing 
+the ability to 
+reabsorb water 
+later in the distal 
+nephron 
+and collecting duct 
+system, leading to 
+normal extracellular 
+volume with 
+tendency to 
+hypovolemia.
+↓ Na+, K+, 2Cl-
+reabsorption 
+in the Henle loop ↑ urinary Na+ load to the 
+distal nephron
+↑ Na+
+reabsorption
+Chronic stimulation 
+of macula densa 
+(hyperplasia of 
+Juxtaglomerular apparatus 
+) and renin
+↑ urinary Cl- load to the distal 
+nephron and their excretion
+↑ aldosterone
+HypokalemiaH+ ATPase stimulation and H+
+excretion
+Na+ combines with HCO3
+- as 
+relative ↓ Cl- in urine. HCO3
+-
+are nor reabsorbed and abolish 
+the lumen-positive voltage, 
+resulting in decreased calcium 
+and magnesium reabsorption
+Intra and extracellular exchange 
+between K+ and H+Metabolic alkalosis
+↑ PGE2
+79
+
+=== PDF PAGE 78 ===
+genetic mutation in epithelial sodium channel that transports sodium 
+into cells. This mutation leads to loss of ability to be degraded and 
+high amounts of the channel being chronically present on the 
+collecting duct epithelium.(hyperaldosteronism-like state)
+• high blood pressure
+• low plasma renin, normal to low levels of aldosterone,
+• kidney: excessive reabsorption of Na + and loss of K+ (metabolic 
+alkalosis, hypokalemia)
+Liddle's syndrome
+or Liddle syndrome
+
+=== PDF PAGE 79 ===
+Diuretic therapy
+• Loop diuretics: alkalosis (in ascendent loop Na+-K+-2Cl− symporter)
+• Thiazide diuretics: alkalosis (in distal tubules Na+Cl− symporter) 
+• (note: inhibitors of carbonic anhydrase induce acidosis)
+
+
+=== PDF PAGE 80 ===
+Diuretic therapy
+Loop diuretics act on the Na+-K+-2Cl− symporter in the thick ascending 
+limb of the loop of Henle to inhibit sodium, chloride and potassium 
+reabsorption. 
+• Thus more Na+ continue to distal tubule 
+where the increased Na+ increase 
+excretion of K+and H+ (hypokalemia and 
+alkalosis)
+• It also 
+inhibits magnesium and calcium reabsor
+ption that depends on electric gradient
+• Used in treatment of lung edema: 
+decreased venous return to heart
+
+=== PDF PAGE 81 ===
+Diuretic therapy
+• Thiazide inhibit the sodium-chloride 
+symporter which has the function of 
+reabsorbing sodium and chloride ions 
+causing the body to release NaCl and 
+water
+• hypokalemia and alkalosis
+
+
+=== PDF PAGE 82 ===
+Simple (with or without compensation) and 
+Mixed acid base disturbances
+
+
+=== PDF PAGE 83 ===
+Davenpost diagram
+https://www.youtube.com/watch?v=snp5oq-hLpg&t=237s
+A shift of the parameters toward 
+normal pH on a diagonal
+
+=== PDF PAGE 84 ===
+Normal pH doesn‘t have to be healthy 
+person.
+
+
+=== PDF PAGE 85 ===
+• Negative inotropic (contractility), and chronotropic (heart rate) 
+effect but it is neutralized by catecholamines that are also 
+stimulated by acidosis.
+• Inhibit CNS including respiratory centers
+• In systemic vessels, 
+• acidosis causes vasodilation in peripheral arterioles but is 
+also offset by catecholamine, so that peripheral vascular 
+resistance remains relatively constant. 
+• In brain, vasodilation can cause edema.
+• in the venous system, the direct effect of acidosis 
+is vasoconstriction, which is further enhanced by 
+catecholamine release: prevent lung edema
+• Osteoporosis : Ca2+ and phosphate liberated from bone 
+(hydroxyapatite, Ca5(PO4)3(OH)) 
+• Final stage: coma (due to H+-mediated protein denaturation in 
+CNS, dehydration, hyperosmolarity in diabetic ketoacidosis)
+Acidemia: general effect
+
+=== PDF PAGE 86 ===
+• Acute alkalosis increases binding and reduces free plasma Ca2+ 
+leading to tetany
+• Compensation of MA by hypoventilation is limited by O2
+• In brain, vasoconstriction that decrease its perfusion
+• Final stage: coma or asphyxia
+Alkalemia: general effect
+
+=== PDF PAGE 87 ===
+A 65-year-old man comes to the physician with a 3-hour history of 
+shortness of breath after feeling ill for the past week. His BMI is 30 kg/m2. 
+His temperature is 38.3°C (101°F), pulse is 96/min, respirations are 
+20/min and shallow, and blood pressure is 145/90 mm Hg.
+pH 7.33
+PO2 61 mm Hg
+PCO2 50 mm Hg
+HCO3
+- 26 mEq/L
+1. Case
+
+=== PDF PAGE 88 ===
+1. Compensations for Respiratory Acidosis
+• Acute respiratory acidosis
+• HCO3 increases by 1 for every 10 mm increases in pCO2
+• Chronic respiratory acidosis
+• HCO3 increases by 3 for every 10 mm increases in pCO2
+
+=== PDF PAGE 89 ===
+1. Description
+pH 7.33
+PO2 61 mm Hg
+PCO2 50 mm Hg
+HCO3
+- 26 mEq/L
+1-2 mEq/L increase in HCO3
+- for every 10 mm Hg increase in PCO2.
+PCO2 increase = 50-40 = 10 mm Hg.
+HCO3
+- increase predicted = (1-2) x (10/10) = 1-2 mEq/L
+add to 24 mEq/L (reference point) = 25-26 mEq/L
+R
+acid
+ acute
+History suggests hypoventilation, supported by increased PCO2 and lower than 
+anticipated PO2.
+Respiratory acidosis (acute) due to no renal compensation.
+
+=== PDF PAGE 90 ===
+Obesity hypoventilation syndrome (OHS)
+or Pickwickian Syndrome
+• is defined as a combination of Obesity (BMI>40 kg/m2), daytime 
+hypoventilation characterized by hypercapnia and hypoxemia 
+(PaCO2 > 45 mm Hg and PaO2 < 70 mm Hg at sea level) and sleep-
+disordered breathing (SDB) in the absence of an alternative cause 
+for hypoventilation like obstructive or restrictive lung disease, chest 
+wall disorders like kyphoscoliosis, neuromuscular disorders and 
+congenital central hypoventilation
+
+=== PDF PAGE 91 ===
+A 56-year-old woman with COPD is brought to the physician with a 3-
+hour history of shortness of breath. Her temperature is 37°C 
+(98.6°F), pulse is 90/min, respirations are 22/min and shallow, and 
+blood pressure is 135/80 mm Hg.
+pH 7.39
+PO2 62 mm Hg
+PCO2 52 mm Hg
+HCO3
+- 29 mEq/L
+2. Case
+
+=== PDF PAGE 92 ===
+2. Compensations for Respiratory Acidosis
+• Acute respiratory acidosis
+• HCO3 increases by 1 for every 10 mm increases in pCO2
+• Chronic respiratory acidosis
+• HCO3 increases by 3 for every 10 mm increases in pCO2
+
+=== PDF PAGE 93 ===
+2. Description
+pH 7.39
+PO2 62 mm Hg
+PCO2 52 mm Hg
+HCO3
+- 29 mEq/L
+3-4 mEq/L increase in HCO3
+- for every 10 mm Hg increase in PCO2.
+PCO2 increase = 52-40 = 12 mm Hg.
+HCO3
+- increase predicted = (3-4) x (12/10) = 4-5 mEq/L
+add to 24 mEq/L (reference point) = 28-29 mEq/L
+History suggests hypoventilation, supported by increased PCO2.
+Respiratory acidosis (chronic) with renal compensation.
+R
+acid
+ chronic
+
+=== PDF PAGE 94 ===
+A 17-year-old woman is brought to the physician with a 3-hour history 
+of epigastric pain and nausea.  She admits taking a large dose of 
+aspirin.  Her respirations are 20/min and full.
+pH 7.55
+PO2 104 mm Hg
+PCO2 25 mm Hg
+HCO3
+- 22 mEq/L
+3. Case
+
+=== PDF PAGE 95 ===
+3. Compensations for Respiratory Alkalosis
+• Acute respiratory alkalosis
+• HCO3 decreases by 1-2 for every 10 mm decrease in pCO2
+• Chronic respiratory alkalosis
+• HCO3 decreases by 4 for every 10 mm decrease in pCO2
+
+=== PDF PAGE 96 ===
+3. Description
+pH 7.55
+PO2 104 mm Hg
+PCO2 25 mm Hg
+HCO3
+- 22 mEq/L
+1-2 mEq/L decrease in HCO3
+- for every 10 mm Hg decrease in PCO2.
+PCO2 decrease = 40-25 = 15 mm Hg.
+HCO3
+- decrease predicted = (1-2) x (15/10) = 2-3 mEq/L
+subtract from 24 mEq/L (reference point) = 21-22 mEq/L
+R
+alk
+ acute
+History suggests hyperventilation, supported by decreased PCO2.
+Respiratory alkalosis (acute) due to no renal compensation.
+
+=== PDF PAGE 97 ===
+A 81-year-old woman with a history of anxiety is brought to the 
+physician with a 2-day history of shortness of breath.  She has been 
+living at 9,000 ft elevation for the past 1 month.  Her respirations are full 
+at 20/min.
+pH 7.44
+PO2 69 mm Hg
+PCO2 24 mm Hg
+HCO3
+- 16 mEq/L
+4. Case
+
+=== PDF PAGE 98 ===
+4. Compensations for Respiratory Alkalosis
+• Acute respiratory alkalosis
+• HCO3 decreases by 1-2 for every 10 mm decrease in pCO2
+• Chronic respiratory alkalosis
+• HCO3 decreases by 4 for every 10 mm decrease in pCO2
+
+=== PDF PAGE 99 ===
+4. Description
+pH 7.44
+PO2 69 mm Hg
+PCO2 24 mm Hg
+HCO3
+- 16 mEq/L
+4-5 mEq/L decrease in HCO3
+- for every 10 mm Hg decrease in PCO2.
+PCO2 decrease = 40-24 = 16 mm Hg.
+HCO3
+- decrease predicted = (4-5) x (16/10) = 6-8 mEq/L
+subtract from 24 mEq/L (reference point) = 16-18 mEq/L
+R
+alk
+ chronic
+History suggests hyperventilation, supported by decreased PCO2.
+Respiratory alkalosis (chronic) with renal compensation.
+
+=== PDF PAGE 100 ===
+A 75-year-old man with severe congestive heart failure is brought to the 
+emergency department.  He takes none of his prescribed medications.  
+His respirations are 24/min and blood pressure is 80/50 mm Hg.  He 
+has decreased urine output; his baseline creatinine concentration has 
+been 1.6 mg/dL.
+pH 7.19 Na+ 135 mEq/L
+PO2 80 mm Hg K+ 4.0 mEq/L
+PCO2 21 mm Hg Cl- 97 mEq/L
+HCO3
+- 8 mEq/L CO2, total 8 mEq/L
+Lactate 20 mEq/L Urea 54 mg/dL
+Creatinine 2.5 mg/dL
+5. Case
+
+=== PDF PAGE 101 ===
+5. Compensations for Metabolic Acidosis
+• Metabolic acidosis with appropriate respiratory compensation 
+• 1.2 mm Hg decrease in PCO2 for every 1 mEq/L decrease in HCO3
+-.
+
+=== PDF PAGE 102 ===
+5. Description
+pH 7.19 Na+ 135 mEq/L
+PO2 80 mm Hg K+ 4.0 mEq/L
+PCO2 21 mm Hg Cl- 97 mEq/L
+HCO3
+- 8 mEq/L CO2, total 8 mEq/L
+Lactate 20 mEq/L Urea 54 mg/dL
+AG = 135-97-8=30 mEq/L Creatinine 2.5 mg/dL
+DR = (30-12)/(24-8) = 1.1
+1.2 mm Hg decrease in PCO2 for every 1 mEq/L decrease in HCO3
+-.
+HCO3
+- decrease = 24-8  = 16 mEq/L 
+PCO2 decrease predicted = 1.2 x 16 = 19 mm Hg.
+subtract from 40 mm Hg (reference point) = 21 mm Hg
+M
+acid
+ increased AG
+History suggests congestive heart failure (poor perfusion).
+Metabolic acidosis with appropriate respiratory compensation.
+
+=== PDF PAGE 103 ===
+Strong Ion Difference (SID)
+• Another approach to assess acid-base disturbance that is based on the 
+difference between the concentrations of strong cations and strong anions. 
+(Astrup measures pH, HCO3
+- and pCO2) 
+• SID = [strong cations] – [strong anions]
+• apparent SID = SIDa = (Na+ + K+ + Ca2+ + Mg2+) – (Cl– + L-lactate + urate)
+• In normal human plasma the SID is 42 mEq/L
+• the number of positive and negative ions in a solution must be equal (SID = 0), 
+so there are unmeasured anions
+• increased SID (>0) leads to alkalosis (increase in unmeasured anions)
+• decreased SID (<0) acidosis
+
+=== PDF PAGE 104 ===
+References
+Look up the particular theme in the following indexes
+• Porth's Pathophysiology: Concepts of Altered Health States (9th 
+Edition) by Sheila Grossman, Carol Mattson Porth. Wolters Kluwer 
+Health | Lippincott Williams & Wilkins, 2014. 
+• McCance K. L., Huether S. E.: Pathophysiology. 8th Edition. Mosby, 
+2018. 
+• Silbernagl S, Lang F. Color Atlas of Pathophysiology, 3rd Ed. 
+Thieme, 2016. 
+• https://pfyziol.upol.cz/ - selected text passages (according to 
+teachers' recommendations) 
